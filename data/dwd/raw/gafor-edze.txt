@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-962
-FBEU40 EDZE 261200
+140
+FBEU40 EDZE 261800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 26.09.2026, 12.00 UTC bis 27.09.2026, 09.00 UTC
+gültig vom 26.09.2026, 18.00 UTC bis 27.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
@@ -17,23 +17,26 @@ zieht nach Nordosten ab. Dann gelangt aus Südwesten sehr warme Luft
 nach Westdeutschland.
 
 Wettergeschehen:
-Es zeigt sich verbreitet BKN/OVC CI/CS oberhalb FL200, in einem
-breiten Streifen vom Niederrhein bis Ostwestfalen gebietsweise OVC
-AS/AC/CS mit tiefsten Untergrenzen zwischen FL140 und FL160.
-Obergrenzen oberhalb FL245. Darunter ziehen örtlich dünne
-SC/AC-Schichten zwischen FL070 und FL100 durch.
+Es zeigt sich verbreitet BKN CI/CS oberhalb FL200, in einem breiten
+Streifen von West nach Ost BKN/OVC AS/AC/CS mit tiefsten Untergrenzen
+zwischen FL140 und FL160. Obergrenzen oberhalb FL245. Darunter ziehen
+örtlich dünne SC/AC-Schichten zwischen FL070 und FL100 durch. Im
+Nordwesten auch noch letzte FEW/SCT SC-Felder zwischen 2500-5000 FT
+AMSL, im weiteren Verlauf des Abends allmählich auflösend.
 
-Im weiteren Verlauf verlagert sich der Streifen der
-AS/AC/CS-Bewölkung zunächst etwas nach Süden, bevor er im Laufe der
-Nacht zum Sonntag nach Nordosten zieht und zunehmend ausschichtet.
-Darunter sind weiterhin SCT/BKN SC/AC-Felder zwischen FL070 und FL100
+Im Laufe der Nacht zum Sonntag kommt der Streifen mit dichter
+AS/AC/CS-Bewölkung nach Nordosten voran und schichtet aus. Darunter
+sind weiterhin SCT/BKN SC/AC-Felder zwischen FL070 und FL100
 wahrscheinlich, die in der zweiten Nachthälfte schwerpunktmäßig in
 die Nordhälfte vorankommen. Im Falle von größeren Ausschichtungen
 sind besonders an der Westgrenze flache Nebelfelder möglich.
 
-Sonntagvormittag verbreitet SCT/BKN CI oberhalb FL220 mit
-gebietsweise AC-Schichten um FL160, darunter vereinzelt SC-Felder um
-5000 FT AMSL möglich.
+Sonntagvormittag neben SCT/BKN LYR AC/CI ab FL160-180 vorübergehend
+größere Bereiche mit wolkenlosen Bedingungen.
+
+Am Sonntagnachmittag von Südwesten wieder vermehrt SCT/BKN LYR AC/CI
+ab FL140-180, Obergrenzen oberhalb FL245. Darunter im Westen flache
+FEW CU um 5000 FT AMSL möglich.
 
 Sichtweite:
 30-70 km. In der Nacht zum Sonntag Rückgang auf 20 bis 40 km,
@@ -42,23 +45,23 @@ Sichten unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 340/05KT  19C | 150/10KT  19C |
-1000FT | 350/05KT  18C | 160/25KT  19C |
-1500FT | 350/05KT  16C | 180/25KT  19C |
-2000FT | 360/05KT  15C | 180/20KT  19C |
-3000FT | 270/05KT  14C | 190/20KT  17C |
-5000FT | 240/15KT  12C | 190/20KT  13C |
-FL100  | 250/20KT  01C | 220/20KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 050/10KT  17C | 160/10KT  19C |
+1000FT | 070/15KT  18C | 160/20KT  18C |
+1500FT | 110/10KT  18C | 190/20KT  18C |
+2000FT | 120/05KT  18C | 190/20KT  18C |
+3000FT | 160/05KT  16C | 200/20KT  15C |
+5000FT | 180/10KT  13C | 190/25KT  11C |
+FL100  | 230/15KT  02C | 230/20KT  06C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 160/05KT  20C | 110/05KT  17C |
-1500FT | 150/05KT  18C | 130/20KT  17C |
-2000FT | 280/05KT  17C | 150/20KT  18C |
-3000FT | 250/05KT  16C | 180/25KT  18C |
-5000FT | 230/10KT  12C | 180/20KT  13C |
-FL100  | 260/20KT  01C | 220/20KT  04C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 070/05KT  19C | 140/10KT  19C |
+1500FT | 120/10KT  19C | 140/15KT  17C |
+2000FT | 130/10KT  19C | 160/20KT  17C |
+3000FT | 160/10KT  17C | 190/20KT  17C |
+5000FT | 200/15KT  14C | 190/20KT  13C |
+FL100  | 220/10KT  02C | 220/25KT  06C |
 
 Turbulenz:
 Nicht signifikant.
@@ -66,23 +69,29 @@ Nicht signifikant.
 Vereisung:
 Besonders in dem Streifen dichter mittelhoher Wolken teils mäßig ab
 FL140-160, Obergrenze bei FL210. In der Nacht nachlassende
-Vereisungsgefahr.
+Vereisungsgefahr. Sonntagnachmittag mit erneut zunehmender
+mittelhoher Bewölkung aus Südwesten ganz vereinzelt wieder etwas
+zunehmende Vereisungsgefahr ab FL140.
 
 Nullgradgrenze:
-Meist FL095-105, im Südwesten um FL110. In der Nacht von Westen her
-ansteigend auf FL110-120, zum Morgen westlich des Rheins bereits bei
-FL120-125, im Osten noch FL115-120.
+FL100-110, im Südwesten um FL115, ganz im Osten vereinzelt um FL095.
+Hier in der Nacht vereinzelt Isothermie zwischen FL095 und FL110. In
+der Nacht von Westen her ansteigend auf FL110-120, zum Morgen
+westlich des Rheins bereits bei FL120-125, im Osten noch FL115-120.
+Bis zum Mittag überall auf FL120-125 steigend.
 
 Inversionen:
 Nicht signifikant. In der kommenden Nacht Bodeninversion unterhalb
-von 1000 FT AGL, am Sonntagvormittag anhebend.
+von 1000 FT AGL, vereinzelt auch markant möglich. Am Sonntagvormittag
+anhebend und auflösend. Dann zeigt sich örtlich eine schwache
+Absinkinversion bei 5000-6000 FT AMSL.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Düsseldorf  17.22 | 17.55 | 04.53 | 05.27
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Düsseldorf  04.53 | 05.27 | 17.20 | 17.53
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 27.09.2026 um
+02.00/05.00 UTC
 
-Regionale Wetterberatungszentrale Essen/JK
+Regionale Wetterberatungszentrale Essen/Ts
