@@ -1,26 +1,25 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-820
-FBEU40 EDZB 271200
+186
+FBEU40 EDZB 271800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 27.09.2026, 12.00 UTC bis 28.09.2026, 09.00 UTC
+gültig vom 27.09.2026, 18.00 UTC bis 28.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
 Zwischen einem Hoch über dem Baltikum und einem Tief über den
-Britischen Inseln gelangt mit einer südöstlichen Strömung mäßig warme
-und stabil geschichtete Luft in den Vorhersagebereich.
+Britischen Inseln gelangt mit einer südöstlichen Strömung warme,
+trockene Festlandsluft nach Ostdeutschland.
 
 Wettergeschehen:
-Tagsüber in der Nordhälfte SCT, sonst BKN CI oberhalb FL250.
-In der Nacht zum Montag verbreitet SCT CI oberhalb FL200, in der
-Westhälfte vorübergehend auch SCT/BKN AS/AC um FL150. Gegen Morgen
-ganz vereinzelt Ausbildung flacher Dunst- oder Nebelfelder.
-Nach deren rascher Auflösung am Montagvormittag weiterhin nur SCT CI
-oberhalb FL200.
-Durchweg niederschlagsfrei.
+Nachts im Westen einzelne AC-Felder oberhalb FL100, sonst nur
+Cirrusfelder oder klar. Gegen Morgen örtlich flache Dunst- oder
+Nebelfelder, die sich nach Sonnenaufgang rasch auflösen.
+Am Montag weiterhin nur SCT CI oberhalb FL200, nach Westen hin
+dichter werdend.
+Niederschlagsfrei.
 
 Sichtweite:
 In der zweiten Nachthälfte vereinzelt Nebel mit 0,1 bis 1 km, sonst
@@ -28,23 +27,23 @@ In der zweiten Nachthälfte vereinzelt Nebel mit 0,1 bis 1 km, sonst
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 130/15KT  21C | 160/15KT  11C |
-1000FT | 130/20KT  20C | 170/25KT  14C |
-1500FT | 140/20KT  18C | 190/20KT  17C |
-2000FT | 140/20KT  17C | 190/15KT  18C |
-3000FT | 170/25KT  16C | 200/10KT  17C |
-5000FT | 160/20KT  12C | 200/10KT  14C |
-FL100  | 190/10KT  01C | 250/10KT  04C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 140/20KT  16C | 160/10KT  16C |
+1000FT | 150/35KT  17C | 170/10KT  14C |
+1500FT | 160/35KT  17C | 200/15KT  17C |
+2000FT | 160/35KT  16C | 200/15KT  18C |
+3000FT | 170/30KT  15C | 200/15KT  17C |
+5000FT | 180/20KT  13C | 220/15KT  14C |
+FL100  | 220/10KT  03C | 250/15KT  05C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 130/15KT  22C | 200/15KT  17C |
-1500FT | 130/15KT  20C | 230/10KT  19C |
-2000FT | 130/15KT  18C | 240/10KT  19C |
-3000FT | 150/10KT  15C | 240/05KT  18C |
-5000FT | 160/15KT  13C | 230/05KT  14C |
-FL100  | 260/05KT  03C | 280/15KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 160/15KT  17C | 190/05KT  18C |
+1500FT | 180/15KT  18C | 240/10KT  18C |
+2000FT | 190/20KT  18C | 260/10KT  18C |
+3000FT | 190/15KT  17C | 220/05KT  17C |
+5000FT | 200/10KT  14C | 210/10KT  14C |
+FL100  | 270/10KT  04C | 300/05KT  05C |
 
 Turbulenz:
 Nicht signifikant.
@@ -59,13 +58,13 @@ Inversionen:
 Nachts Bodeninversion bis maximal 1000 FT AGL, nach Sonnenaufgang
 rasch auflösend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Berlin  16.53 | 17.27  | 04.26 | 05.01
-Leipzig  16.58 | 17.31  | 04.33 | 05.06
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Berlin  04.26 | 05.01 | 16.51 | 17.24
+Leipzig  04.33 | 05.06 | 16.56 | 17.28
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 28.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Berlin/Hn
+Luftfahrtberatungszentrale Berlin/Ns

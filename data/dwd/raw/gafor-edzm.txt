@@ -1,82 +1,76 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-726
-FBEU40 EDZM 271200 AMD
+463
+FBEU40 EDZM 271800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 27.09.2026, 12.00 UTC bis 28.09.2026, 09.00 UTC
+gültig vom 27.09.2026, 18.00 UTC bis 28.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
-Süddeutschland befindet sich unter Hochdruckeinfluss im Bereich sehr
-warmer und trockener Luft. Im Lauf des Tages wird in höheren
-Schichten etwas feuchtere Luft herangeführt. In der Nacht zum Montag
-örtlich Ausbildung einer feuchtkalten bodennahen Schicht.
+Süddeutschland befindet sich unter Hochdruckeinfluss im Bereich
+warmer und trockener Luft. In der Nacht örtlich Ausbildung feuchten
+Grundschicht, die Montag wieder abgebaut wird. Montag wird in höheren
+Schichten etwas feuchtere Luft in den Norden geführt.
 
 Wettergeschehen:
-Verbreitet wolkenlos oder Durchzug dünner hoher Wolkenfelder oberhalb
-FL245. Vorzugsweise nördlich der Donau zeitweise auch Durchzug von
-CI-Feldern oberhalb FL170 bis FL200.
+Abgesehen von mittelhohen und hohen Wolkenfeldern ist und bleibt es
+wolkenfrei. In der Nacht meist CI oberhalb FL160-200, ab Montagmittag
+über der Nordhälfte zeitweise SCT AS/CI bei FL120-140, in
+Unterfranken teils auch BKN.
 
-In der Nacht zum Montag zunächst vermehrt CI oberhalb von FL170. Es
-kommt örtlich, besonders im Südosten in Niederbayern und Teilen
-Oberbayerns zur Ausbildung von Dunst- und Nebel. In der zweiten
-Nachthälfte von Westen Aufzug von SCT/BKN AS/CI mit nach Westen
-absinkender Untergrenze in FL120 bis FL140 und Obergrenze oberhalb
-FL245. Bis zum Morgen breitet sich die Bewölkung langsam nach Osten
-aus, lockert dabei besonders südlich der Donau weiter auf.
-Im Vormittagsverlauf lösen sich Dunst und Nebel auf. Die Untergrenze
-der AS/CI-Bewölkung sinkt auf FL100 bis FL120 ab. Gleichzeitig
-lockert die Bewölkung auf und besonders in Ober- und Niederbayern -
-abgesehen vom Bayrischen Wald - löst sich die Bewölkung meist ganz
-auf.
+Nur in der zweiten Nachthälfte bilden sich gebietsweise flache
+Nebelfelder aus. Schwerpunkte sind von Oberfranken bis zu
+Donau-Naab-Region sowie entlang der Donau, Isar, Inn und Salzach. Die
+Nebelfelder bleiben meist flach, nur selten reichen sie bis 100--300
+FT AGL hinauf. Sonst meist nur Wiesennebelfelder. Montagvormittag
+lösen sich die Nebelfelder bis 08 UTC meist auf, nur im Südosten kann
+es auch bis 09 UTC dauern.
 
 Sichtweite:
-30-60 km. Im Dunst 2-5 km, im Nebel kleinräumig unter 1 km. Nachts
-Rückgang auf 20-40 km.
+30-60 km. Nachts Rückgang auf 20-40 km, im Nebel 200-600 m. Tagsüber
+wieder auf 30-60 km ansteigend.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  15 UTC  |  06 UTC  |
-1500FT | 130/10KT  21C | 140/10KT  15C |
-2000FT | 130/10KT  20C | 160/10KT  16C |
-3000FT | 140/10KT  17C | 270/05KT  18C |
-5000FT | 200/05KT  16C | 280/05KT  15C |
+AMSL  |  21 UTC  |  09 UTC  |
+1500FT | 140/15KT  18C | 130/05KT  18C |
+2000FT | 150/20KT  18C | 130/05KT  17C |
+3000FT | 190/15KT  18C | 210/05KT  18C |
+5000FT | 240/10KT  17C | 280/05KT  15C |
 FL100  | 270/15KT  06C | 270/05KT  06C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  15 UTC  |  06 UTC  |
-2000FT | 090/10KT  21C | 130/05KT  14C |
-3000FT | 100/10KT  17C | 210/05KT  18C |
-5000FT | 260/05KT  16C | 010/05KT  15C |
-FL100  | 290/10KT  06C | 300/10KT  06C |
+AMSL  |  21 UTC  |  09 UTC  |
+2000FT | 120/10KT  17C | 100/05KT  15C |
+3000FT | 170/05KT  19C | 160/05KT  19C |
+5000FT | 250/05KT  16C | 090/05KT  16C |
+FL100  | 310/10KT  07C | 320/10KT  06C |
 
 Turbulenz:
 Es wird keine mäßige oder starke Turbulenz erwartet.
 
 Vereisung:
-Ausgangs der Nacht zum Montag in der AS/CI-Bewölkung lokal mäßig
-zwischen FL120 und FL170.
+Es wird keine mäßige oder starke Vereisung erwartet.
 
 Nullgradgrenze:
 Zwischen FL120 und FL130.
 
 Inversionen:
-Absinkinversion in 3500-5000 FT AMSL übergehend, abends absinkend. In
-der Nacht zum Montag erneute Ausbildung markanter Bodeninversion mit
+In der Nacht zum Montag Ausbildung einer markanten Bodeninversion mit
 Obergrenze bei 500-1000 FT AGL, teils mit Absinkinversion verbindend,
 dann Obergrenze bei 3500-4000 FT AGL. Im Verlauf des Montagvormittag
-Anheben der Bodeninversio und Übergang in Absinkinversion, bis zum
-Mittag in 1500 bis 2500 FT AMSL
+Anheben der Bodeninversion, bis zum Mittag auf 3000 FT AMSL,
+nachmittags abschwächend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Nürnberg  17.03 | 17.35 | 04.37 | 05.11
-München  17.01 | 17.31 | 04.35 | 05.07
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Nürnberg  04.39 | 05.11 | 17.01 | 17.33
+München  04.35 | 05.07 | 16.58 | 17.28
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 28.09.2026 um 02.00
+UTC
 
-Luftfahrtberatungszentrale München/**
+Luftfahrtberatungszentrale München/pk
