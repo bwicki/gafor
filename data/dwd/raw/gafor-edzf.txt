@@ -1,72 +1,76 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-133
-FBEU40 EDZF 270600
+818
+FBEU40 EDZF 271200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 27.09.2026, 06.00 UTC bis 28.09.2026, 03.00 UTC
+gültig vom 27.09.2026, 12.00 UTC bis 28.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Am Rande eines Hochdruckgebietes über Osteuropa fließt mit
-südwestlicher Strömung ungewöhnlich warme und in höheren
-Luftschichten auch feuchte Luft ein.
+Am Rande eines Hochdruckgebietes über Osteuropa fließt mit einer
+südwestlichen Strömung ungewöhnlich warme und in höheren
+Luftschichten feuchte Luft ein. In der Nacht zum Montag erreichen die
+ersten Ausläufer einer schwachen wellenden Front den Westen des
+Vorhersagegebietes. Mit einer westlichen Strömung wird dabei eine
+feuchtere und labile Luftmasse herangeführt.
 
 Wettergeschehen:
-Zu Beginn zeigt sich nördlich der Mainlinie SCT/BKN AS/CI oberhalb
-von FL100, während südlich davon nur FEW/SCT AS/CI oberhalb von FL180
-vorhanden ist.
-Im Vormittagsverlauf heben die Untergrenzen im Norden an, während
-sich die mittelhohe und hohe Bewölkung auch nach Süden ausweitet,
-dann zeigt sich überall SCT/BKN LYR AS/CI oberhalb von FL150-FL180.
-An diesen Bedingungen ändert sich bis zum Berichtsende wenig.
+Lokal ist eine FEW/SCT LYR AS/CI-Bewölkung oberhalb von FL170
+vorhanden.
+
+Bis zum Abend verdichtet sich die AS/CI-Bewölkung von Westen zu einer
+SCT/BKN AS/CI-Bewölkung mit Untergrenzen zwischen FL150 und FL160.
+Die Obergrenzen liegen oberhalb von FL245.
+
+Im Laufe der Nacht zum Montag sich lokal einzelne Dunst- oder flache
+Nebelfelder nicht ausgeschlossen. Bis zum Montagmorgen sinken die
+Untergrenzen der AS/CI-Bewölkung auf um FL130 ab und die Dunst- und
+flache Nebelfelder lösen sich rasch auf.
 
 Sichtweite:
-Am Morgen 10-20 km, im Tagesverlauf auf 20-40 km steigend.
+40 bis 60 km, im Dunst 1 bis 5 km, im Nebel unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 130/05KT  19C | 230/05KT  18C |
-1500FT | 140/05KT  17C | 180/10KT  20C |
-2000FT | 150/10KT  16C | 180/20KT  20C |
-3000FT | 170/25KT  17C | 210/25KT  19C |
-5000FT | 170/20KT  15C | 220/25KT  14C |
-FL100  | 210/20KT  03C | 260/25KT  07C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 160/10KT  25C | 310/05KT  14C |
+1500FT | 160/15KT  23C | 210/05KT  18C |
+2000FT | 160/15KT  22C | 220/05KT  18C |
+3000FT | 160/15KT  18C | 230/05KT  16C |
+5000FT | 210/20KT  15C | 270/15KT  14C |
+FL100  | 250/20KT  06C | 270/20KT  06C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 260/05KT  18C | 190/05KT  25C |
-1500FT | 210/05KT  20C | 260/05KT  24C |
-2000FT | 200/05KT  20C | 270/05KT  23C |
-3000FT | 200/10KT  19C | 260/10KT  20C |
-5000FT | 230/10KT  15C | 240/15KT  16C |
-FL100  | 240/20KT  06C | 260/20KT  05C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 160/05KT  27C | 320/05KT  21C |
+1500FT | 160/05KT  25C | 160/05KT  22C |
+2000FT | 180/05KT  24C | 180/05KT  22C |
+3000FT | 210/10KT  21C | 220/05KT  19C |
+5000FT | 230/10KT  16C | 250/05KT  15C |
+FL100  | 240/20KT  06C | 310/10KT  05C |
 
 Turbulenz:
-Am Vormittag rund um die Rhön mäßig unterhalb 5000 FT AMSL, am
-Nachmittag abschwächend.
+Keine signifikante.
 
 Vereisung:
-Nicht signifikant.
+Vereinzelt mäßig zwischen FL130 und FL230.
 
 Nullgradgrenze:
-Anfangs zwischen FL100 im Norden und FL130 im Süden. Im Tagesverlauf
-auch im Norden anhebend, ab dem Nachmittag dann zwischen FL125 und
-FL135.
+Um FL130, bis zum Montagmorgen im Norden auf um FL120 absinkend.
 
 Inversionen:
-Zu Beginn Bodeninversion bis 1000 FT AGL, die insbesondere Richtung
-Süden auch stark ausgeprägt ist. Im Vormittagsverlauf auflösend und
-in der kommenden Nacht wieder neu entstehend.
+In der Nacht zum Montag Ausbildung einer flachen Bodeninversion
+unterhalb 1200 FT AGL, im Laufe des Morgens auflösend.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Gießen  04.46 | 05.19 | 17.13 | 17.44
-Karlsruhe  04.49 | 05.20 | 17.14 | 17.46
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Gießen  17.13 | 17.44 | 04.48 | 05.21
+Karlsruhe  17.14 | 17.46 | 04.50 | 05.21
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Flugwetterzentrale Frankfurt/Bo
+Flugwetterzentrale Frankfurt/MJ

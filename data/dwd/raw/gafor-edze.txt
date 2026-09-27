@@ -1,56 +1,52 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-250
-FBEU40 EDZE 270600
+000
+FBEU40 EDZE 271200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 27.09.2026, 06.00 UTC bis 28.09.2026, 03.00 UTC
+gültig vom 27.09.2026, 12.00 UTC bis 28.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
 Wetterlage und -entwicklung:
-Ein Hochdruckgebiet verlagert sich von Mittel- nach Osteuropa, bleibt
-aber weiterhin wetterbestimmend. Mit einer südlichen Strömung wird
-bodennah trockene Warmluft herangeführt. In der Höhe ist die
-Luftmasse zeitweise feuchter.
+Zwischen hohem Druck in Nordosteuropa und mehreren Tiefdrucksystemen
+im Nordatlantik fließt mit einer südwestlichen Strömung ungewöhnlich
+warme Luft nach Westdeutschland, welche besonders in höheren
+Luftschichten feuchter ist.
 
 Wettergeschehen:
-Teils ausgeschichtete, teils kompakte SCT/BKN AC/CI/CS-Bewölkung ab
-FL080 bis oberhalb FL245.
+Gebietsweise SCT/BKN CI ab FL180, darunter örtlich AC-Felder ab FL150
+und einzelne dünne CU/SC zwischen 5000 und 6000 FT AMSL. Bis in die
+Nacht zum Montag wenig Änderung.
 
-Am Vormittag allgemein größere Auflockerungen mit nur noch dünnen
-AC-Feldern um FL150 und SCT, örtlich BKN CI oberhalb FL170.
-
-Am Nachmittag im Westen vereinzelt FEW CU um 5000 FT AMSL. Sonst
-nimmt die mittelhohe und hohe AC/CI-Bewölkung langsam wieder zu, vor
-allem am Montagfrüh im Westen dann meist kompakter, im Osten noch
-ausgeschichteter BKN/OVC AC/AS/CS ab FL130 bis oberhalb FL245. Im
-gesamten Vorhersagezeitraum niederschlagsfrei.
+Im Verlauf der zweiten Nachthälfte von Westen verdichtende BKN/OVC
+AC/AS/CS und auf FL130-160 absinkend, Obergrenzen oberhalb FL245.
+Darunter vereinzelt durchziehende SC/AC-Felder zwischen 5000 FT AMSL
+und FL120 möglich. Vormittags keine signifikante Änderung.
 
 Sichtweite:
-20-40 km, im Westen und Norden gebietsweise um 8 km und flache
-Nebelfelder möglich. Im Vormittagsverlauf 40-70 km. In der Nacht zum
-Montag nur wenig Sichtrückgang, am ehesten im Nordwesten von NRW.
+40-70 km. Kommende Nacht kaum Sichtrückgang, aber flache Tal- sowie
+Wiesennebelfelder möglich.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 160/15KT  20C | 210/05KT  22C |
-1000FT | 160/20KT  18C | 240/10KT  21C |
-1500FT | 180/25KT  19C | 250/15KT  20C |
-2000FT | 180/20KT  19C | 250/20KT  19C |
-3000FT | 200/20KT  17C | 240/20KT  16C |
-5000FT | 190/20KT  12C | 210/20KT  12C |
-FL100  | 230/20KT  06C | 240/25KT  04C |
+AMSL  |  15 UTC  |  06 UTC  |
+ 500FT | 300/05KT  25C | 160/10KT  19C |
+1000FT | 210/05KT  23C | 170/10KT  20C |
+1500FT | 160/05KT  21C | 190/10KT  19C |
+2000FT | 160/05KT  21C | 200/10KT  18C |
+3000FT | 170/15KT  18C | 230/05KT  15C |
+5000FT | 190/20KT  13C | 250/15KT  13C |
+FL100  | 230/25KT  05C | 240/25KT  04C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 130/10KT  19C | 200/05KT  22C |
-1500FT | 140/15KT  17C | 220/10KT  21C |
-2000FT | 150/25KT  17C | 230/15KT  20C |
-3000FT | 180/25KT  17C | 240/20KT  17C |
-5000FT | 190/20KT  13C | 220/15KT  13C |
-FL100  | 220/20KT  06C | 240/25KT  06C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 170/10KT  25C | 090/05KT  17C |
+1500FT | 170/15KT  23C | 160/05KT  18C |
+2000FT | 170/15KT  22C | 180/05KT  18C |
+3000FT | 170/15KT  18C | 240/05KT  16C |
+5000FT | 200/20KT  13C | 260/15KT  13C |
+FL100  | 230/25KT  07C | 250/20KT  06C |
 
 Turbulenz:
 Nicht signifikant.
@@ -59,25 +55,21 @@ Vereisung:
 In dichterer mittelhoher Bewölkung selten mäßig bis maximal FL200.
 
 Nullgradgrenze:
-Im Nordosten FL095-100, sonst FL115-FL125. Ab dem Mittag überall
-FL120-FL125. Im Laufe der zweiten Nachthälfte der Nacht zum Montag
-von Westen her auf FL115-FL120 sinkend.
+FL120-FL125. Im Laufe der zweiten Nachthälfte zum Montag von Westen
+her auf FL115-FL120 sinkend.
 
 Inversionen:
-Anfangs Bodeninversion unterhalb von 1000 FT AGL, bei 20 Grad in 1000
-FT AGL vereinzelt auch markant. Am Vormittag anhebend und auflösend.
-Dann bis in die Nacht zum Montag gebietsweise schwache
-Absinkinversion bei FL060-FL070.
+Schwache Absinkinversion bei FL060-FL070, im Verlauf der Nacht zum
+Montag auflösend. Darunter aber Bildung einer im Verlauf teils
+markanten Bodeninversion unterhalb etwa 1000 FT AGL, welche nach
+Sonnenaufgang anhebt.
 
-Kommende Nacht erneut Bildung einer im Verlauf teils markanten
-Bodeninversion unterhalb etwa 1000 FT AGL, dann bis 22 Grad in 1000
-FT AGL.
-
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Düsseldorf  04.53 | 05.27 | 17.20 | 17.53
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Düsseldorf  17.20 | 17.53 | 04.55 | 05.28
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
 Regionale Wetterberatungszentrale Essen/JK
