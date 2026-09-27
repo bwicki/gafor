@@ -1,97 +1,86 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-140
-FBEU40 EDZE 261800
+046
+FBEU40 EDZE 270300
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 26.09.2026, 18.00 UTC bis 27.09.2026, 15.00 UTC
+gültig vom 27.09.2026, 03.00 UTC bis 28.09.2026, 00.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
 Wetterlage und -entwicklung:
-Während bodennah unter Hochdruckeinfluss trockene Luft
-wetterbestimmend ist, sind in Höhe die Reste einer Kaltfront von
-einem Tief über Skandinavien mit feuchter, stabiler Luft
-wetterbestimmend. Diese wird in der Nacht zum Sonntag rückläufig und
-zieht nach Nordosten ab. Dann gelangt aus Südwesten sehr warme Luft
-nach Westdeutschland.
+Ein Hochdruckgebiet verlagert sich von Mittel- nach Osteuropa, bleibt
+aber weiterhin wetterbestimmend. Mit einer südlichen Strömung wird
+bodennah trockene Warmluft herangeführt. In der Höhe ist die
+Luftmasse zeitweise feuchter.
 
 Wettergeschehen:
-Es zeigt sich verbreitet BKN CI/CS oberhalb FL200, in einem breiten
-Streifen von West nach Ost BKN/OVC AS/AC/CS mit tiefsten Untergrenzen
-zwischen FL140 und FL160. Obergrenzen oberhalb FL245. Darunter ziehen
-örtlich dünne SC/AC-Schichten zwischen FL070 und FL100 durch. Im
-Nordwesten auch noch letzte FEW/SCT SC-Felder zwischen 2500-5000 FT
-AMSL, im weiteren Verlauf des Abends allmählich auflösend.
+Im äußersten Westen zeitweise SCT/BKN SC zwischen FL055 und FL065.
+Sonst nur teils ausgeschichtete, teil kompakte SCT/BKN
+AC/CI/CS-Bewölkung ab FL080 bis oberhalb FL245.
 
-Im Laufe der Nacht zum Sonntag kommt der Streifen mit dichter
-AS/AC/CS-Bewölkung nach Nordosten voran und schichtet aus. Darunter
-sind weiterhin SCT/BKN SC/AC-Felder zwischen FL070 und FL100
-wahrscheinlich, die in der zweiten Nachthälfte schwerpunktmäßig in
-die Nordhälfte vorankommen. Im Falle von größeren Ausschichtungen
-sind besonders an der Westgrenze flache Nebelfelder möglich.
+Am Vormittag Auflösung des SC im Westen und allgemein größere
+Auflockerungen. Über Mittag im äußersten Nordwesten eventuell
+vorübergehend FEW flache CU um 5000 FT AMSL. Sonst meist nur noch
+dünne AC-Felder um FL150 und SCT, nur noch örtlich BKN CI oberhalb
+FL170.
 
-Sonntagvormittag neben SCT/BKN LYR AC/CI ab FL160-180 vorübergehend
-größere Bereiche mit wolkenlosen Bedingungen.
-
-Am Sonntagnachmittag von Südwesten wieder vermehrt SCT/BKN LYR AC/CI
-ab FL140-180, Obergrenzen oberhalb FL245. Darunter im Westen flache
-FEW CU um 5000 FT AMSL möglich.
+An diesen Bedingungen ändert sich am Nachmittag, am Abend und in der
+Nacht zum Montag wenig, wobei die hohe Bewölkung insgesamt wieder
+zunimmt. Im gesamten Vorhersagezeitraum niederschlagsfrei.
 
 Sichtweite:
-30-70 km. In der Nacht zum Sonntag Rückgang auf 20 bis 40 km,
-hauptsächlich an der Westgrenze Bildung von flachen Nebelfeldern mit
-Sichten unter 1 km.
+20-40 km, im Westen und Norden gebietsweise um 8 km und flache
+Nebelfelder möglich. Im Vormittagsverlauf 40-70 km. In der Nacht zum
+Montag nur wenig Sichtrückgang, am ehesten im Nordwesten von NRW.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 050/10KT  17C | 160/10KT  19C |
-1000FT | 070/15KT  18C | 160/20KT  18C |
-1500FT | 110/10KT  18C | 190/20KT  18C |
-2000FT | 120/05KT  18C | 190/20KT  18C |
-3000FT | 160/05KT  16C | 200/20KT  15C |
-5000FT | 180/10KT  13C | 190/25KT  11C |
-FL100  | 230/15KT  02C | 230/20KT  06C |
+AMSL  |  06 UTC  |  18 UTC  |
+ 500FT | 150/10KT  18C | 360/05KT  23C |
+1000FT | 150/20KT  19C | 280/05KT  22C |
+1500FT | 170/20KT  19C | 240/10KT  20C |
+2000FT | 180/20KT  19C | 240/10KT  20C |
+3000FT | 190/20KT  17C | 220/15KT  18C |
+5000FT | 190/25KT  13C | 190/20KT  13C |
+FL100  | 230/20KT  04C | 240/25KT  05C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 070/05KT  19C | 140/10KT  19C |
-1500FT | 120/10KT  19C | 140/15KT  17C |
-2000FT | 130/10KT  19C | 160/20KT  17C |
-3000FT | 160/10KT  17C | 190/20KT  17C |
-5000FT | 200/15KT  14C | 190/20KT  13C |
-FL100  | 220/10KT  02C | 220/25KT  06C |
+AMSL  |  06 UTC  |  18 UTC  |
+1000FT | 110/05KT  18C | 170/05KT  23C |
+1500FT | 140/15KT  18C | 180/15KT  23C |
+2000FT | 150/20KT  18C | 190/20KT  22C |
+3000FT | 170/25KT  18C | 200/20KT  19C |
+5000FT | 180/20KT  14C | 210/15KT  13C |
+FL100  | 210/20KT  04C | 240/20KT  06C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-Besonders in dem Streifen dichter mittelhoher Wolken teils mäßig ab
-FL140-160, Obergrenze bei FL210. In der Nacht nachlassende
-Vereisungsgefahr. Sonntagnachmittag mit erneut zunehmender
-mittelhoher Bewölkung aus Südwesten ganz vereinzelt wieder etwas
-zunehmende Vereisungsgefahr ab FL140.
+Anfangs örtlich mäßig zwischen FL095 und FL150, im Vormittagsverlauf
+meist nicht mehr signifikant.
 
 Nullgradgrenze:
-FL100-110, im Südwesten um FL115, ganz im Osten vereinzelt um FL095.
-Hier in der Nacht vereinzelt Isothermie zwischen FL095 und FL110. In
-der Nacht von Westen her ansteigend auf FL110-120, zum Morgen
-westlich des Rheins bereits bei FL120-125, im Osten noch FL115-120.
-Bis zum Mittag überall auf FL120-125 steigend.
+Im Osten und Norden teils mehrere zwischen FL095 und FL110, sonst
+FL115-FL125. Ab dem Mittag überall FL120-FL125. Im Laufe der zweiten
+Nachthälfte der Nacht zum Montag von Westen her auf FL115-FL120
+sinkend.
 
 Inversionen:
-Nicht signifikant. In der kommenden Nacht Bodeninversion unterhalb
-von 1000 FT AGL, vereinzelt auch markant möglich. Am Sonntagvormittag
-anhebend und auflösend. Dann zeigt sich örtlich eine schwache
-Absinkinversion bei 5000-6000 FT AMSL.
+Anfangs Bodeninversion unterhalb von 1000 FT AGL, bei 20 Grad in 1000
+FT AGL vereinzelt auch markant. Am Vormittag anhebend und auflösend.
+Dann bis in die Nacht zum Montag gebietsweise schwache
+Absinkinversion bei FL060-FL070.
+Sonntagabend erneut Bildung einer im Verlauf teils markanten
+Bodeninversion unterhalb etwa 1000 FT AGL, dann bis 22 Grad in 1000
+FT AGL.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Düsseldorf  04.53 | 05.27 | 17.20 | 17.53
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 27.09.2026 um
-02.00/05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
 
-Regionale Wetterberatungszentrale Essen/Ts
+Regionale Wetterberatungszentrale Essen/Hu
