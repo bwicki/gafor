@@ -4,21 +4,21 @@ GAFOR-Einstufung LBZ Hamburg
 
 GAFOR Bereich LBZ Hamburg 27.09.2026
 
-Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
 00  Deutsche Bucht  C  C  C
 
-01  Ostfriesland  D3 ISOL FG  O ISOL FG  C
+01  Ostfriesland  C  C  C
 
-02  Nordfriesland-Dithmarschen  M6 OCNL FG  D3 ISOL FG  C
+02  Nordfriesland-Dithmarschen  C  C  C
 
-03  Schleswig-Holsteinische Geest  M6 OCNL FG  D3 ISOL FG  C
+03  Schleswig-Holsteinische Geest  C  C  C
 
-04  Schleswig-Holsteinisches Hügelland  M6 OCNL FG  D3 ISOL FG  C
+04  Schleswig-Holsteinisches Hügelland  C  C  C
 
-05  Nordwestliches Niedersachsen  D3 ISOL FG  D3 ISOL FG  C
+05  Nordwestliches Niedersachsen  C  C  C
 
-06  Lüneburger Heide  D3 ISOL FG  O ISOL FG  C
+06  Lüneburger Heide  C  C  C
 
 07  Westliches Niedersachsen  C  C  C
 
@@ -32,17 +32,17 @@ GAFOR-Einstufung LBZ Berlin
 
 GAFOR Bereich LBZ Berlin 27.09.2026
 
-Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
-11  Mecklenburgisches Tiefland  X OCNL FG  X ISOL FG  C
+11  Mecklenburgisches Tiefland  C  C  C
 
-12  Vorpommern  X OCNL FG  X ISOL FG  C
+12  Vorpommern  C  C  C
 
-13  Westliche Mecklenburgische Seenplatte und Prignitz  M6 ISOL FG  M6 ISOL FG  C
+13  Westliche Mecklenburgische Seenplatte und Prignitz  C  C  C
 
-14  Östliche Mecklenburgische Seenplatte und Uckermark  D3 ISOL FG  D3 ISOL FG  C
+14  Östliche Mecklenburgische Seenplatte und Uckermark  C  C  C
 
-15  Altmark  D3 ISOL FG  D3  C
+15  Altmark  C  C  C
 
 16  Fläming  C  C  C
 
@@ -74,7 +74,7 @@ GAFOR-Einstufung RWZ Essen
 
 GAFOR Bereich RWZ Essen 27.09.2026
 
-Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
 31  Niederrheinisches Tiefland  C  C  C
 
@@ -98,7 +98,7 @@ GAFOR-Einstufung FWZ Frankfurt
 
 GAFOR Bereich FWZ Frankfurt 27.09.2026
 
-Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
 41  Hunsrück  C  C  C
 
@@ -128,7 +128,7 @@ GAFOR-Einstufung LBZ Muenchen
 
 GAFOR Bereich LBZ Muenchen 27.09.2026
 
-Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
 54  Mainfranken und Nördliches Unterfranken  C  C  C
 
@@ -154,7 +154,7 @@ Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
 
 74  Südbayerisches Hügelland  C  C  C
 
-75  Östliche Donau- und Naabniederung  D3  O  C
+75  Östliche Donau- und Naabniederung  C  C  C
 
 76  Bayerischer Wald  C  C  C
 

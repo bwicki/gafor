@@ -1,49 +1,51 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-933
-FBEU40 EDZM 261800
+132
+FBEU40 EDZM 270600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 26.09.2026, 18.00 UTC bis 27.09.2026, 15.00 UTC
+gültig vom 27.09.2026, 06.00 UTC bis 28.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
 Süddeutschland befindet sich unter Hochdruckeinfluss im Bereich sehr
-warmer und trockener Luft. In der Nacht zum Sonntag bildet sich dabei
-örtlich eine feuchtkalte bodennahe Schicht, die sich bis zum
-Vormittag wieder auflöst. In höheren Schichten wird am Sonntag etwas
-feuchtere Luft herangeführt.
+warmer und trockener Luft. Im Lauf des Tages wird in höheren
+Schichten etwas feuchtere Luft herangeführt. Anfangs lokal
+feuchtkalte bodennahe Schicht, die in der Nacht zum Montag örtlich
+erneut ausgebildet wird.
 
 Wettergeschehen:
 Verbreitet wolkenlos oder Durchzug dünner hoher Wolkenfelder oberhalb
-FL245. In der zweiten Nachthälfte in einigen Tälern und in
-Gewässernähe lokal Bildung flacher Dunst- und/oder Nebelfelder.
-
-Im Laufe des Morgens Auflösung etwaiger Dunst-/Nebelfelder.
-Anschließend und abseits davon verbreitet wolkenlos. Zeit- und
+FL245. In den Früh- und Vormittagsstunden in Unterfranken Durchzug
+von SCT/BKN AC/CI oberhalb von FL130-150. Ansonsten nur Zeit- und
 gebietsweise, besonders über der Nordwesthälfte, Durchzug hoher
 CI-Felder oberhalb FL180-220.
 
+In der Nacht zum Montag dann nördlich der Donau vermehrt Durchzug von
+hohen CI-Feldern. Lokal in einigen Tälern und in Gewässernähe
+Ausbildung flacher Dunst- und/oder Nebelfelder. In der zweiten
+Nachthälfte im Westen Aufzug von SCT/BKN AC/CI oberhalb FL130-150.
+
 Sichtweite:
-Nachts 20-40 km. Im Dunst 2-5 km, im Nebel kleinräumig unter 1 km.
-Morgens und vormittags Sichtbesserung auf 30-60 km.
+30-60 km. Im Dunst 2-5 km, im Nebel kleinräumig unter 1 km. Nachts
+Rückgang auf 20-40 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  21 UTC  |  09 UTC  |
-1500FT | 130/10KT  19C | 130/10KT  17C |
-2000FT | 140/10KT  18C | 130/10KT  16C |
-3000FT | 160/05KT  15C | 150/15KT  15C |
-5000FT | 170/05KT  13C | 170/05KT  14C |
-FL100  | 260/10KT  04C | 280/15KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 130/10KT  17C | 140/15KT  19C |
+2000FT | 130/10KT  16C | 150/20KT  19C |
+3000FT | 150/15KT  15C | 180/15KT  18C |
+5000FT | 160/05KT  14C | 240/10KT  17C |
+FL100  | 280/10KT  04C | 270/10KT  06C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  21 UTC  |  09 UTC  |
-2000FT | 120/10KT  17C | 090/05KT  14C |
-3000FT | 130/05KT  16C | 130/10KT  16C |
-5000FT | 280/05KT  14C | 200/05KT  15C |
-FL100  | 270/10KT  04C | 300/10KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 100/05KT  14C | 120/10KT  17C |
+3000FT | 120/10KT  16C | 170/05KT  19C |
+5000FT | 180/05KT  15C | 260/05KT  16C |
+FL100  | 300/10KT  06C | 300/10KT  07C |
 
 Turbulenz:
 Es wird keine mäßige oder starke Turbulenz erwartet.
@@ -52,19 +54,22 @@ Vereisung:
 Es wird keine mäßige oder starke Vereisung erwartet.
 
 Nullgradgrenze:
-Zwischen FL120 im Norden und FL130 an den Alpen.
+Zwischen FL120 und FL130.
 
 Inversionen:
-Absinkinversion bei 4000 bis 5000 FT AMSL. Darunter nachts Bildung
-einer ausgeprägten Bodeninversion mit Obergrenze bei 500-1000 FT AGL.
+Anfangs ausgeprägte Bodeninversion mit Obergrenze bei 500-1000 FT
+AGL, in den Frühstunden anhebend und zu Absinkinversion in 3500-5000
+FT AMSL übergehend, abends absinkend. In der Nacht zum Montag erneute
+Ausbildung markanter Bodeninversion mit Obergrenze bei 500-1000 FT
+AGL, teils mit Absinkinversion verbindend, dann Obergrenze bei
+3500-4000 FT AGL.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Nürnberg  04.38 | 05.09 | 17.03 | 17.35
 München  04.33 | 05.06 | 17.01 | 17.31
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 27.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale München/pv
+Luftfahrtberatungszentrale München/RY

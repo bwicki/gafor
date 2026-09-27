@@ -1,71 +1,65 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-006
-FBEU40 EDZB 261800
+119
+FBEU40 EDZB 270600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 26.09.2026, 18.00 UTC bis 27.09.2026, 15.00 UTC
+gültig vom 27.09.2026, 06.00 UTC bis 28.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Eine kaum wetterwirksame Luftmassengrenze erstreckt sich von Ost nach
-West über Ostdeutschland. Sie trennt etwas kühlere, feuchtere
-Meeresluft im Norden von wärmerer, trockener Festlandsluft im Süden.
-Die Lage bleibt auch am Sonntag erhalten.
+Zwischen einem Hoch über dem Nordosten Europas und einem Tief
+nordwestlich der Britischen Inseln liegt der Vorhersagebereich einer
+südöstlichen Strömung im Zufluss mäßig warmer, stabil geschichteter
+Luft.
 
 Wettergeschehen:
-Aktuell über Sachsen-Anhalt und Brandenburg SCT/BKN SC/AS/CS bei
-Fl080 mit Obergrenzen geschichtet bis FL250. Örtlich leichter Regen
-möglich, meist aber trocken. In den übrigen Gebieten CI-Felder um
-FL200 und niederschlagsfrei.
-
-In der Nacht wenig Änderung. In Mecklenburg-Vorpommern und in der
-Niederlausitz bald Bildung von Dunstfeldern, gegen Mitternacht in den
-Urstromtälern und Seenplatten Mecklenburg-Vorpommerns Sowie im
-Spreewald Bildung von Nebel, teils mit Stratus um 300 FT AGL. In den
-übrigen Gebieten Frühdunst.
-
-Am Sonntagvormittag langsam auflösende Dunst- und Nebelfelder im
-Norden. Sonst verbreitet SCT/BKN AS/CI oberhalb FL160 mit örtlich
-flachen SC-Feldern um FL060 darunter. Niederschlagsfrei.
+In Mecklenburg-Vorpommern gebietsweise Nebel, Obergrenzen zum Teil
+300 bis 500 FT AGL, darüber wolkenlos, am Vormittag Auflösung des
+Nebels.
+Im übrigen Vorhersagegebiet BKN/OVC AC/AS/CI in Schichten bei FL080
+und FL120, Obergrenzen dabei in Sachsen-Anhalt und Brandenburg bei
+FL120 bis FL140, in Thüringen und Sachsen bis oberhalb FL245. Es
+bleibt ganztägig niederschlagsfrei, im Tagesverlauf Auflösen des
+AC/AS, übrig bleibt CI oberhalb FL180.
 
 Sichtweite:
-20 bis 40 km, in der Nacht v. a. im Norden 2-4 km, örtlich Nebel um
-500 m.
+In Mecklenburg-Vorpommern gebietsweise 100 bis 500 m im Nebel, nach
+Sonnenaufgang auflösend, sonst 30 bis 50 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 070/05KT  15C | 110/10KT  15C |
-1000FT | 080/10KT  15C | 130/15KT  14C |
-1500FT | 110/05KT  14C | 150/25KT  15C |
-2000FT | 110/05KT  13C | 150/20KT  15C |
-3000FT | 160/05KT  11C | 150/20KT  14C |
-5000FT | 260/05KT  09C | 170/15KT  11C |
-FL100  | 270/15KT  01C | 250/05KT  01C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 120/10KT  15C | 130/15KT  15C |
+1000FT | 130/20KT  14C | 150/30KT  17C |
+1500FT | 150/25KT  16C | 160/35KT  17C |
+2000FT | 150/25KT  15C | 160/35KT  16C |
+3000FT | 160/20KT  14C | 170/30KT  15C |
+5000FT | 180/15KT  11C | 180/20KT  13C |
+FL100  | 280/10KT M01C | 210/10KT  03C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 130/10KT  20C | 130/05KT  17C |
-1500FT | 130/10KT  19C | 160/10KT  18C |
-2000FT | 130/05KT  18C | 150/10KT  17C |
-3000FT | 160/05KT  15C | 150/10KT  15C |
-5000FT | 060/05KT  12C | 140/15KT  12C |
-FL100  | 290/05KT M00C | 150/05KT  01C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 140/05KT  17C | 160/15KT  18C |
+1500FT | 170/10KT  18C | 180/15KT  18C |
+2000FT | 160/10KT  17C | 190/20KT  18C |
+3000FT | 150/15KT  15C | 190/15KT  17C |
+5000FT | 140/15KT  12C | 210/10KT  15C |
+FL100  | 160/05KT  01C | 270/10KT  05C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-In unterkühlter Bewölkung leicht bis mäßig zwischen FL100 und FL180.
+Nicht signifikant.
 
 Nullgradgrenze:
-Meist FL100, ab Sonntagmittag im Süden auf FL120 steigend.
+Um FL100, bis zur Nacht zum Montag auf FL120 bis FL125 ansteigend.
 
 Inversionen:
-In der Nacht zum Sonntag verbreitet Bildung einer Bodeninversion
-unterhalb 1000 FT AGL, am Vormittag langsam auflösend.
+Am Morgen Bodeninversion bis maximal 1000 FT AGL, nach Sonnenaufgang
+rasch auflösend.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Berlin  04.25 | 05.00 | 16.53 | 17.27
@@ -73,7 +67,6 @@ Leipzig  04.31 | 05.05 | 16.58 | 17.31
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 27.09.2026 um
-02.00/05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale Berlin/Ns
+Luftfahrtberatungszentrale Berlin/Sae

@@ -1,79 +1,72 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-934
-FBEU40 EDZF 261800
+133
+FBEU40 EDZF 270600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 26.09.2026, 18.00 UTC bis 27.09.2026, 15.00 UTC
+gültig vom 27.09.2026, 06.00 UTC bis 28.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Hochdruckeinfluss bleibt im Vorhersagebereich mit trockener, warmer
-und stabil geschichteter Luft wetterbestimmend. Anfangs wird von
-Nordwesten etwas feuchtere Luft in mittleren und hohen Luftschichten
-herangeführt, die sich vor allem in der Nordhälfte des
-Vorhersagebereichs ausbreitet.
+Am Rande eines Hochdruckgebietes über Osteuropa fließt mit
+südwestlicher Strömung ungewöhnlich warme und in höheren
+Luftschichten auch feuchte Luft ein.
 
 Wettergeschehen:
-Am Abend SCT/BKN AC/CI-Bewölkung Oberhalb von FL150 im Norden.
-Darunter zeigt sich in Nordhessen kurzzeitig BKN/OVC SC oberhalb von
-FL080-100. Dabei bleibt es aber meist niederschlagsfrei.
-Im Süden generell wolkenarm.
-
-In der Nacht zieht die etwas kompaktere Bewölkung in Nordhessen
-wieder ostwärts ab, nördlich der Mainlinie bleibt es bei dichterer
-CI-Bewölkung oberhalb von FL180-200 und lokaler AC-Bewölkung um
-FL100, südlich ist es vielfach wolkenfrei oder es zieht dünne
-CI-Bewölkung oberhalb von FL200 durch.
-Am Sonntag ändert sich an diesen Bedingungen wenig.
+Zu Beginn zeigt sich nördlich der Mainlinie SCT/BKN AS/CI oberhalb
+von FL100, während südlich davon nur FEW/SCT AS/CI oberhalb von FL180
+vorhanden ist.
+Im Vormittagsverlauf heben die Untergrenzen im Norden an, während
+sich die mittelhohe und hohe Bewölkung auch nach Süden ausweitet,
+dann zeigt sich überall SCT/BKN LYR AS/CI oberhalb von FL150-FL180.
+An diesen Bedingungen ändert sich bis zum Berichtsende wenig.
 
 Sichtweite:
-30-70 km.
+Am Morgen 10-20 km, im Tagesverlauf auf 20-40 km steigend.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 040/05KT  17C | 120/05KT  18C |
-1500FT | 140/05KT  19C | 140/05KT  16C |
-2000FT | 150/05KT  18C | 160/10KT  16C |
-3000FT | 160/10KT  17C | 170/25KT  16C |
-5000FT | 190/10KT  14C | 180/20KT  14C |
-FL100  | 250/10KT  02C | 220/20KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 130/05KT  19C | 230/05KT  18C |
+1500FT | 140/05KT  17C | 180/10KT  20C |
+2000FT | 150/10KT  16C | 180/20KT  20C |
+3000FT | 170/25KT  17C | 210/25KT  19C |
+5000FT | 170/20KT  15C | 220/25KT  14C |
+FL100  | 210/20KT  03C | 260/25KT  07C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 100/05KT  23C | 320/05KT  18C |
-1500FT | 130/05KT  23C | 210/05KT  20C |
-2000FT | 140/05KT  22C | 200/05KT  20C |
-3000FT | 160/05KT  19C | 210/10KT  18C |
-5000FT | 150/05KT  15C | 230/10KT  15C |
-FL100  | 250/15KT  03C | 240/20KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 260/05KT  18C | 190/05KT  25C |
+1500FT | 210/05KT  20C | 260/05KT  24C |
+2000FT | 200/05KT  20C | 270/05KT  23C |
+3000FT | 200/10KT  19C | 260/10KT  20C |
+5000FT | 230/10KT  15C | 240/15KT  16C |
+FL100  | 240/20KT  06C | 260/20KT  05C |
 
 Turbulenz:
-Am Sonntag in der Rhön und dem Vogelsbergs lokal mäßig zwischen SFC
-und FL060.
+Am Vormittag rund um die Rhön mäßig unterhalb 5000 FT AMSL, am
+Nachmittag abschwächend.
 
 Vereisung:
-Am Abend in Nordhessen zeitweise mäßig zwischen FL100 und FL200, in
-der Nacht nach Osten abziehend.
+Nicht signifikant.
 
 Nullgradgrenze:
-Um FL130-135, im Norden FL100-105. Am Sonntagvormittag auch im Norden
-auf FL125 ansteigend.
+Anfangs zwischen FL100 im Norden und FL130 im Süden. Im Tagesverlauf
+auch im Norden anhebend, ab dem Nachmittag dann zwischen FL125 und
+FL135.
 
 Inversionen:
-In der Nacht bildet sich eine flache Bodeninversion aus.
-Im Süden mit einer Temperaturdifferenz um 10 Grad. Diese löst sich am
-Vormittag auf.
+Zu Beginn Bodeninversion bis 1000 FT AGL, die insbesondere Richtung
+Süden auch stark ausgeprägt ist. Im Vormittagsverlauf auflösend und
+in der kommenden Nacht wieder neu entstehend.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Gießen  04.46 | 05.19 | 17.13 | 17.44
 Karlsruhe  04.49 | 05.20 | 17.14 | 17.46
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 27.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Flugwetterzentrale Frankfurt/Go
+Flugwetterzentrale Frankfurt/Bo
