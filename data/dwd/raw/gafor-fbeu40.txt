@@ -4,23 +4,23 @@ GAFOR-Einstufung LBZ Hamburg
 
 GAFOR Bereich LBZ Hamburg 28.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
-00  Deutsche Bucht  O ISOL RA  D1 ISOL RA  D1
+00  Deutsche Bucht  D1  D1 ISOL SHRA  D1 ISOL SHRA
 
-01  Ostfriesland  D3 ISOL RA  O ISOL RA  O
+01  Ostfriesland  O  D1 ISOL SHRA  D1 ISOL SHRA
 
-02  Nordfriesland-Dithmarschen  O ISOL RA  O ISOL RA  O
+02  Nordfriesland-Dithmarschen  D1  D1 ISOL SHRA  D1 ISOL SHRA
 
-03  Schleswig-Holsteinische Geest  C  C  C
+03  Schleswig-Holsteinische Geest  C  C ISOL SHRA  C ISOL SHRA
 
 04  Schleswig-Holsteinisches Hügelland  C  C  C
 
-05  Nordwestliches Niedersachsen  C  O ISOL RA  O ISOL RA
+05  Nordwestliches Niedersachsen  O ISOL SHRA  O ISOL SHRA  O ISOL SHRA
 
 06  Lüneburger Heide  C  C  C
 
-07  Westliches Niedersachsen  C  O ISOL RA  O ISOL RA
+07  Westliches Niedersachsen  O  O ISOL SHRA  O ISOL SHRA
 
 08  Hannover und Braunschweig  C  C  C
 
@@ -32,7 +32,7 @@ GAFOR-Einstufung LBZ Berlin
 
 GAFOR Bereich LBZ Berlin 28.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 11  Mecklenburgisches Tiefland  C  C  C
 
@@ -74,11 +74,11 @@ GAFOR-Einstufung RWZ Essen
 
 GAFOR Bereich RWZ Essen 28.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
-31  Niederrheinisches Tiefland  C  C  C
+31  Niederrheinisches Tiefland  C  C  O ISOL SHRA
 
-32  Münsterland  C  C  C
+32  Münsterland  C  C  O ISOL SHRA
 
 33  Ruhrgebiet und Ostwestfalen  C  C  C
 
@@ -98,7 +98,7 @@ GAFOR-Einstufung FWZ Frankfurt
 
 GAFOR Bereich FWZ Frankfurt 28.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 41  Hunsrück  C  C  C
 
@@ -128,7 +128,7 @@ GAFOR-Einstufung LBZ Muenchen
 
 GAFOR Bereich LBZ Muenchen 28.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 54  Mainfranken und Nördliches Unterfranken  C  C  C
 
@@ -152,15 +152,15 @@ Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
 
 73  Westliche Donauniederung  C  C  C
 
-74  Südbayerisches Hügelland  O ISOL FG  C  C
+74  Südbayerisches Hügelland  C  C  C
 
-75  Östliche Donau- und Naabniederung  O ISOL FG  C  C
+75  Östliche Donau- und Naabniederung  C  C  C
 
 76  Bayerischer Wald  C  C  C
 
 81  Westliches Alpenvorland  C  C  C
 
-82  Östliches Alpenvorland  O ISOL FG  C  C
+82  Östliches Alpenvorland  C  C  C
 
 83  Allgäuer Alpen  C  C  C
 

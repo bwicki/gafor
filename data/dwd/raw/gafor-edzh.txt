@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-217
-FBEU40 EDZH 280600
+771
+FBEU40 EDZH 281200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 28.09.2026, 06.00 UTC bis 29.09.2026, 03.00 UTC
+gültig vom 28.09.2026, 12.00 UTC bis 29.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
@@ -13,32 +13,44 @@ Die schwache Kaltfront eines Tiefs mit Kern bei Island erstreckt sich
 über das Europäische Nordmeer und Südnorwegen hinweg bis in die
 Normandie. Zwischen ihr und einem Hoch über Osteuropa wird warme bis
 sehr warme Luft aus südlichen Richtungen herangeführt. Am Nachmittag
-wird die Kaltfront etwa auf einer Linie Ijsselmeer - Nordfriesland
-erwartet und im weiteren Verlauf allmählich rückläufig. Rückseitig
-baut sich über der mittleren Nordsee eine Hochdruckzelle auf.
+liegt die Kaltfront etwa auf einer Linie Ijsselmeer - Nordfriesland
+und verlagert ihre Position bis zum Ende der ersten Nachthälfte
+nicht. Im weiteren Verlauf wird sie allmählich rückläufig und zieht
+zum Berichtsende nach Norden bis Nordwesten ab.
 
 Wettergeschehen:
-Südöstlich etwa einer Linie Münsterland - Nordfriesland zeigt sich
-verbreitet LYR BKN/OVC AC/CI mit Untergrenzen in FL100 bis FL140 und
-Obergrenzen oberhalb von FL245. Nordwestlich dieser Linie ist die
-Bewölkung verdichtet zu BKN/OVC SC/AC/CI mit Untergrenzen bei 2500
+Südöstlich etwa einer Linie mittleres Emsland - Nordfriesland zeigt
+sich verbreitet LYR BKN/OVC AC/CI mit Untergrenzen in FL170 bis FL190
+und Obergrenzen oberhalb von FL245. Nordwestlich dieser Linie ist die
+Bewölkung verdichtet zu SCT/BKN SC/AC/CI mit Untergrenzen bei 2500
 bis 4000 FT AMSL und die Obergrenzen liegen oberhalb von FL245.
 Daraus fällt meist leichter, teils mäßiger Regen, der durch ISOL EMBD
 CB mit Tops bis FL180 schauerartig verstärkt sein kann. Im
 Niederschlag sinken die Wolkenuntergrenzen auf 800 bis 1500 FT AGL,
-vereinzelt auch auf um 500 FT AGL ab. Bis zum Mittag kommt die
-frontale Bewölkung etwa bis zur Linie Teutoburger Wald - Fehmarn
-voran, der Niederschlag erreicht in abgeschwächter Form die Linie
-Emsland - Angeln.
-Frontvorderseitig kann sich am Nachmittag örtlich FEW/SCT CU mit
-Basis um 3500 FT AMSL und Obergrenzen bis zu 5000 FT AMSL bilden, die
-sich am Abend rasch auflösen. In den Abend- und Nachtstunden
-intensiviert sich der Niederschlag im Nordwesten (nordwestlich der
-Linie Teuto - Fehmarn) zunehmend. Die ISOL EMBD CB-Tops steigen auf
-FL280 bis FL320 an und es treten Gewitter auf. Durch den mäßigen bis
-starken und schauerartig verstärkten Niederschlag sinken nun die
-Wolkenuntergrenzen verbreitet auf 600 bis 1200 FT AGL, gebietsweise
-auch auf 300 FT AGL ab.
+vereinzelt auch auf um 500 FT AGL ab.
+
+Frontvorderseitig kann sich örtlich FEW/SCT CU mit Basis um 3500 FT
+AMSL und Obergrenzen bis zu 5000 FT AMSL bilden, die sich am Abend
+rasch auflösen. In den Abend- und Nachtstunden intensiviert sich der
+Niederschlag im Nordwesten zwischen Grafschaft Bentheim und Kieler
+Bucht zunehmend. Die ISOL EMBD CB-Tops steigen auf FL280 bis FL320 an
+und es treten Gewitter auf. Durch den mäßigen bis starken und
+schauerartig verstärkten Niederschlag sinken nun die
+Wolkenuntergrenzen verbreitet 1200-2000 FT AMSL ab, gebietsweise auch
+auf 500-800 FT AGL ab. In der zweiten Nachthälfte schwächen sich die
+Niederschläge ab, lokal kann es jedoch noch zu Schauern oder
+kurzlebigen Gewittern kommen.
+
+Ausgangs der Nacht und in den Vormittagsstunden verlagert sich der
+Niederschlag nach Norden bis Nordwesten, sodass nur noch ein schmaler
+Streifen der Deutschen Bucht nördlich von Helgoland betroffen ist.
+Verbreitet lockert die Bewölkung südlich einer Linie
+Dollart-Elbmündung-Fehmarn zu FEW/SCT LYR SC/AC/CI mit Untergrenzen
+in 4000-5000 FT AMSL auf, die Obergrenzen liegen oberhalb FL245.
+Lokal kann es wolkenfrei sein. Nördlich der Linie zeigen sich lokal
+flache SCT/BKN ST Felder in 600-800 FT AGL, lokal können die als
+Nebel absinken. Zudem sind weiterhin ISOL CB mit Untergrenzen um 4000
+FT AMSL und Tops bis FL380 aktiv.
 
 Sichtweite:
 Bei 30 bis 60 km. Im Niederschlag erfolgt je nach Art und Intensität
@@ -46,24 +58,24 @@ ein Rückgang auf 3 bis 8 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 00-04:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 200/05KT  17C | 340/05KT  16C |
-1000FT | 210/10KT  17C | 330/05KT  16C |
-1500FT | 220/10KT  16C | 260/05KT  15C |
-2000FT | 220/15KT  16C | 250/05KT  14C |
-3000FT | 240/20KT  13C | 210/15KT  13C |
-5000FT | 240/20KT  11C | 210/15KT  11C |
-FL100  | 250/30KT  04C | 210/25KT  02C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 250/05KT  19C | 040/10KT  16C |
+1000FT | 250/05KT  18C | 060/10KT  16C |
+1500FT | 250/10KT  16C | 120/05KT  16C |
+2000FT | 250/10KT  16C | 160/05KT  15C |
+3000FT | 240/20KT  13C | 200/05KT  13C |
+5000FT | 230/25KT  11C | 210/15KT  12C |
+FL100  | 230/35KT  03C | 230/25KT  03C |
 
 GAFOR-Gebiete 05-10:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 230/05KT  21C | 060/05KT  22C |
-1000FT | 240/05KT  20C | 080/05KT  22C |
-1500FT | 240/05KT  19C | 100/05KT  21C |
-2000FT | 230/10KT  18C | 100/05KT  20C |
-3000FT | 240/10KT  16C | 130/05KT  17C |
-5000FT | 260/10KT  13C | 180/10KT  14C |
-FL100  | 240/20KT  04C | 240/20KT  05C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 290/05KT  25C | 090/05KT  18C |
+1000FT | 290/05KT  23C | 110/10KT  20C |
+1500FT | 280/05KT  21C | 120/10KT  21C |
+2000FT | 280/05KT  20C | 120/15KT  20C |
+3000FT | 260/05KT  17C | 130/10KT  18C |
+5000FT | 200/05KT  13C | 110/05KT  15C |
+FL100  | 220/20KT  04C | 230/15KT  04C |
 
 Turbulenz:
 In und in der Nähe von CB mäßig bis stark.
@@ -73,22 +85,23 @@ In der frontalen Bewölkung oberhalb der Nullgradgrenze gebietsweise
 mäßig bis etwa FL220. Ansonsten in CB mäßig bis stark.
 
 Nullgradgrenze:
-Im Norden bei FL110 bis FL120 und im Süden um FL125. Ab dem
-Nachmittag im Nordwesten langsam auf FL105 bis FL115 und im Süden auf
-FL125 absinkend.
+Im Norden um FL115, im Südosten um FL125. In der Nacht im Nordwesten
+langsam auf FL105 absinkend und in den Vormittagsstunden erneut auf
+FL115 ansteigend. Im Süden weitgehend unverändert um FL120.
 
 Inversionen:
-Über Land zeigt sich verbreitet eine Bodeninversion unterhalb von
-1500 FT AMSL, die sich bis zum späten Vormittag auflöst und nach
-Sonnenuntergang erneut ausbildet. Über der Ostsee zeigt sich eine
-permanente Inversion unterhalb von 2000 FT AMSL.
+Über Land verbreitet Ausbildung einer Bodeninversion unterhalb von
+1500 FT AMSL nach Sonnenuntergang. Bis zum Berichtsende löst diese
+sich zögerlich auf. Über der Ostsee zeigt sich eine permanente
+Inversion unterhalb von 2000 FT AMSL.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Schleswig  04.42 | 05.18 | 17.06 | 17.42
-Hannover  04.42 | 05.17 | 17.06 | 17.39
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Schleswig  17.06 | 17.42 | 04.43 | 05.20
+Hannover  17.06 | 17.39 | 04.43 | 05.19
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/BR
+Luftfahrtberatungszentrale Hamburg/SC
