@@ -1,70 +1,76 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-452
-FBEU40 EDZF 271800
+243
+FBEU40 EDZF 280600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 27.09.2026, 18.00 UTC bis 28.09.2026, 15.00 UTC
+gültig vom 28.09.2026, 06.00 UTC bis 29.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
 An der Westflanke eines Hochdruckgebietes über Osteuropa fließt mit
 einer südwestlichen Strömung ungewöhnlich warme und in höheren
-Luftschichten feuchte Luft ein.
+Luftschichten feuchte Luft ein, die im äußersten Westen teils labil
+geschichtet ist.
 
 Wettergeschehen:
-Verbreitet dominiert SCT/BKN AC/CI oberhalb FL160. Es ist trocken.
-Im Laufe der Nacht zum Montag sind lokal einzelne Dunst- oder flache
-Nebelfelder nicht ganz ausgeschlossen, die sich im Laufe des
-Montagvormittags rasch auflösen.
-Im Nachmittagsverlauf verdichtet sich die AC/CI Bewölkung von Westen
-her zu BKN/OVC AS/CI, dabei sinken die Untergrenzen auf FL140 ab. Es
-bleibt weiterhin trocken.
+Es zieht verbreitet über dem gesamten Zeitraum immer wieder FEW/SCT
+bis SCT/BKN AC/AS/CI oberhalb FL140-180 von Südwest nach Nordost
+durch. Diese mittelhohe Bewölkung kann vor allem ab dem Nachmittag
+phasenweise mit BKN/OVC auch mal etwas kompakter sein. Es bleibt aber
+meist trocken.
+
+Ganz im Westen, zwischen Saarland und Eifel ist am Nachmittag und
+Abend ein ISOL CB mit Tops um FL340 und einem Schauer nicht gänzlich
+ausgeschlossen.
+
+In der Nacht zum Dienstag bilden sich nur sehr lokal flache
+Nebelfelder, sonst ändert sich am vorherrschenden Wettergeschehen
+kaum etwas.
 
 Sichtweite:
-40 bis 60 km, im Dunst 1 bis 5 km, im Nebel unter 1 km.
+40 bis 60 km, in lokalem Nebel unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 230/05KT  18C | 190/05KT  19C |
-1500FT | 180/10KT  20C | 190/05KT  17C |
-2000FT | 180/15KT  20C | 200/05KT  17C |
-3000FT | 220/20KT  19C | 220/05KT  17C |
-5000FT | 220/20KT  13C | 270/10KT  15C |
-FL100  | 260/20KT  07C | 260/10KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 240/05KT  20C | 020/05KT  21C |
+1500FT | 200/05KT  18C | 090/05KT  22C |
+2000FT | 190/05KT  18C | 100/10KT  22C |
+3000FT | 210/05KT  17C | 120/10KT  19C |
+5000FT | 260/05KT  14C | 160/05KT  16C |
+FL100  | 250/10KT  07C | 240/20KT  07C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 190/05KT  25C | 360/05KT  20C |
-1500FT | 250/05KT  24C | 040/05KT  22C |
-2000FT | 260/05KT  23C | 080/05KT  22C |
-3000FT | 260/15KT  20C | 130/05KT  19C |
-5000FT | 240/15KT  16C | 170/05KT  15C |
-FL100  | 260/25KT  05C | 280/05KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 330/05KT  21C | 080/10KT  26C |
+1500FT | 050/05KT  22C | 110/10KT  26C |
+2000FT | 100/05KT  22C | 120/10KT  25C |
+3000FT | 130/05KT  19C | 130/10KT  22C |
+5000FT | 180/05KT  15C | 130/05KT  17C |
+FL100  | 260/05KT  05C | 180/05KT  06C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-In der AS/CI Bewölkung am Montagnachmittag vereinzelt mäßig zwischen
-FL140 und FL230.
+In der AC/AS/CI Bewölkung vereinzelt mäßig zwischen FL140 und FL230.
 
 Nullgradgrenze:
-FL120-130.
+FL115-125.
 
 Inversionen:
-In der Nacht zum Montag Ausbildung einer flachen Bodeninversion
-unterhalb 1500 FT AGL, im Laufe des Morgens auflösend.
+Zu Beginn flache, teils kräftige Bodeninversion unterhalb 1000 FT
+AGL, die sich bis zum Vormittag auflöst und in der kommenden Nacht
+erneut ausbildet.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Gießen  04.48 | 05.21 | 17.11 | 17.44
 Karlsruhe  04.50 | 05.21 | 17.12 | 17.44
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 28.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Flugwetterzentrale Frankfurt/sh
+Flugwetterzentrale Frankfurt/mb
