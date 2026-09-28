@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-205
-FBEU40 EDZE 281200
+061
+FBEU40 EDZE 281800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 28.09.2026, 12.00 UTC bis 29.09.2026, 09.00 UTC
+gültig vom 28.09.2026, 18.00 UTC bis 29.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
@@ -12,27 +12,22 @@ Wetterlage und -entwicklung:
 Zwischen hohem Druck über Nordosteuropa und tiefem Druck über dem
 Nordatlantik gelangt mit einer südwestlichen Strömung ungewöhnlich
 warme Luft nach Westdeutschland, welche besonders in höheren
-Luftschichten zeitweise feucht ist. Im Tagesverlauf streift eine kaum
-wetteraktive Front den Nordwesten des Bereichs. Dabei wird die Luft
-in der Höhe etwas labilisiert. Zum Dienstag wird dann der
-Hochdruckeinfluss wieder wetterbestimmender.
+Luftschichten zeitweise feucht ist. Am Abend und eingangs der Nacht
+streift eine kaum wetteraktive Front den Nordwesten des Bereichs.
+Dabei wird die Luft in der Höhe etwas labilisiert. Zum Dienstag wird
+dann der Hochdruckeinfluss wieder wetterbestimmender.
 
 Wettergeschehen:
-Im Nordwesten allmählich auf FL060-100 absinkende Untergrenze, dort
-BKN/OVC LYR SC/AS/CS, zeitweise kompakt. Im restlichen Bereich mal
-mehr, mal weniger dichter SCT/BKN LYR AC/CI ab FL140, zeitweise
-kompakt ab FL160, Obergrenze über FL245. Darunter nur selten mal
-SCT/BKN SC um FL070. Bevorzugt im Nordwesten und Westen kann
-vereinzelt etwas Regen oder kurze Schauer aus ISOL EMBD TCU mit dabei
-sein.
-
-Bis zum Abend sowie eingangs der Nacht kaum Änderung. Weiterhin
-bevorzugt im Nordwesten dichte BKN LYR SC/AC/CI Bewölkung ab FL055
-mit seltenen Niederschlägen in Form von Schauern oder etwas Regen,
-nach Südosten niederschlagsfrei bei BKN AC/CI a FL120 bis FL150.
+Am Abend sowie eingangs der Nacht bestimmt im Nordwesten weiterhin
+dichte BKN LYR SC/AC/CI Bewölkung ab 4500 FT AMSL bis FL070 das
+Wettergeschehen. Oberhalb FL120 ist die Bewölkung hier häufig
+kompakt. Dabei sind vereinzelt kurze Schauer aus ISOL EMBD TCU oder
+etwas Regen möglich. Nach Südosten hin bestimmt meist BKN AC/CI ab
+FL120 bis FL150 das Wettergeschehen. Hier ist die Schauerneigung nur
+sehr gering.
 
 Im Laufe der Nacht zum Dienstag schichtet der AC- etwas aus und es
-bestimmt verbreitet BKN LYR AC/CI ab FL140-FL160 das Wettergeschehen.
+bestimmt verbreitet BKN LYR AC/CI ab FL140-FL170 das Wettergeschehen.
 Nur selten fällt daraus noch etwas Regen, am ehesten ganz im
 Nordwesten.
 Hier ist lokal auch Stratusbildung mit Untergrenzen unter 500 FT AGL
@@ -41,33 +36,34 @@ Am Dienstagvormittag bestimmt dann nach Auflösung etwaiger
 Stratusfelder im Nordwesten verbreitet SCT/BKN AC/CI ab FL140-FL180
 das Wettergeschehen, Obergrenzen oberhalb FL245. Dabei
 niederschlagsfrei.
+An diesen Bedingungen ändert sich bis zum Nachmittag nur wenig.
 
 Sichtweite:
 Meist bei 40-70 km, im Nordwesten zeitweise um 20 km. Bei Regen oder
 Schauern selten mal um 10 km. Kommende Nacht wenig Änderung. Im
 Nordwesten und Westen Dunst oder flacher Nebel nicht ausgeschlossen,
-hier lokal 3-8, vereinzelt auch unter 1 km. Dienstagvormittag
+hier lokal 3-8, vereinzelt auch unter 1 km. Ab Dienstagvormittag
 allgemein wieder 20-60 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 020/05KT  21C | 140/05KT  21C |
-1000FT | 020/05KT  20C | 140/15KT  22C |
-1500FT | 040/05KT  18C | 160/20KT  22C |
-2000FT | 070/05KT  18C | 160/20KT  22C |
-3000FT | 160/05KT  17C | 170/15KT  20C |
-5000FT | 200/15KT  14C | 170/10KT  16C |
-FL100  | 230/30KT  04C | 190/20KT  04C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 040/10KT  18C | 150/10KT  22C |
+1000FT | 060/20KT  19C | 150/25KT  22C |
+1500FT | 090/15KT  20C | 170/20KT  21C |
+2000FT | 100/15KT  20C | 170/20KT  21C |
+3000FT | 150/15KT  18C | 180/15KT  20C |
+5000FT | 180/15KT  15C | 170/20KT  17C |
+FL100  | 200/25KT  04C | 180/25KT  05C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 070/05KT  24C | 100/05KT  21C |
-1500FT | 070/05KT  22C | 120/15KT  20C |
-2000FT | 070/05KT  21C | 140/20KT  21C |
-3000FT | 100/05KT  18C | 150/15KT  20C |
-5000FT | 200/10KT  15C | 160/10KT  16C |
-FL100  | 240/20KT  05C | 180/15KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 070/05KT  21C | 120/10KT  21C |
+1500FT | 110/10KT  21C | 130/15KT  20C |
+2000FT | 130/10KT  21C | 150/20KT  20C |
+3000FT | 160/10KT  19C | 170/20KT  20C |
+5000FT | 190/10KT  16C | 170/15KT  17C |
+FL100  | 200/20KT  06C | 180/20KT  06C |
 
 Turbulenz:
 Meist nicht signifikant, in lokalen TCU mäßig bis stark.
@@ -77,7 +73,7 @@ In dichterer mittelhoher Bewölkung selten mäßig zwischen FZLVL und
 FL200. In lokalen TCU mäßig bis stark.
 
 Nullgradgrenze:
-Im gesamten Zeitraum leicht schwankend zwischen FL110 und FL120 mit
+Im gesamten Zeitraum leicht schwankend zwischen FL115 und FL125 mit
 den höheren Werten im Süden.
 
 Inversionen:
@@ -86,12 +82,12 @@ In der Nacht zum Dienstag teils markante Bodeninversion unterhalb
 etwa 1000-1500 FT AGL. Dienstagvormittag zunächst anhebend,
 nachfolgend auflösend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Düsseldorf  17.18 | 17.50 | 04.57 | 05.30
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Düsseldorf  04.57 | 05.30 | 17.16 | 17.48
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 29.09.2026 um
+02.00/05.00 UTC
 
-Regionale Wetterberatungszentrale Essen/DB
+Regionale Wetterberatungszentrale Essen/DB/Hf

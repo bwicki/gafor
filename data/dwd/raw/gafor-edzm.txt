@@ -1,55 +1,48 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-777
-FBEU40 EDZM 281200
+397
+FBEU40 EDZM 281800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 28.09.2026, 12.00 UTC bis 29.09.2026, 09.00 UTC
+gültig vom 28.09.2026, 18.00 UTC bis 29.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
-Süddeutschland verbleibt am Rand einer umfangreichen Hochdruckzone
-mit Zentrum über Osteuropa. Die Luftmasse ist warm und trocken,
-nachts bildet sich bodennah unter einer flachen Inversion oft eine
-kühle und feuchte Grundschicht, die tagsüber rasch wieder weggeheizt
-wird.
+Süddeutschland verbleibt unter Hochdruckeinfluss. Die Luftmasse ist
+warm und trocken.
 
 Wettergeschehen:
-Abgesehen von wechselnd starken CI - Feldern oberhalb FL200 ziehen in
-Franken SCT/BKN AC - Felder mit Untergrenze zwischen FL120 und FL160
-durch, sonst ist es wolkenlos.
-Nachts lösen sich die AC - Felder auf oder ziehen nach Westen ab,
-bodennah bilden sich in der zweiten Nachthälfte flache Dunst- und
-Nebelfelder, die sich am Dienstag nach Sonnenaufgang wieder auflösen.
-
-Die örtlichen Nebelfelder in den Niederungen lösen sich zwischen 6
-und 7 UTC auf und bilden sich nach Mitternacht erneut. Am Dienstag
-ist es dann abgesehen von lockeren CI - Feldern wolkenlos.
+Es ist und bleibt verbreitet wolkenlos und trocken. In Franken und im
+Kocher-Jagst-Gebiet ziehen dünne hohe CI Wolkenfelder oberhalb FL280
+durch.
+In der zweiten Nachthälfte bilden sich lokal an Flüssen, Seen und in
+feuchten Senken flache Nebelfelder. Der Nebel löst sich am Dienstag
+zwischen 6 und 7 UTC auf. Es bleibt auch am Dienstag abgesehen von
+lockeren CI Wolkenfeldern wolkenlos.
 
 Sichtweite:
-40 bis 60 km.
-In der zweiten Nachthälfte und in den Morgenstunden am Dienstag in
-Niederungen und in Gewässernähe gebietsweise unter 4 km.
+Verbreitet 30 bis 50 km. In den flachen Nebelfeldern am
+Dienstagmorgen 500-1200 m, zwischen 6 und 7 UTC rasch bessernd.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  15 UTC  |  06 UTC  |
-1500FT | 110/05KT  24C | 090/10KT  15C |
-2000FT | 110/05KT  23C | 110/10KT  16C |
-3000FT | 120/05KT  19C | 110/05KT  17C |
-5000FT | 050/05KT  16C | 080/10KT  15C |
-FL100  | 020/05KT  06C | 060/05KT  06C |
+AMSL  |  21 UTC  |  09 UTC  |
+1500FT | 110/15KT  20C | 090/05KT  17C |
+2000FT | 120/15KT  20C | 090/05KT  16C |
+3000FT | 130/10KT  19C | 130/05KT  16C |
+5000FT | 100/10KT  16C | 090/10KT  16C |
+FL100  | 060/05KT  07C | 090/05KT  07C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  15 UTC  |  06 UTC  |
-2000FT | 080/10KT  23C | 100/10KT  13C |
-3000FT | 080/10KT  19C | 090/15KT  17C |
-5000FT | 080/05KT  17C | 080/05KT  16C |
-FL100  | 330/05KT  06C | 040/10KT  07C |
+AMSL  |  21 UTC  |  09 UTC  |
+2000FT | 100/15KT  17C | 090/05KT  15C |
+3000FT | 100/20KT  19C | 110/10KT  16C |
+5000FT | 080/10KT  16C | 080/05KT  17C |
+FL100  | 050/05KT  07C | 060/05KT  07C |
 
 Turbulenz:
-Keine mäßige oder starke Turbulenz.
+Es wird keine mäßige oder starke Turbulenz erwartet.
 
 Vereisung:
 Keine.
@@ -58,16 +51,16 @@ Nullgradgrenze:
 Um FL125.
 
 Inversionen:
-In der kommenden Nacht bodennahe Inversion mit Obergrenze zwischen
-2000 und 2500 FT AMSL.
+Bodeninversion mit Obergrenze zwischen 2000 und 2500 FT AMSL, die am
+Dienstagvormittag wieder abgebaut wird.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Nürnberg  17.01 | 17.33 | 04.39 | 05.12
-München  16.58 | 17.28 | 04.37 | 05.09
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Nürnberg  04.39 | 05.12 | 16.59 | 17.30
+München  04.37 | 05.09 | 16.56 | 17.28
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 29.09.2026 um 02.00
+UTC
 
-Luftfahrtberatungszentrale München/bq
+Luftfahrtberatungszentrale München/st

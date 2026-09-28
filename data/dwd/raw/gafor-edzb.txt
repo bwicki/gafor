@@ -1,80 +1,74 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-772
-FBEU40 EDZB 281200
+376
+FBEU40 EDZB 281800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 28.09.2026, 12.00 UTC bis 29.09.2026, 09.00 UTC
+gültig vom 28.09.2026, 18.00 UTC bis 29.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-An der Westflanke eines umfangreichen Hochdruckgebietes über dem
-Baltikum und Westrussland wird mit südwestlicher, am Boden eher
-südöstlicher Strömung trockene und warme Luft herangeführt. Ein
-schwacher schleifender Frontenzuzug über dem Nordwesten Deutschlands
-macht sich lediglich durch Wolkenfelder bemerkbar.
+Unter weitläufigem Hochdruckeinfluss bleibt das Wetter im
+Vorhersagebereich störungsfrei.
 
 Wettergeschehen:
-Durchzug überwiegend hoher AC/CI-Bewölkung oberhalb FL170. Darunter
-nur vorübergehend AC-Bänke zwischen FL100 und FL140. Ab dem späten
-Nachmittag in der Nordwesthälfte tendenziell verdichtende
-AC/AS/CI-Bewölkung mit absinkenden Untergrenzen bis FL120. In der
-Nacht zeitweise auch Untergrenzen bis FL070. Darunter in Mecklenburg
-örtlich SC-Felder in 4000 bis 7000 FT AMSL. Es bleibt
-niederschlagsfrei.
-Über Ostsachsen am Mittag und frühen Nachmittag böiger Südostwind,
-lokal Böen mit 25KT.
-Nachts und in den Morgenstunden vereinzelt flache Wiesennebelfelder.
+Vor allem in Mecklenburg-Vorpommern und am Westrand von
+Sachsen-Anhalt und Thüringen, ziehen AC/AS -Felder oberhalb von FL150
+durch. In Mecklenburg sinken diese in der Nacht vorübergehend auf
+FL120 ab. Darunter gibt es nur dort vereinzelt flache SC in FL060 bis
+FL070. In den anderen Gebieten ist es entweder wolkenlos oder es gibt
+Cirren oberhalb von FL250. Im Gesamtzeitraum keine wesentliche
+Änderung. Kein Niederschlag.
+
+Über Ostsachsen morgen ab dem späten Vormittag böiger Südostwind,
+lokal mit Böen um 25 KT.
 
 Sichtweite:
-30 bis 70 km. Kommende Nacht wenig Änderung, lediglich in
-Mecklenburg-Vorpommern, sowie in Tal- und Muldenlagen etwas höhere
-Dunst- und Nebelneigung.
+30 bis 70 km. In der Nacht und in den Morgenstunden vereinzelt flache
+Nebelfelder.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 160/05KT  23C | 130/10KT  14C |
-1000FT | 160/05KT  22C | 150/15KT  17C |
-1500FT | 160/05KT  20C | 150/10KT  19C |
-2000FT | 170/05KT  19C | 140/10KT  19C |
-3000FT | 260/05KT  17C | 140/10KT  18C |
-5000FT | 240/10KT  14C | 150/05KT  15C |
-FL100  | 260/10KT  05C | 310/05KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 130/10KT  20C | 130/05KT  17C |
+1000FT | 150/10KT  20C | 150/15KT  16C |
+1500FT | 150/10KT  19C | 160/20KT  19C |
+2000FT | 150/05KT  18C | 160/15KT  19C |
+3000FT | 120/05KT  17C | 150/10KT  18C |
+5000FT | 150/05KT  14C | 140/05KT  15C |
+FL100  | 210/15KT  05C | 110/05KT  05C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 140/05KT  24C | 160/10KT  18C |
-1500FT | 140/05KT  23C | 170/05KT  19C |
-2000FT | 140/05KT  21C | 150/05KT  19C |
-3000FT | 210/05KT  19C | 120/10KT  17C |
-5000FT | 250/05KT  15C | 100/05KT  15C |
-FL100  | 190/05KT  05C | 070/10KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 160/10KT  22C | 140/05KT  18C |
+1500FT | 170/10KT  22C | 170/05KT  18C |
+2000FT | 170/10KT  21C | 160/05KT  18C |
+3000FT | 140/05KT  19C | 130/10KT  17C |
+5000FT | 120/05KT  15C | 090/10KT  15C |
+FL100  | 280/05KT  06C | 120/10KT  06C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-Meist nicht signifikant, im äußersten Nordwesten vereinzelt mäßig in
-unterkühlter mittelhoher Bewölkung.
+In mittelhoher Bewölkung oberhalb von FL120.
 
 Nullgradgrenze:
 Zwischen FL120 im Nordwesten und FL130 im Südosten. In der Nacht in
 Mecklenburg vorübergehend auf FL115 absinkend.
 
 Inversionen:
-Im äußersten Osten Absinkinversion variierend zwischen 1500 und 4000
-FT AMSL. Höhen Kommende Nacht erneut verbreitet Bodeninversion bis
-2000 FT AMSL.
+In der Nacht Ausbildung einer deutlichen Bodeninversion mit
+Obergrenze bei 2000 FT AMSL.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Berlin  16.51 | 17.24  | 04.28 | 05.03
-Leipzig  16.56 | 17.28  | 04.35 | 05.08
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Berlin  04.28 | 05.03 | 16.48 | 17.21
+Leipzig  04.35 | 05.08 | 16.54 | 17.26
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 29.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Berlin/HS
+Luftfahrtberatungszentrale Berlin/Oe
