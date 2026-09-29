@@ -1,66 +1,64 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-376
-FBEU40 EDZB 281800
+424
+FBEU40 EDZB 290600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 28.09.2026, 18.00 UTC bis 29.09.2026, 15.00 UTC
+gültig vom 29.09.2026, 06.00 UTC bis 30.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Unter weitläufigem Hochdruckeinfluss bleibt das Wetter im
-Vorhersagebereich störungsfrei.
+Am Rande eines kräftigen Hochs über Osteuropa hält die Zufuhr warmer
+Luft aus Südost weiterhin an.
+Eine stationäre, schwache Front über der Nordsee und Benelux macht
+sich lediglich durch hohe und mittelhohe Wolkenfelder bemerkbar.
 
 Wettergeschehen:
-Vor allem in Mecklenburg-Vorpommern und am Westrand von
-Sachsen-Anhalt und Thüringen, ziehen AC/AS -Felder oberhalb von FL150
-durch. In Mecklenburg sinken diese in der Nacht vorübergehend auf
-FL120 ab. Darunter gibt es nur dort vereinzelt flache SC in FL060 bis
-FL070. In den anderen Gebieten ist es entweder wolkenlos oder es gibt
-Cirren oberhalb von FL250. Im Gesamtzeitraum keine wesentliche
-Änderung. Kein Niederschlag.
-
-Über Ostsachsen morgen ab dem späten Vormittag böiger Südostwind,
-lokal mit Böen um 25 KT.
+Vor allem in Mecklenburg-Vorpommern sowie im Westen Sachsen-Anhalts
+und Thüringens Durchzug wechselnd dichter AC-Bewölkung oberhalb von
+FL140-160.
+Sonst entweder wolkenlos oder nur hoher CI oberhalb von FL250. Kein
+Niederschlag.
+Bis Berichtsende keine nennenswerte Änderung.
 
 Sichtweite:
-30 bis 70 km. In der Nacht und in den Morgenstunden vereinzelt flache
-Nebelfelder.
+40-70 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 130/10KT  20C | 130/05KT  17C |
-1000FT | 150/10KT  20C | 150/15KT  16C |
-1500FT | 150/10KT  19C | 160/20KT  19C |
-2000FT | 150/05KT  18C | 160/15KT  19C |
-3000FT | 120/05KT  17C | 150/10KT  18C |
-5000FT | 150/05KT  14C | 140/05KT  15C |
-FL100  | 210/15KT  05C | 110/05KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 130/10KT  18C | 120/15KT  17C |
+1000FT | 140/15KT  16C | 140/30KT  19C |
+1500FT | 150/20KT  19C | 160/30KT  19C |
+2000FT | 140/20KT  19C | 160/30KT  18C |
+3000FT | 140/15KT  17C | 160/30KT  16C |
+5000FT | 130/10KT  15C | 160/15KT  15C |
+FL100  | 130/05KT  05C | 170/05KT  06C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 160/10KT  22C | 140/05KT  18C |
-1500FT | 170/10KT  22C | 170/05KT  18C |
-2000FT | 170/10KT  21C | 160/05KT  18C |
-3000FT | 140/05KT  19C | 130/10KT  17C |
-5000FT | 120/05KT  15C | 090/10KT  15C |
-FL100  | 280/05KT  06C | 120/10KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 130/05KT  18C | 140/20KT  20C |
+1500FT | 140/05KT  18C | 160/20KT  20C |
+2000FT | 140/05KT  18C | 170/20KT  19C |
+3000FT | 130/10KT  17C | 180/15KT  17C |
+5000FT | 110/10KT  16C | 160/10KT  15C |
+FL100  | 120/10KT  06C | 140/05KT  07C |
 
 Turbulenz:
-Nicht signifikant.
+Im Lee vom Erzgebirge leicht bis mäßig unterhalb von FL050-060, in
+der kommenden Nacht verstärkend. Sonst keine.
 
 Vereisung:
-In mittelhoher Bewölkung oberhalb von FL120.
+Leicht in mittelhoher Bewölkung oberhalb von FL140-160.
 
 Nullgradgrenze:
-Zwischen FL120 im Nordwesten und FL130 im Südosten. In der Nacht in
-Mecklenburg vorübergehend auf FL115 absinkend.
+Zwischen FL120 im Nordwesten und FL130-135 im Südosten.
 
 Inversionen:
-In der Nacht Ausbildung einer deutlichen Bodeninversion mit
-Obergrenze bei 2000 FT AMSL.
+In der Früh und am Morgen kräftige Bodeninversion bis etwa 1000 FT
+AGL, löst sich am Vormittag auf und bildet sich in der kommenden
+Nacht erneut aus.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Berlin  04.28 | 05.03 | 16.48 | 17.21
@@ -68,7 +66,6 @@ Leipzig  04.35 | 05.08 | 16.54 | 17.26
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 29.09.2026 um
-02.00/05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale Berlin/Oe
+Luftfahrtberatungszentrale Berlin/ph

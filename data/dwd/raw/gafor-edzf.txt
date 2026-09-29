@@ -1,67 +1,67 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-399
-FBEU40 EDZF 281800
+010
+FBEU40 EDZF 290600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 28.09.2026, 18.00 UTC bis 29.09.2026, 15.00 UTC
+gültig vom 29.09.2026, 06.00 UTC bis 30.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-An der Westflanke eines Hochdruckgebietes über Osteuropa fließt mit
-einer überwiegend südwestlichen Strömung sehr warme und in höheren
-Luftschichten recht feuchte Luft ein.
+An der Westflanke eines Hochs über Osteuropa fließt mit schwacher
+südwestlicher Strömung sehr warme und in höheren Luftschichten recht
+feuchte Luft ein.
 
 Wettergeschehen:
-Ab dem Abend bis Dienstagmorgen zieht immer wieder FEW/SCT bis
-SCT/BKN AC/AS/CI oberhalb von FL160 bis FL180 von Südwest nach
-Nordost durch. Gegen Dienstagvormittag zeigen sich dann meist nur
-noch teils kompakte CI oberhalb von FL200. Es ist und bleibt meist
-trocken.
+Im Saarland, in Rheinland-Pfalz und in Hessen ziehen SCT/BKN AC/AS/CI
+oberhalb von FL180 bis FL220 von Südwest nach Nordost durch. In
+Baden-Württemberg ist die Bewölkung bei FEW/SCT stärker aufgelockert.
+
+Es ist und bleibt trocken.
 
 Sichtweite:
 40 bis 60 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 020/05KT  21C | 080/05KT  20C |
-1500FT | 110/05KT  22C | 140/05KT  19C |
-2000FT | 130/10KT  21C | 160/05KT  19C |
-3000FT | 160/10KT  19C | 170/15KT  19C |
-5000FT | 190/10KT  16C | 150/10KT  16C |
-FL100  | 200/15KT  07C | 170/15KT  07C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 100/05KT  20C | 100/05KT  20C |
+1500FT | 140/05KT  19C | 160/05KT  21C |
+2000FT | 160/05KT  19C | 170/10KT  21C |
+3000FT | 170/15KT  19C | 180/15KT  19C |
+5000FT | 160/10KT  17C | 160/05KT  17C |
+FL100  | 180/10KT  06C | 140/05KT  08C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 050/15KT  24C | 300/05KT  19C |
-1500FT | 080/10KT  24C | 250/05KT  19C |
-2000FT | 100/10KT  24C | 240/05KT  19C |
-3000FT | 130/15KT  21C | 230/05KT  19C |
-5000FT | 140/05KT  18C | 120/05KT  17C |
-FL100  | 180/10KT  06C | 170/10KT  07C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 300/05KT  19C | 360/05KT  24C |
+1500FT | 240/05KT  19C | 080/05KT  24C |
+2000FT | 250/05KT  20C | 170/05KT  23C |
+3000FT | 280/05KT  19C | 210/05KT  20C |
+5000FT | 120/05KT  16C | 230/05KT  17C |
+FL100  | 190/05KT  07C | 140/10KT  06C |
 
 Turbulenz:
-Nicht signifikant.
+Keine.
 
 Vereisung:
-In der AC/AS/CI Bewölkung örtlich mäßig zwischen FL160 und FL220.
+Nicht signifikant.
 
 Nullgradgrenze:
-Zwischen FL120-125 im Norden und FL130-135 im Süden.
+Zwischen FL120-125 im Norden und Westen und FL125-135 im Süden und
+Osten.
 
 Inversionen:
-In der Nacht Ausbildung einer flachen Bodeninversion unterhalb 1000
-FT AGL, die sich bis zum Dienstagvormittag auflöst.
+Örtlich flache Bodeninversion unterhalb 1000 FT AGL, die sich am
+Vormittag auflöst und in der Nacht erneut ausbilden kann.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Gießen  04.50 | 05.22 | 17.08 | 17.41
 Karlsruhe  04.50 | 05.23 | 17.10 | 17.41
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 29.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Flugwetterzentrale Frankfurt/CH
+Flugwetterzentrale Frankfurt/Re
