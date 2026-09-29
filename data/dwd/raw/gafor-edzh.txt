@@ -1,105 +1,83 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-015
-FBEU40 EDZH 290600
+681
+FBEU40 EDZH 291200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 29.09.2026, 06.00 UTC bis 30.09.2026, 03.00 UTC
+gültig vom 29.09.2026, 12.00 UTC bis 30.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
 Das Frontensystem eines Nordmeertiefs erstreckt sich mit zum Teil
-sehr feuchter Luft von Südschweden über Schleswig-Holstein bis nach
-Belgien. Bis zum frühen Nachmittag zieht es als Warmfront
+sehr feuchter Luft von Südschweden über die Deutsche Bucht bis zum
+östlichen Ärmelkanal. Am Nachmittag zieht es als Warmfront
 nordwestwärts wieder ab. Im restlichen Vorhersagebereich bestimmt
 trockene Warmluft am Rande eines Hochs mit Schwerpunkt über Osteuropa
 das Wettergeschehen, die sich immer mehr auch im Nordwesten
-durchsetzt.
+durchsetzt. Zum Berichtsende nähert sich von Westen ein nächstes
+Frontensystem zögerlich an.
 
 Wettergeschehen:
-Etwa nordwestlich einer Linie Grafschaft Bentheim - Kieler Bucht
-zeigt sich BKN/OVC SC/AC/CI mit Untergrenzen in 1500-4500 FT AMSL und
-Obergrenzen oberhalb von FL245, gebietsweise auch geschichtet. Daraus
-fällt meist leichter, örtlich auch mäßiger Regen, der durch EMBD CB
-mit Tops in FL320-350 schauerartig verstärkt auftreten kann. Einzelne
-Gewitter sind dabei über der Deutschen Bucht nicht gänzlich
-ausgeschlossen. Im Niederschlag sinken die Untergrenzen unter Bildung
-von BKN/OVC ST auf 200-500 FT AGL ab. Südöstlich der oben genannten
-Linie dominieren mit BKN/OVC LYR AC/CI oberhalb von FL120-180
-deutlich bessere Bedingungen, die nur gebietsweise durch flache
-Dunst- und Nebelfelder geschmälert werden. Vorzugsweise treten diese
-zwischen Weser und Ems auf.
-
-In der Früh lösen sich die Dunst- und Nebelfelder rasch auf, der
-Niederschlag verlagert sich immer weiter nach Nordwesten und zieht
-über Land ab. Dabei hebt die tiefe ST-Bewölkung nur unwesentlich auf
-300-700 FT AGL an. Nach Abzug der Front geht die Bewölkung im
-Nordwesten in BKN/OVC LYR AC/CI oberhalb von FL110-150 bei
-Obergrenzen oberhalb von FL245 über. Im Südosten lockert sie etwas zu
-SCT/BKN LYR AC/CI oberhalb von FL160-200 auf. Am Nachmittag zieht die
-Front auch aus der Deutschen Bucht ab.
-
+Verbreitet zeigt sich SCT/BKN LYR AC/CI oberhalb FL130-150 über
+Schleswig-Holstein, sowie der Nordsee und FL190-210 über dem übrigen
+Binnenland.
 Zum Sonnenuntergang beginnt die Bewölkung zudem von Westen
 auszuschichten. Im Laufe der Nacht erfolgt so von West nach Ost ein
 Übergang in SCT/BKN AC/CI zwischen etwa FL170 und FL240. Lokal bilden
-sich im südlichen Niedersachsen flache Dunstfelder.
+sich im südlichen Niedersachsen in Feuchteniederungen flache
+Dunstfelder, welche sich nach Sonnenaufgang rasch wieder auflösen.
+Bis zum Berichtsende zeigen sich im gesamten Gebiet weiterhin SCT/BKN
+LYR AC/CI oberhalb FL150-180 mit Obergrenzen um FL220-240. Vereinzelt
+können darunter FEW/SCT SC/AC Felder ab FL060 auftreten.
 
 Sichtweite:
-20-50 km, im Frontbereich 10-20 km, im Niederschlag oder bei
-Dunstbildung örtlich auf 2-8 km, im Nebel oder Starkdunst auch auf
-400-2000 m zurückgehend. Nebel und Dunst lösen sich am Morgen bzw.
-Vormittag auf, der Niederschlag zieht im Tagesverlauf nordwärts ab,
-nachfolgend verbreitet 20-40 km Sicht. Im südlichen Niedersachsen in
-der kommenden Nacht im Dunst erneut 2-8 km.
+20-50 km, bei Dunstbildung örtlich auf 2-8 km reduziert.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 00-04:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 080/15KT  16C | 110/15KT  18C |
-1000FT | 100/25KT  16C | 130/25KT  20C |
-1500FT | 110/25KT  18C | 150/30KT  20C |
-2000FT | 120/20KT  18C | 160/25KT  19C |
-3000FT | 140/15KT  16C | 150/20KT  17C |
-5000FT | 150/15KT  13C | 140/15KT  16C |
-FL100  | 210/20KT  03C | 170/20KT  05C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 090/15KT  17C | 130/25KT  17C |
+1000FT | 120/20KT  18C | 140/25KT  18C |
+1500FT | 150/20KT  21C | 150/25KT  20C |
+2000FT | 150/20KT  21C | 150/20KT  19C |
+3000FT | 150/25KT  18C | 150/20KT  18C |
+5000FT | 160/20KT  16C | 150/20KT  17C |
+FL100  | 190/20KT  04C | 200/15KT  06C |
 
 GAFOR-Gebiete 05-10:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 110/10KT  19C | 120/15KT  20C |
-1000FT | 140/15KT  22C | 140/20KT  22C |
-1500FT | 150/10KT  22C | 160/15KT  22C |
-2000FT | 150/10KT  22C | 170/15KT  21C |
-3000FT | 150/10KT  20C | 170/10KT  20C |
-5000FT | 160/10KT  16C | 180/10KT  18C |
-FL100  | 180/15KT  05C | 170/10KT  07C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 110/10KT  24C | 130/15KT  18C |
+1000FT | 110/15KT  23C | 160/15KT  20C |
+1500FT | 120/15KT  21C | 200/10KT  22C |
+2000FT | 140/15KT  20C | 210/10KT  22C |
+3000FT | 150/15KT  19C | 250/05KT  20C |
+5000FT | 150/15KT  16C | 230/05KT  17C |
+FL100  | 180/10KT  05C | 160/05KT  06C |
 
 Turbulenz:
-In und in der Nähe von CB mäßig bis stark, sonst nicht signifikant.
+In der Nacht im Bereich der Bodeninversion lokal mäßige Turbulenz
+durch Low-Level-Jet nicht ausgeschlossen.
 
 Vereisung:
-In der frontalen Bewölkung oberhalb der Nullgradgrenze gebietsweise
-mäßig bis etwa FL220, nordwärts abziehend. Ansonsten in CB mäßig bis
-stark.
+Keine
 
 Nullgradgrenze:
-Im äußersten Norden am Morgen noch zum Teil bei FL105-FL110, sonst
-zwischen FL115 im Nordwesten und FL120-FL125 im Südosten. Bis zum
-Abend verbreitet auf FL120-125 ansteigend.
+Zwischen FL115 im Nordwesten und FL120-FL125 im Südosten. Bis zum
+Abend verbreitet auf FL120-125 ansteigend. Ausgangs der Nacht im
+Süden teils auf FL130 ansteigend.
 
 Inversionen:
-Über Land Bodeninversion unterhalb 800-1500 FT AGL, im Süden im
-Tagesgang auflösend, im Norden anhebend auf 800-2000 FT AGL. Über See
-zeigt sich anhaltend eine Inversion unterhalb 1200-2000 FT AMSL. In
-der Nacht erneut Ausbildung einer Bodeninversion über Land unterhalb
-von etwa 1500 FT AGL.
+In der Nacht Ausbildung einer Bodeninversion über Land unterhalb von
+etwa 1500 FT AGL.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Schleswig  04.43 | 05.20 | 17.03 | 17.39
-Hannover  04.43 | 05.19 | 17.04 | 17.37
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Schleswig  17.03 | 17.39 | 04.45 | 05.22
+Hannover  17.04 | 17.37 | 04.45 | 05.20
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/Zd
+Luftfahrtberatungszentrale Hamburg/SC

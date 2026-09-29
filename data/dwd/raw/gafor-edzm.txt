@@ -1,67 +1,68 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-011
-FBEU40 EDZM 290600
+678
+FBEU40 EDZM 291200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 29.09.2026, 06.00 UTC bis 30.09.2026, 03.00 UTC
+gültig vom 29.09.2026, 12.00 UTC bis 30.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
 Hochdruckeinfluss mit trockener Warmluft ist wetterbestimmend.
 Lediglich im Westen ist die Luftmasse in höheren Schichten etwas
-feuchter. An den Alpen Südföhn.
+feuchter. An den Alpen leichter Föhn.
 
 Wettergeschehen:
-Anfangs halten sich noch vereinzelt flache Dunst- und/oder
-Nebelfelder aus der vergangenen Nacht, die sich im Laufe des Morgens
-jedoch rasch auflösen. Abseits davon bzw. nach deren Auflösung
-wolkenlos. In den westlichen Gebieten Durchzug wechselnd dichter
-AC/CI-Felder oberhalb FL180-220. Nach Osten hin meist ganztags
-wolkenlos.
+Verbreitet ist und bleibt es wolkenlos. In Württemberg und in
+Unterfranken Durchzug wechselnd dichter AC/CI-Felder oberhalb FL200.
+
+In der zweiten Nachthälfte bilden sich an Flüssen und Seen, sowie in
+feuchten Senken flache Nebelfelder, die sich am Mittwochmorgen rasch
+auflösen. Auch am Mittwochbleibt es bis auf dünne hohe AC/CI
+Wolkenfelder oberhalb FL180 wolkenfrei.
 
 Sichtweite:
-20-40 km, im anfänglichen Dunst 2-5 km, im Nebel unter 1 km. Im Laufe
-des Morgens rasche Besserung auf 30-60 km.
+Um 30-50 km.
+In der zweiten Nachthälfte und am Mittwochmorgen in den vereinzelten
+flachen Nebelfeldern unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  09 UTC  |  21 UTC  |
-1500FT | 090/05KT  17C | 100/10KT  19C |
-2000FT | 090/05KT  16C | 120/15KT  19C |
-3000FT | 130/10KT  17C | 140/20KT  17C |
-5000FT | 090/10KT  16C | 150/10KT  16C |
-FL100  | 100/05KT  07C | 100/05KT  09C |
+AMSL  |  15 UTC  |  06 UTC  |
+1500FT | 100/10KT  23C | 100/10KT  14C |
+2000FT | 100/10KT  22C | 130/10KT  16C |
+3000FT | 110/10KT  18C | 140/10KT  16C |
+5000FT | 150/10KT  16C | 120/05KT  15C |
+FL100  | 320/05KT  08C | 240/05KT  08C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  09 UTC  |  21 UTC  |
-2000FT | 090/05KT  15C | 090/15KT  17C |
-3000FT | 110/10KT  17C | 110/15KT  19C |
-5000FT | 090/05KT  17C | 120/05KT  17C |
-FL100  | 060/05KT  08C | 340/05KT  08C |
+AMSL  |  15 UTC  |  06 UTC  |
+2000FT | 090/10KT  21C | 100/05KT  13C |
+3000FT | 090/10KT  18C | 220/05KT  17C |
+5000FT | 140/05KT  17C | 250/05KT  16C |
+FL100  | 300/05KT  08C | 320/05KT  07C |
 
 Turbulenz:
 Es wird keine mäßige oder starke Turbulenz erwartet.
 
 Vereisung:
-Es wird keine mäßige oder starke Vereisung erwartet.
+Keine.
 
 Nullgradgrenze:
-Um FL125-135.
+Um FL130.
 
 Inversionen:
-Anfangs markante Bodeninversion mit Obergrenze bei 4000-4500 FT AMSL.
-Bis zum Vormittag auflösend und in eine Absinkinversion zwischen 2500
-und 4500 FT AMSL übergehend. In der Nacht zum Mittwoch erneut
-Ausbildung einer Bodeninversion.
+Absinkinversion zwischen 4000 und 5500 FT AMSL. In der Nacht zum
+Mittwoch Ausbildung einer kräftigen Bodeninversion.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Nürnberg  04.39 | 05.12 | 16.59 | 17.30
-München  04.37 | 05.09 | 16.56 | 17.28
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Nürnberg  16.59 | 17.30 | 04.41 | 05.14
+München  16.56 | 17.28 | 04.39 | 05.10
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale München/pv
+Luftfahrtberatungszentrale München/st
