@@ -1,80 +1,79 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-179
-FBEU40 EDZF 291800
+477
+FBEU40 EDZF 300600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 29.09.2026, 18.00 UTC bis 30.09.2026, 15.00 UTC
+gültig vom 30.09.2026, 06.00 UTC bis 01.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
 Zwischen einem Hochdruckgebiet über Osteuropa und einem Tief
 nordwestlich von Großbritannien fließt mit überwiegend südwestlicher
-Strömung sehr warme und in höheren Schichten feuchte Luft ein.
-Mittwochvormittag fließt vorderseitig einer sich noch über Frankreich
+Strömung sehr warme und in höheren Schichten feuchte Luft ein. Am
+Nachmittag fließt vorderseitig einer sich noch über Frankreich
 befindlichen Kaltfront auch in den unteren Schichten feuchtere und
 zunehmend labile Luft ein.
 
 Wettergeschehen:
 Im gesamten Gebiet zeigt sich SCT/BKN AS/CI-Bewölkung oberhalb von
 etwa FL180.
-
-Nur ganz lokal können sich vor allem im Süden von Baden-Württemberg
-in der zweiten Nachthälfte flache Dunst- und Nebelfelder ausbilden.
-Sie lösen sich am Morgen rasch auf.
-
-Mittwochvormittag sinkt die Basis der mittelhohen Bewölkung entlang
-und westlich des Rheins nach und nach auf FL090-130 ab, oberhalb
-FL180 ist es dort dann meist wolkenfrei. Ab dem Nachmittag kann es
-dort lokal zu einzelnen Schauern aus CB mit TOPs um FL240 kommen. Die
-Basis liegt bei FL055.
+Ab dem Vormittag sinkt die Basis der mittelhohen Bewölkung entlang
+und westlich des Rheins nach und nach auf FL090-130 ab. Ab dem
+Nachmittag kann es dort lokal zu einzelnen Schauern aus CB mit TOPs
+um FL240 kommen. Die Basis liegt bei FL080. Sonst bleibt es
+niederschlagsfrei.
+Im Laufe der Nacht zum Donnerstag verdichtet sich die Bewölkung im
+Westen weiter zu OVC SC/AS/AC/CI ab FL050 und es fällt leichter bis
+mäßiger Regen. Dann können dort weiterhin einzelne CBs eingelagert
+sein, welche den Regen schauerartig verstärken.
 
 Sichtweite:
-40 bis 60 km, im Dunst 1 bis 5 km, im Nebel unter 1 km. Am
-Mittwochnachmittag lokal in Schauern 3-8 km.
+40 bis 60 km, im Dunst 1 bis 5 km, im Nebel unter 1 km. Im Westen
+lokal in Schauern und in der Nacht im aufkommenden Regen 3-8 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 260/05KT  20C | 270/05KT  18C |
-1500FT | 170/05KT  21C | 190/05KT  17C |
-2000FT | 170/10KT  21C | 180/05KT  17C |
-3000FT | 190/10KT  19C | 150/10KT  17C |
-5000FT | 200/05KT  17C | 090/15KT  16C |
-FL100  | 150/05KT  07C | 180/10KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 170/05KT  18C | 190/05KT  20C |
+1500FT | 170/05KT  17C | 170/10KT  21C |
+2000FT | 170/10KT  18C | 170/15KT  21C |
+3000FT | 210/15KT  19C | 180/10KT  19C |
+5000FT | 220/15KT  16C | 210/10KT  15C |
+FL100  | 180/05KT  07C | 190/15KT  05C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 360/05KT  23C | 340/05KT  19C |
-1500FT | 030/05KT  22C | 220/05KT  19C |
-2000FT | 050/05KT  22C | 220/05KT  19C |
-3000FT | 130/05KT  19C | 230/05KT  19C |
-5000FT | 190/05KT  16C | 230/05KT  16C |
-FL100  | 150/10KT  06C | 200/10KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 310/05KT  19C | 310/05KT  23C |
+1500FT | 100/05KT  21C | 340/05KT  22C |
+2000FT | 100/05KT  21C | 330/05KT  21C |
+3000FT | 080/10KT  18C | 160/05KT  20C |
+5000FT | 120/05KT  15C | 170/05KT  16C |
+FL100  | 200/10KT  05C | 210/15KT  04C |
 
 Turbulenz:
 In der Umgebung von CB mäßig bis stark, abseits davon nicht
 signifikant.
 
 Vereisung:
-In CB mäßig bis stark.
+In CB mäßig bis stark. In der Nacht von Westen aufkommend mäßige
+Vereisung FL120 bis FL220.
 
 Nullgradgrenze:
-Zwischen FL125-130.
+Zwischen FL125-130. In der Nacht im Westen auf FL115 fallend.
 
 Inversionen:
-In der Nacht zum Mittwoch ist örtlich eine flache Bodeninversion
+Aus der Nacht ist am frühen Morgen örtlich eine flache Bodeninversion
 unterhalb 1000 FT AGL vorhanden, welche sich im Laufe des Vormittags
 rasch auflöst.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Gießen  04.52 | 05.24 | 17.06 | 17.39
 Karlsruhe  04.52 | 05.24 | 17.08 | 17.39
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 30.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Flugwetterzentrale Frankfurt/CH
+Flugwetterzentrale Frankfurt/Hr

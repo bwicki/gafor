@@ -1,61 +1,60 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-183
-FBEU40 EDZB 291800
+418
+FBEU40 EDZB 300600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 29.09.2026, 18.00 UTC bis 30.09.2026, 15.00 UTC
+gültig vom 30.09.2026, 06.00 UTC bis 01.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
 Am Rande eines kräftigen Hochs über Nordosteuropa hält die Zufuhr
-stabil geschichteter Warmluft aus Südost weiterhin an.
+stabil geschichteter Warmluft aus Südost an.
 
 Wettergeschehen:
-In der Südosthälfte wolkenlos oder durchziehende CI-Felder oberhalb
-FL250. In der Nordwesthälfte zusätzlich SCT/BKN AC/AS oberhalb FL180.
-Niederschlagsfrei.
+SCT/BKN CI oberhalb FL200. Darunter vor allem im Nordwesten SCT/BKN
+AC/AS oberhalb FL140, der sich im Verlauf des Morgens/des Vormittags
+Richtung Skandinavien verlagert. Niederschlagsfrei.
+In der Nacht zum Donnerstag sind hauptsächlich im Südwesten flache
+Bodennebelfelder nicht auszuschließen.
 
 Sichtweite:
-20 bis 50 km. In der Nacht Rückgang auf 10 bis 20 km, bei flachen
-Dunst- und Nebelfeldern in Bodennähe lokal begrenzt um 1 km.
+Meist 30 bis 60 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 120/20KT  17C | 130/15KT  16C |
-1000FT | 140/30KT  19C | 120/15KT  15C |
-1500FT | 150/30KT  19C | 150/35KT  15C |
-2000FT | 150/25KT  18C | 150/30KT  15C |
-3000FT | 160/25KT  15C | 150/30KT  16C |
-5000FT | 150/15KT  15C | 160/25KT  14C |
-FL100  | 150/10KT  06C | 140/10KT  07C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 120/10KT  16C | 120/15KT  17C |
+1000FT | 130/25KT  16C | 140/30KT  18C |
+1500FT | 150/35KT  16C | 150/30KT  19C |
+2000FT | 150/30KT  15C | 160/25KT  18C |
+3000FT | 140/30KT  15C | 160/25KT  15C |
+5000FT | 160/25KT  14C | 160/15KT  13C |
+FL100  | 150/10KT  07C | 150/10KT  07C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 140/20KT  19C | 130/05KT  15C |
-1500FT | 160/20KT  19C | 160/10KT  15C |
-2000FT | 170/20KT  19C | 160/05KT  16C |
-3000FT | 180/15KT  17C | 170/05KT  16C |
-5000FT | 140/10KT  14C | 140/15KT  16C |
-FL100  | 140/10KT  07C | 160/05KT  07C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 120/05KT  15C | 170/15KT  18C |
+1500FT | 150/05KT  16C | 190/15KT  20C |
+2000FT | 150/05KT  16C | 180/15KT  18C |
+3000FT | 210/05KT  16C | 180/10KT  17C |
+5000FT | 130/10KT  15C | 200/05KT  16C |
+FL100  | 180/05KT  07C | 150/05KT  07C |
 
 Turbulenz:
-Im Lee vom Erzgebirge und Lausitzer Bergland im weiteren Verlauf
-mäßig unterhalb von FL050, sonst nicht signifikant.
+Im Lee vom Erzgebirge und Lausitzer Bergland teils mäßig unterhalb
+von FL050, zum Mittag nachlassend, sonst nicht signifikant.
 
 Vereisung:
-In der dichteren unterkühlten Bewölkung leichte bis mäßige Vereisung
-oberhalb FL180.
+Nicht signifikant.
 
 Nullgradgrenze:
-Zwischen FL125 im Nordwesten und FL130-135 im Südosten.
+Zwischen FL125 im Nordwesten und FL130 bis FL135 im Südosten.
 
 Inversionen:
-Zwischen 3000 FT AMSL und FL050. In der Nacht Entwicklung einer
-Bodeninversion unterhalb 2000 FT AMSL, die vor allem im Südosten mit
-8 bis 10 K kräftig sein wird. Am Vormittag langsame Auflösung der
+Bodeninversion bis 1000 FT AGL, die vor allem im Südosten mit um 8 K
+kräftig sein wird. Am Vormittag langsame Auflösung der
 Bodeninversion.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
@@ -64,7 +63,6 @@ Leipzig  04.36 | 05.10 | 16.51 | 17.23
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 30.09.2026 um
-02.00/05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale Berlin/HA
+Luftfahrtberatungszentrale Berlin/Wo
