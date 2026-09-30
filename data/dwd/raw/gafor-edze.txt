@@ -1,36 +1,26 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-471
-FBEU40 EDZE 301200
+713
+FBEU40 EDZE 301800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 30.09.2026, 12.00 UTC bis 01.10.2026, 09.00 UTC
+gültig vom 30.09.2026, 18.00 UTC bis 01.10.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
 Wetterlage und -entwicklung:
-Im Warmsektor eines Orkantiefs mit Kern im Nordostatlantik wird mit
+Im Warmsektor eines Orkantiefs mit Kern im Nordostatlantik ist mit
 einer südlichen Strömung ungewöhnlich warme und vor allem in der Höhe
-feuchte Luft nach Westdeutschland geführt. In der zweiten Nachthälfte
-zum Donnerstag greift die Kaltfront des nach Island ziehenden
-Orkantiefs von Westen her über und führt hochreichend feuchte und
-teils labile Luft heran.
+feuchte Luft nach Westdeutschland geführt worden. In der zweiten
+Nachthälfte zum Donnerstag greift die Kaltfront des nach Island
+ziehenden Orkantiefs von Westen her über und führt hochreichend
+feuchte und teils labile Luft heran. Diese Front bewegt sich am
+Donnerstag unter leichter Wellenbildung nur langsam nach Osten voran.
 
 Wettergeschehen:
-Es zeigt sich zeit- und gebietsweise geschichteter AC/CI ab
-FL120-180, mit Obergrenzen oberhalb FL245. Im Westen und Südwesten
-Bildung von FEW/SCT CU mit Basis in FL060 bis FL090, Tops bis FL130,
-vereinzelt FL180, daraus teils Fallstreifen. Darüber verdichtet sich
-im Nachmittagsverlauf von Westen die hohe Bewölkung.
-
-Am Abend lösen sich die CU langsam auf, es bleibt SCT/BKN LYR AC ab
-FL090-100 mit Obergrenzen bis maximal FL180, im Westen zudem SCT SC
-zwischen FL060-FL080 sowie SCT/BKN CI/CS oberhalb von FL245.
-Nachfolgend sowie im Verlauf der ersten Nachthälfte von Westen
-Übergang in kompakten OVC AS/AC/CS bei absinkenden Untergrenzen auf
-FL070-100, darunter bis Mitternacht an der Westgrenze SCT/BKN
-SC-Felder ab FL060.
-
+SCT/BKN LYR AC/CS ab FL090-100 mit Obergrenzen bis über FL245, im
+Westen zudem SCT SC zwischen FL060-FL080. Im Verlauf der ersten
+Nachthälfte von Westen Übergang in kompakten OVC AS/AC/CS.
 In der zweiten Nachthälfte erreicht die kompakte Aufzugsbewölkung ab
 FL070-100 auch den Osten. Im Westen verdichten sich die SC-Felder
 unterhalb der frontalen Bewölkung noch etwas, welche ab 2000-4000 FT
@@ -41,6 +31,7 @@ mittelhohen Bewölkung westlich einer Linie Münster-Siegen schon
 des Rheins schauerartige Regenfälle mit eingelagerten TCU/CB bei Tops
 bis FL350 wahrscheinlich. Kurze Gewitter sind nicht gänzlich
 ausgeschlossen.
+
 In den Donnerstagvormittag hinein wird der ST im Westen und im
 Bergland häufiger, die Hochlagen geraten zeitweise in Wolken und die
 kompakte Bewölkung ab FL070 mit Regen erreicht auch den Osten des
@@ -48,31 +39,42 @@ Bereiches. Die schauerartigen Niederschläge betreffen voraussichtlich
 einen breiten Streifen, der sich vom westlichen Münsterland über Köln
 Richtung Luxemburg erstreckt. Hier liegen die Untergrenzen oberhalb
 vom ST um 2000 FT AMSL. Weiterhin sind EMBD CB mit TS nicht
-ausgeschlossen.
+ausgeschlossen. Bis zum Mittag löst sich der ST rückseitig der Front
+im Westen/Nordwesten allmählich auf.
+
+Bis zum späteren Nachmittag erreicht die Kaltfront mit dem
+schauerartigen, vereinzelt gewittrigen Regen dann etwa den Bereich
+Eggegebirge, Westerwald und Saarland. Rückseitig davon schichtet die
+Bewölkung nur leicht aus. Es kann westlich der Front aus dem
+weiterhin kompakten Wolkenbereich zwischen FL090 und FL220 - darunter
+und darüber weitere Schichten ab 1000-1500 FT AMSL in
+unterschiedlichen Höhen, Berge teils in Wolken - noch leichten Regen
+geben.
 
 Sichtweite:
 30-60 km. In der Nacht zum Donnerstag im schauerartigen Regen je nach
-Intensität 4-8 km, bei einem Volltreffer mit Starkregen um 2 km.
+Intensität 4-8 km, bei einem Volltreffer mit Starkregen um 2 km. Am
+Donnerstag außerhalb der Niederschläge 20-40km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 180/10KT  25C | 170/15KT  18C |
-1000FT | 180/10KT  24C | 190/20KT  17C |
-1500FT | 180/10KT  22C | 230/20KT  16C |
-2000FT | 210/10KT  21C | 230/25KT  16C |
-3000FT | 230/15KT  19C | 230/20KT  15C |
-5000FT | 230/20KT  14C | 220/20KT  12C |
-FL100  | 200/20KT  05C | 220/20KT  03C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 160/10KT  24C | 190/10KT  18C |
+1000FT | 170/20KT  24C | 210/15KT  17C |
+1500FT | 190/20KT  23C | 230/20KT  16C |
+2000FT | 200/15KT  23C | 240/20KT  15C |
+3000FT | 210/15KT  20C | 250/20KT  14C |
+5000FT | 200/20KT  15C | 250/20KT  12C |
+FL100  | 190/20KT  04C | 210/20KT  03C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 170/05KT  25C | 150/05KT  18C |
-1500FT | 180/10KT  23C | 190/10KT  17C |
-2000FT | 190/10KT  22C | 210/10KT  17C |
-3000FT | 210/20KT  19C | 230/20KT  15C |
-5000FT | 230/15KT  14C | 210/20KT  11C |
-FL100  | 210/20KT  05C | 210/20KT  04C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 160/05KT  23C | 180/05KT  17C |
+1500FT | 170/15KT  22C | 200/10KT  16C |
+2000FT | 190/20KT  22C | 210/15KT  16C |
+3000FT | 200/25KT  18C | 250/20KT  14C |
+5000FT | 200/20KT  14C | 230/20KT  12C |
+FL100  | 190/15KT  04C | 210/20KT  04C |
 
 Turbulenz:
 Ab der zweiten Nachthälfte zum Donnerstag bei TCU/CB von Westen her
@@ -80,25 +82,26 @@ mäßig bis stark.
 
 Vereisung:
 In dichter mittelhoher Bewölkung vereinzelt mäßig von FZLVL bis
-FL200, sonst zunächst nicht signifikant. Ab dem Abend mit
+FL200, sonst zunächst nicht signifikant. Von Westen mit
 verdichtender, frontaler Bewölkung verbreitet mäßig bis FL230, im
 Verlauf der Nacht zum Donnerstag auf den Osten ausweitend. Zusätzlich
-in TCU/CB stark.
+in TCU/CB stark. Auch rückseitig der Front in weiter relativ
+kompakter Bewölkung mäßig bis FL220.
 
 Nullgradgrenze:
-FL115-120.
+FL115-120, Donnerstagnachmittag im Westen auf FL105-FL110 sinkend.
 
 Inversionen:
 Kommende Nacht ausbildende Bodeninversion unterhalb 1000 FT AGL, im
-Westen mit herannahender Front auflösend, im Osten am Vormittag
-auflösend.
+Westen mit herannahender Front auflösend, im Osten am
+Donnerstagvormittag auflösend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Düsseldorf  17.13 | 17.45 | 05.00 | 05.33
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Düsseldorf  05.00 | 05.33 | 17.11 | 17.45
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 01.10.2026 um
+02.00/05.00 UTC
 
-Regionale Wetterberatungszentrale Essen/Hf
+Regionale Wetterberatungszentrale Essen/Hf/ld

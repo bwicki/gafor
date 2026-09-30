@@ -1,91 +1,92 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-124
-FBEU40 EDZM 301200
+451
+FBEU40 EDZM 301800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 30.09.2026, 12.00 UTC bis 01.10.2026, 09.00 UTC
+gültig vom 30.09.2026, 18.00 UTC bis 01.10.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
 Der Hochdruckeinfluss mit trockener Warmluft bleibt zunächst
-wetterbestimmend. In höheren Schichten ist die Luft etwas feuchter.
-In der Nacht zum Donnerstag bildet sich erneut eine feuchte
-Grundschicht aus die bis Donnerstagvormittag wieder abgebaut wird. Am
-Donnerstag wird der Hochdruckeinfluss nach Osten abgebdrängt und ein
-Islandtief lenkt, zunächst nur in die Westhälfte, feuchtere und
-labilere Luft nach Süddeutschland.
+wetterbestimmend. In höheren Schichten sickert von Westen etwas
+feuchtere Luft ein. In der Nacht bildet sich eine feuchte
+Grundschicht, die bis Donnerstagvormittag wieder abgebaut wird. Am
+Donnerstag wird der Hochdruckeinfluss langsam nach Osten abgebdrängt
+und ein Islandtief lenkt, zunächst nur in die Westhälfte, feuchtere
+und labilere Luft nach Süddeutschland.
 
 Wettergeschehen:
 Verbreitet ist und bleibt es wolkenlos. In der Westhälfte lediglich
-Durchzug wechselnd dichter CI-Felder oberhalb FL240.
-In der zweiten Nachthälfte verdichten sich die CI-Felder im Westen zu
-BKN/OVC CI/CS und darunter ziehen ausgangs der Nacht SCT/BKN AC/AS
-mit Basis zwischen FL120-150, Obergrenze um FL180 auf.
+Durchzug wechselnd dichter CI-Felder oberhalb FL300.
+Zum Tageswechsel beginnen sich die ersten Dunst- und Nebelfelder zu
+bilden, die im Laufe der 2. Nachthälfte besonders entlang von Flüssen
+und in Senken mehr werden. Sonst werden die hohen Wolken von Westen
+dichter und sinken auf FL200. Darunter ziehen zum Ende der Nacht in
+der Westhälfte örtlich erste SCT AC Schollen um FL100 auf. In
+Unterfranken können sogar ein paar Tropfen Regen unergiebigen Regens
+fallen.
 
-Abseits der nachts dichter werdenden AC/CS/CI Bewölkung bilden sich
-in der zweiten Hälfte der Nacht bevorzugt an Flüssen, Seen und in
-Tal- und Muldenlagen Nebelfelder, die zum Ende der Nacht gebietsweise
-zu größeren Nebelgebieten heranwachsen. Schwerpunkt des Nebels wird
-entlang der Donau, in Oberschwaben und in Oberbayern sein. Zwischen
-06-07 UTC wird sich der Nebel verbreitet wieder aufgelöst haben.
-Außerhalb des Nebels nachts häufig dunstig.
-
-Am Donnerstagvormittag von Westen Wolkenverdichtung zu BKN/OVC
-AC/AS/CS oberhalb FL150-180. Bis zum Mittag etwa bis in das westliche
-Franken und zum Lech ausbreitend. Im Bereich der Westalb sind mittags
-auch erste hochansetzende isol CB mit Schauern wahrscheinlich. CB
-Tops um FL220-240. Nach Osten hin in der ersten Tageshälfte anfangs
-wolkenlos, vormittags Aufzug von BKN CI oberhalb FL300.
+Am Donnerstagvormittag lösen sich Dunst und Nebel auf. Im Osten
+ziehen allmählich die hohen Wolken oberhalb FL300 auf. Im Westen
+bleibt es bei den SCT/BKN CI Feldern und den SCT AC Feldern um FL100
+darunter. Hin Und wieder können im äußersten Westen ein paar Tropfen
+Regen aus den Aufzugswolken fallen. Gegen Mittag bilden sich an der
+Schwäbischen Alb FEW/SCT CU bei FL060. Auch an den westlichen Alpen
+bilden sich FEW CU bei FL080. Am Nachmittag verdichten sich die CU zu
+einer SCT Schicht und es bilden sich an der westlichen Schwäbischen
+Alb erste CB mit Schauern und Gewittern. Tops bei FL260. Darüber wird
+die Bewölkung von Westen zunehmend dichter.
 
 Sichtweite:
-25-40 km.
-Nachts Sichtrückgang auf 10-20 km. Bei Dunst nachts zwischen 2-6 km,
-im Nebel zwischen 0.2-0.8 km.
-Am Donnerstag im Vormittagsverlauf generell Sichtbesserung auf 25-40
-km.
+30 bis 60 km. Nachts Rückgang auf 20 bis 40 km, bei Dunst 2 bis 5 km,
+bei Nebel wenige 100 m bis 1 km. Am Donnerstag wieder Besserung auf
+30 bis 60 km. Im Schauer oder Gewitter 3 bis 8 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  15 UTC  |  06 UTC  |
-1500FT | 100/05KT  22C | 140/05KT  16C |
-2000FT | 100/05KT  21C | 140/10KT  16C |
-3000FT | 110/05KT  17C | 140/05KT  15C |
-5000FT | 010/05KT  15C | 070/05KT  14C |
-FL100  | 280/05KT  07C | 220/05KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+1500FT | 120/10KT  19C | 120/05KT  17C |
+2000FT | 130/10KT  19C | 120/05KT  16C |
+3000FT | 150/05KT  17C | 140/05KT  15C |
+5000FT | 050/05KT  16C | 070/05KT  15C |
+FL100  | 260/05KT  07C | 240/05KT  05C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  15 UTC  |  06 UTC  |
-2000FT | 080/05KT  22C | 170/05KT  15C |
-3000FT | 080/05KT  18C | 210/05KT  17C |
-5000FT | 250/05KT  16C | 240/05KT  14C |
-FL100  | 300/05KT  07C | 010/05KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+2000FT | 100/05KT  19C | 220/05KT  15C |
+3000FT | 160/05KT  18C | 230/05KT  16C |
+5000FT | 260/05KT  16C | 230/05KT  14C |
+FL100  | 300/05KT  06C | 340/05KT  04C |
 
 Turbulenz:
-Es wird keine mäßige oder starke Turbulenz erwartet.
-Ab Donnerstagmittag in Verbindung mit CB stark.
+Zunächst kein. Ab Donnerstagnachmittag in Verbindung mit CB mäßig bis
+stark.
 
 Vereisung:
-Keine signifikante Vereisung.
-Ab Donnerstagmittag in Verbindung mit CB stark.
+Ab der 2. Nachthälfte im Westen zeit- und gebietsweise in der
+Aufzugsbewölkung leicht bis mäßig oberhalb FL120. Ab
+Donnerstagnachmittag in Verbindung mit CB mäßig bis stark.
 
 Nullgradgrenze:
-Um FL135. Im Verlauf der Nacht im Westen auf FL120, nach Osten hin
-auf FL130 sinkend.
+Zwischen FL125 und FL135. Ab der 2. Nachthälfte langsam auf FL115 im
+Westen und FL125 im Osten absinkend.
 
 Inversionen:
-In der Nacht zum Donnerstag Ausbildung einer kräftigen Bodeninversion
-mit Oberkante zwischen 2500-3000 FT AMSL. Diese wird am
-Donnerstagvormittag nur zögerlich abgebaut.
+Es hat sich bereits eine Bodeninversion mit Oberkante zwischen
+2000-2000 FT AMSL ausgebildet, die sich nachts weiter verstärkt und
+am Donnerstag wieder abgebaut wird. Am Donnerstag bleibt tagsüber im
+Osten teils eine schwache Absinkinversion bei 5000 bis 7000 FT AMSL
+erhalten.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Nürnberg  16.57 | 17.28 | 04.43 | 05.15
-München  16.54 | 17.25 | 04.40 | 05.12
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Nürnberg  04.43 | 05.15 | 16.55 | 17.27
+München  04.40 | 05.12 | 16.52 | 17.23
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 01.10.2026 um 02.00
+UTC
 
-Luftfahrtberatungszentrale München/CR
+Luftfahrtberatungszentrale München/La
