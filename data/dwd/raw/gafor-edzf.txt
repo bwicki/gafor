@@ -1,79 +1,89 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-477
-FBEU40 EDZF 300600
+125
+FBEU40 EDZF 301200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 30.09.2026, 06.00 UTC bis 01.10.2026, 03.00 UTC
+gültig vom 30.09.2026, 12.00 UTC bis 01.10.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Zwischen einem Hochdruckgebiet über Osteuropa und einem Tief
-nordwestlich von Großbritannien fließt mit überwiegend südwestlicher
-Strömung sehr warme und in höheren Schichten feuchte Luft ein. Am
-Nachmittag fließt vorderseitig einer sich noch über Frankreich
-befindlichen Kaltfront auch in den unteren Schichten feuchtere und
-zunehmend labile Luft ein.
+Bei abnehmendem Hochdruckeinfluss fließt mit südwestlicher Strömung
+in mittleren und hohen Schichten feuchte Luft ein. Ausgehend von
+einem Islandtief nähert sich von Westen eine Kaltfront an. Diese
+erreicht zum Beginn der Nacht zum Donnerstag den äußersten Westen mit
+feuchterer, kühlerer und zunächst nur leicht labil geschichteter
+Luft.
+Die Front kommt nur langsam ostwärts voran. Sie betrifft in den
+Morgenstunden die Bereiche östlich etwa einer Linie Kassel-Basel,
+wobei die Luft zunehmend labilisiert wird. Östlich der Front bleibt
+die Luft noch unter dem Hochdruckeinfluss.
 
 Wettergeschehen:
-Im gesamten Gebiet zeigt sich SCT/BKN AS/CI-Bewölkung oberhalb von
-etwa FL180.
-Ab dem Vormittag sinkt die Basis der mittelhohen Bewölkung entlang
-und westlich des Rheins nach und nach auf FL090-130 ab. Ab dem
-Nachmittag kann es dort lokal zu einzelnen Schauern aus CB mit TOPs
-um FL240 kommen. Die Basis liegt bei FL080. Sonst bleibt es
-niederschlagsfrei.
-Im Laufe der Nacht zum Donnerstag verdichtet sich die Bewölkung im
-Westen weiter zu OVC SC/AS/AC/CI ab FL050 und es fällt leichter bis
-mäßiger Regen. Dann können dort weiterhin einzelne CBs eingelagert
-sein, welche den Regen schauerartig verstärken.
+In der Osthälfte zeigt sich SCT/BKN LYR AC/CI-Bewölkung oberhalb von
+etwa FL180. Dort ist es niederschlagsfrei. In der Westhälfte ist die
+Bewölkung zu BKN LYR SC/AC/CI mit Basis bei FL080-130 übergegangen.
+Daraus fällt vereinzelt etwas Regen, der jedoch nicht am Boden
+ankommt.
+Im Abendverlauf kommt die dichtere BKN LYR SC/AC/CI-Bewölkung
+oberhalb von FL080-130 nur langsam ostwärts voran.
+
+Im Laufe der Nacht zum Donnerstag verdichtet sich die Bewölkung von
+Westen weiter zu OVC SC/AS/AC/CI oberhalb FL055-065 und es fällt
+leichter Regen. Dieser ist durch einzelne eingelagerte TCUs mit Tops
+bis FL200 schauerartig verstärkt.
+Am Morgen beeinflusst die frontale Bewölkung die Gebiete westlich
+einer Linie Kassel-Basel. Darin sind zunehmend auch einzelne CBs mit
+Tops um FL250 eingelagert. Einzelne Gewitter sind dabei nicht
+ausgeschlossen.
+Am Vormittag kommt die Front nur geringfügig ostwärts voran.
 
 Sichtweite:
-40 bis 60 km, im Dunst 1 bis 5 km, im Nebel unter 1 km. Im Westen
-lokal in Schauern und in der Nacht im aufkommenden Regen 3-8 km.
+40-60 km. Im leichten Regen 15-30 km, in mäßigen Regenschauern 3-8
+km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 170/05KT  18C | 190/05KT  20C |
-1500FT | 170/05KT  17C | 170/10KT  21C |
-2000FT | 170/10KT  18C | 170/15KT  21C |
-3000FT | 210/15KT  19C | 180/10KT  19C |
-5000FT | 220/15KT  16C | 210/10KT  15C |
-FL100  | 180/05KT  07C | 190/15KT  05C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 170/05KT  25C | 230/05KT  15C |
+1500FT | 180/10KT  23C | 190/10KT  18C |
+2000FT | 180/10KT  22C | 200/15KT  18C |
+3000FT | 190/10KT  19C | 210/20KT  17C |
+5000FT | 240/15KT  16C | 200/25KT  14C |
+FL100  | 210/15KT  06C | 210/20KT  04C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 310/05KT  19C | 310/05KT  23C |
-1500FT | 100/05KT  21C | 340/05KT  22C |
-2000FT | 100/05KT  21C | 330/05KT  21C |
-3000FT | 080/10KT  18C | 160/05KT  20C |
-5000FT | 120/05KT  15C | 170/05KT  16C |
-FL100  | 200/10KT  05C | 210/15KT  04C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 020/05KT  28C | 240/05KT  20C |
+1500FT | 020/05KT  26C | 230/05KT  20C |
+2000FT | 020/05KT  25C | 220/05KT  20C |
+3000FT | 070/05KT  21C | 220/10KT  17C |
+5000FT | 130/10KT  17C | 230/15KT  12C |
+FL100  | 200/15KT  04C | 190/15KT  02C |
 
 Turbulenz:
-In der Umgebung von CB mäßig bis stark, abseits davon nicht
-signifikant.
+In und um CBs mäßig bis stark.
 
 Vereisung:
-In CB mäßig bis stark. In der Nacht von Westen aufkommend mäßige
-Vereisung FL120 bis FL220.
+In CB mäßig bis stark. Anfangs im Westen schichtweise teils mäßig
+zwischen FL125 und FL200.
+In der Nacht von Westen aufkommend mäßige Vereisung FL120 bis FL220,
+ostwärts ausbreitend.
 
 Nullgradgrenze:
 Zwischen FL125-130. In der Nacht im Westen auf FL115 fallend.
 
 Inversionen:
-Aus der Nacht ist am frühen Morgen örtlich eine flache Bodeninversion
-unterhalb 1000 FT AGL vorhanden, welche sich im Laufe des Vormittags
-rasch auflöst.
+Keine.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Gießen  04.52 | 05.24 | 17.06 | 17.39
-Karlsruhe  04.52 | 05.24 | 17.08 | 17.39
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Gießen  17.06 | 17.39 | 04.51 | 05.25
+Karlsruhe  17.08 | 17.39 | 04.54 | 05.26
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Flugwetterzentrale Frankfurt/Hr
+Flugwetterzentrale Frankfurt/Ts

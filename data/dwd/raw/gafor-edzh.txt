@@ -1,81 +1,90 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-417
-FBEU40 EDZH 300600
+123
+FBEU40 EDZH 301200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 30.09.2026, 06.00 UTC bis 01.10.2026, 03.00 UTC
+gültig vom 30.09.2026, 12.00 UTC bis 01.10.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
-Am Rande eines Hochs mit Schwerpunkt über Osteuropa fließt mit einer
-südlichen Strömung trockene Warmluft in den Vorhersagebereich. Am
-Abend und in der kommenden Nacht greift die Kaltfront eines Tiefs mit
-Kern über dem Nordostatlantik auf den Westen über. Dabei wird feuchte
-und labil geschichtete Luft herangeführt.
+Zwischen hohem Druck über Nordosteuropa und einem Sturmtief mit Kern
+südlich von Island gelangt mit einer südöstlichen bis südlichen
+Strömung trockene Warmluft in den Vorhersagebereich. Am Abend und in
+der kommenden Nacht greift die Kaltfront des Tiefs mit hochreichend
+feuchter, labil geschichteter und nur noch mäßig warmer Luft auf den
+Westen über.
 
 Wettergeschehen:
-Durchzug von SCT/BKN AC/CI oberhalb von FL140-FL180, örtlich ist es
-auch wolkenlos.
+Durchzug von SCT/BKN, von Westen zunehmend BKN/OVC AC/CI oberhalb von
+FL140-FL180. An der Ostsee ist es anfangs zum Teil noch wolkenlos.
 Am späten Nachmittag und Abend verdichtet sich die Bewölkung im
-äußersten Westen zu BKN/OVC AC/CI mit Untergrenzen bei FL100-FL130,
-Obergrenzen oberhalb von FL245. Im Laufe des Abends und der Nacht
-geht die Bewölkung im Westen in BKN/OVC SC/AC/CI über, die
-Untergrenzen sinken auf 4000 FT AMSL bis FL060 ab. In diese Bewölkung
-sind zum Teil ISOL CB mit Tops bis FL260 eingelagert und es fällt
-örtlich schauerartiger Regen. Einzelne, kurze Gewitter sind nicht
-ganz ausgeschlossen.
+äußersten Westen weiter zu BKN/OVC AC/CI mit Untergrenzen bei
+FL100-FL130, Obergrenzen oberhalb von FL245 und wird dabei kompakter.
+Diese Bedingungen weiten sich allmählich ostwärts aus und erreichen
+am Donnerstagvormittag die Linie Flensburg-Göttingen.
+Im Westen erfolgt im Laufe der ersten Nachthälfte ein weiterer
+Übergang zu BKN/OVC SC/AC/CI, dabei sinken die Untergrenzen auf 4000
+FT AMSL - FL060 ab. In diese Bewölkung sind zum Teil ISOL CB mit Tops
+bis FL280 eingelagert und es fällt örtlich schauerartiger Regen.
+Einzelne kurze Gewitter sind nicht ganz ausgeschlossen.
+Diese Bedingungen kommen bis zum späten Donnerstagvormittag bis an
+eine Linie nordwestliche Deutsche Bucht - Insel Langeoog - Bielefeld
+voran. Dabei sinken die SC-Untergrenzen weiter ab auf 1200-1500 FT
+AMSL, örtlich bildet sich im Niederschlag auch SCT/BKN ST in 600-1200
+FT AGL.
 
 Sichtweite:
 20-50 km, im Niederschlag zeitweise 3-8 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 00-04:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 120/15KT  16C | 130/20KT  17C |
-1000FT | 130/20KT  15C | 140/25KT  18C |
-1500FT | 150/30KT  18C | 160/30KT  18C |
-2000FT | 150/25KT  18C | 160/25KT  18C |
-3000FT | 150/20KT  17C | 160/10KT  16C |
-5000FT | 140/20KT  16C | 170/05KT  14C |
-FL100  | 160/10KT  06C | 170/10KT  06C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 110/15KT  20C | 130/20KT  15C |
+1000FT | 120/20KT  19C | 140/25KT  17C |
+1500FT | 130/20KT  17C | 150/20KT  19C |
+2000FT | 140/25KT  16C | 150/20KT  19C |
+3000FT | 170/15KT  17C | 150/15KT  17C |
+5000FT | 160/10KT  16C | 170/15KT  14C |
+FL100  | 170/10KT  07C | 180/15KT  05C |
 
 GAFOR-Gebiete 05-10:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 130/10KT  18C | 130/15KT  20C |
-1000FT | 150/15KT  18C | 170/20KT  22C |
-1500FT | 170/15KT  20C | 190/20KT  22C |
-2000FT | 170/10KT  20C | 200/15KT  22C |
-3000FT | 170/10KT  19C | 220/10KT  19C |
-5000FT | 200/10KT  16C | 190/05KT  15C |
-FL100  | 180/05KT  06C | 180/15KT  05C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 120/15KT  24C | 150/10KT  19C |
+1000FT | 120/15KT  23C | 200/15KT  22C |
+1500FT | 120/15KT  20C | 230/20KT  22C |
+2000FT | 150/15KT  20C | 230/20KT  22C |
+3000FT | 190/10KT  20C | 240/15KT  19C |
+5000FT | 210/10KT  16C | 230/10KT  15C |
+FL100  | 160/05KT  05C | 200/15KT  04C |
 
 Turbulenz:
-Im Nordosten teils mäßig unterhalb von 2000 FT AGL, in der kommenden
-Nacht nachlassend. Außerdem ab dem Abend in und in der Nähe von CB.
+Im Nordosten teils mäßig unterhalb von 2000 FT AGL, in der Nacht
+nachlassend. Außerdem ab dem Abend in und in der Nähe von CB.
 
 Vereisung:
-Ab dem Nachmittag im Westen in der AC-Bewölkung gebietsweise mäßig
-oberhalb der Nullgradgrenze bis FL220, am Abend und in der Nacht in
-CB mäßig bis stark.
+Im Westen in der AC-Bewölkung gebietsweise mäßig oberhalb der
+Nullgradgrenze bis FL220, ab dem Abend in CB mäßig bis stark.
 
 Nullgradgrenze:
 FL120-FL130, im Nordwesten der Deutschen Bucht in der Nacht absinkend
-auf FL115.
+auf FL115-FL120.
 
 Inversionen:
-Verbreitet zwischen Boden und 1500-2000 FT AGL. Am Vormittag über
-Land auf 1500-3000 FT AMSL anhebend. Im Westen Niedersachsens am
-Nachmittag auflösend. Ab dem Abend wieder allgemein zwischen Boden
-und 1500-2000 FT AGL.
+Über See beständig unterhalb 1500-2000 FT AGL, über Land mit Ausnahme
+des westlichen Niedersachsens in 1500-3000 FT AMSL. Ab dem Abend
+allgemein zwischen Boden und 1500-2000 FT AGL, unter der
+verdichtenden frontalen Bewölkung abschwächend, mit zunehmendem
+Fronteinfluss auflösend.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Schleswig  04.45 | 05.22 | 17.01 | 17.36
-Hannover  04.45 | 05.20 | 17.01 | 17.34
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Schleswig  17.01 | 17.36 | 04.47 | 05.24
+Hannover  17.01 | 17.34 | 04.47 | 05.22
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/NI/RI
+Luftfahrtberatungszentrale Hamburg/RI

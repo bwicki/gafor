@@ -4,7 +4,7 @@ GAFOR-Einstufung LBZ Hamburg
 
 GAFOR Bereich LBZ Hamburg 30.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 00  Deutsche Bucht  C  C  C
 
@@ -32,7 +32,7 @@ GAFOR-Einstufung LBZ Berlin
 
 GAFOR Bereich LBZ Berlin 30.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 11  Mecklenburgisches Tiefland  C  C  C
 
@@ -74,7 +74,7 @@ GAFOR-Einstufung RWZ Essen
 
 GAFOR Bereich RWZ Essen 30.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 31  Niederrheinisches Tiefland  C  C  C
 
@@ -98,7 +98,7 @@ GAFOR-Einstufung FWZ Frankfurt
 
 GAFOR Bereich FWZ Frankfurt 30.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 41  Hunsrück  C  C  C
 
@@ -128,7 +128,7 @@ GAFOR-Einstufung LBZ Muenchen
 
 GAFOR Bereich LBZ Muenchen 30.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 54  Mainfranken und Nördliches Unterfranken  C  C  C
 
@@ -148,23 +148,23 @@ Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
 
 71  Bodenseeraum  C  C  C
 
-72  Schwäbische Hochebene  O ISOL FG  C  C
+72  Schwäbische Hochebene  C  C  C
 
-73  Westliche Donauniederung  O ISOL FG  C  C
+73  Westliche Donauniederung  C  C  C
 
-74  Südbayerisches Hügelland  O ISOL FG  C  C
+74  Südbayerisches Hügelland  C  C  C
 
-75  Östliche Donau- und Naabniederung  O ISOL FG  C  C
+75  Östliche Donau- und Naabniederung  C  C  C
 
-76  Bayerischer Wald  O ISOL FG  C  C
+76  Bayerischer Wald  C  C  C
 
-81  Westliches Alpenvorland  O ISOL FG  C  C
+81  Westliches Alpenvorland  C  C  C
 
-82  Östliches Alpenvorland  O ISOL FG  C  C
+82  Östliches Alpenvorland  C  C  C
 
-83  Allgäuer Alpen  O ISOL FG  C  C
+83  Allgäuer Alpen  C  C  C
 
-84  Östliche Bayerische Alpen  O ISOL FG  C  C
+84  Östliche Bayerische Alpen  C  C  C
 
 GAFOR Legende
 
