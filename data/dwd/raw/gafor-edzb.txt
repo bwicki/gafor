@@ -1,87 +1,85 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-677
-FBEU40 EDZB 011200
+894
+FBEU40 EDZB 011800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 01.10.2026, 12.00 UTC bis 02.10.2026, 09.00 UTC
+gültig vom 01.10.2026, 18.00 UTC bis 02.10.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Das Hoch über Nordosteuropa mit stabiler Warmluft schwächt sich
-langsam ab. Von Westen nähert sich langsam die Kaltfront eines
-Randtroges über der Nordsee, die in der Nacht zum Freitag mit
-labil-geschichteter Meeresluft von West nach Ost durchzieht.
+Das Hoch über Nordosteuropa mit trockener, warmer Festlandsluft
+schwächt sich ab. Von Westen nähert sich langsam die Kaltfront eines
+Randtroges über der Nordsee. Sie zieht Nacht und am Freitagvormittag
+von West nach Ost über Ostdeutschland hinweg und lenkt feuchte, etwas
+kühlere Meeresluft in unseren Raum.
 
 Wettergeschehen:
-Aufzugsbewölkung der Kaltfront mit Durchzug von SCT/BKN CI/CS
-oberhalb FL170-210 und in der Westhälfte SCT/BKN AC/AS oberhalb
-FL090. Trocken.
+Von Westen Aufzug zuerst von BKN CS, später von BKN AC/AS oberhalb
+FL100. Am Abend und in der Nacht von Westmecklenburg über Altmark und
+Harz bis nach Westthüringen weitere Bewölkungsverdichtung zu BKN/OVC
+SC/AS/CI mit absinkender Untergrenze auf 5000 bis 3500 FT AMSL,
+Obergrenzen oberhalb FL245. Gebietsweise leichter Regen, der bis
+Mitternacht etwa eine Linie Wismar-Magdeburg-Jena, bis zum Morgen
+eine Linie Rostock-Leipzig-Hof erreicht. Im Niederschlag Bildung von
+BKN/OVC ST zwischen 500 und 1000 FT AGL, lokal auch 200 bis 500 FT
+AGL, besonders vom Fläming über das Leipziger Land bis ins Thüringer
+Becken. Dabei auch Dunstbildung mit Werten zwischen 3 und 5 km.
 
-Am Abend und in der Nacht zum Freitag von Westmecklenburg über die
-Altmark und den Harz bis ins Eichsfeld und Werratal weitere
-Bewölkungsverdichtung zu BKN/OVC SC/AS/CI mit absinkender Untergrenze
-auf 5000 bis 3500 FT AMSL. Regional einsetzender Regen. Obergrenzen
-oberhalb FL245. In der zweiten Nachthälfte an der Front weiteres
-Absinken der Ceiling zu BKN/OVC ST zwischen 500 und 1000 FT AGL,
-lokal auch 200 bis 500 FT AGL, besonders vom Fläming über das
-Leipziger Land bis ins Thüringer Becken. Dabei auch Dunstbildung und
-Sichteinschränkung.
+Am Vormittag zieht die Front unter Abschwächung nach Osten, dabei
+zögerliches Anheben der Bewölkung sowie Übergang zu BKN SC zwischen
+1000 und 1500 FT AGL.
 
-Ausgangs der Nacht und am Freitagvormittag Front-Verlagerung unter
-deutlicher Niederschlagsabschwächung nach Osten, nach Sonnenaufgang
-eine Linie Rügen-Berlin-Vogtland erreichend und zögerliches Anheben
-der Bewölkung sowie Übergang zu BKN SC zwischen 1000 und 1500 FT AGL.
-Postfrontal Auflockern der Bewölkung in einem Streifen von
-Mecklenburg-Magdeburg-Erfurt zu SCT/BKN SC um 2000 FT AMSL,
-ausgeschichtet bis etwa FL120 und meist niederschlagsfrei.
+Am Spätnachmittag liegen letzte Regenzonen noch an Oder und Neiße
+sowie im Erzgebirge und Lausitzer Bergland. Hier weiterhin
+Untergrenzen um 1500 FT AGL, am Kamm des Erzgebirges um 500 FT AGL.
+Postfrontal Auflockern der Bewölkung zu SCT/BKN SC um 2000 FT AMSL,
+ausgeschichtet bis etwa FL120. Niederschlagsfrei.
 
 Sichtweite:
-Meist 30 bis über 60 km. Im Regen auf 10 bis 4 km reduziert.
+30 bis 60 km, im Regen und unter Stratus auf 3 bis 8 km reduziert.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 150/10KT  22C | 310/10KT  15C |
-1000FT | 150/15KT  20C | 320/15KT  14C |
-1500FT | 150/15KT  18C | 330/10KT  13C |
-2000FT | 150/15KT  18C | 330/10KT  13C |
-3000FT | 180/15KT  17C | 280/10KT  13C |
-5000FT | 240/05KT  14C | 240/10KT  11C |
-FL100  | 200/05KT  04C | 200/20KT  01C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 160/05KT  20C | 320/10KT  15C |
+1000FT | 180/10KT  20C | 330/15KT  13C |
+1500FT | 200/10KT  19C | 340/15KT  13C |
+2000FT | 210/10KT  18C | 340/15KT  13C |
+3000FT | 240/05KT  15C | 330/15KT  11C |
+5000FT | 220/05KT  12C | 280/10KT  09C |
+FL100  | 190/10KT  02C | 240/15KT  00C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 160/05KT  24C | 330/10KT  14C |
-1500FT | 160/05KT  22C | 340/15KT  14C |
-2000FT | 170/05KT  21C | 340/10KT  14C |
-3000FT | 190/05KT  17C | 310/05KT  12C |
-5000FT | 340/05KT  14C | 230/10KT  11C |
-FL100  | 200/05KT  05C | 210/10KT  02C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 310/05KT  21C | 330/10KT  15C |
+1500FT | 320/05KT  21C | 330/10KT  13C |
+2000FT | 310/05KT  20C | 350/15KT  13C |
+3000FT | 220/05KT  17C | 330/15KT  12C |
+5000FT | 230/05KT  13C | 280/10KT  09C |
+FL100  | 220/10KT  03C | 220/20KT  01C |
 
 Turbulenz:
 In der Frontbewölkung mäßig oberhalb FL160.
 
 Vereisung:
-Ab dem Nachmittag von Westen her leicht bis mäßig von FL115 bis
-FL230, sonst nicht signifikant.
+In der Frontbewölkung mäßig zwischen FL120 und FL180.
 
 Nullgradgrenze:
-FL125, von Westen her auf FL115 absinkend, in der Front dann um
-FL100.
+Anfangs FL120, bis zum Morgen von Westen auf FL100-FL110 absinkend.
 
 Inversionen:
 Kommende Nacht ganz im Osten grenznah zu Polen nochmals
-Bodeninversion unterhalb 1000 FT AGL.
+Bodeninversion unterhalb 1000 FT AGL. Sonst nicht signifikant.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Berlin  16.43 | 17.16  | 04.34 | 05.08
-Leipzig  16.49 | 17.23  | 04.40 | 05.13
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Berlin  04.34 | 05.08 | 16.41 | 17.14
+Leipzig  04.40 | 05.13 | 16.47 | 17.20
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 02.10.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Berlin/SB
+Luftfahrtberatungszentrale Berlin/Ns

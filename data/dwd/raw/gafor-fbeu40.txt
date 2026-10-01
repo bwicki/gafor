@@ -162,7 +162,7 @@ Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 82  Östliches Alpenvorland  C  C  C
 
-83  Allgäuer Alpen  D1 ISOL SHRA  M2 ISOL SHRA  X ISOL SHRA
+83  Allgäuer Alpen  M2 ISOL SHRA  X ISOL SHRA  X ISOL SHRA
 
 84  Östliche Bayerische Alpen  D1  M2  M2 ISOL SHRA
 

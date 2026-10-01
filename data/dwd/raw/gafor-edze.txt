@@ -1,61 +1,54 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-853
-FBEU40 EDZE 011200
+924
+FBEU40 EDZE 011800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 01.10.2026, 12.00 UTC bis 02.10.2026, 09.00 UTC
+gültig vom 01.10.2026, 18.00 UTC bis 02.10.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
 Wetterlage und -entwicklung:
-Die Kaltfront eines Tiefs bei Island liegt über dem Vorhersagegebiet
-und zieht vollständig erst in der Nacht zum Freitag ostwärts ab. Mit
-der Front wird hochreichend feuchte und teils labile Luft
-herangeführt. Rückseitig wird aus westlichen Richtungen kühlere,
+Die Kaltfront eines Tiefs bei Island liegt noch über dem Osten und
+Süden des Vorhersagegebiets und zieht in der Nacht ostwärts ab. An
+der Front ist hochreichend feuchte und leicht labile Luft
+vorherrschend. Rückseitig wird aus westlichen Richtungen kühlere,
 trockenere Luft herangeführt, die im Verlauf unter Hochdruckeinfluss
 gerät. Dadurch bildet sich im Laufe der Nacht eine feuchte
 Grundschicht, die sich Freitagvormittag zögerlich auflöst.
 
 Wettergeschehen:
-Meist BKN/OVC ST/ST/AS/CS mit stark schwankenden Untergrenzen: im
-Bergland unter 1000 FT AGL, teils aufliegend. Im Flachland zeitweise
-ST bei 800-1300 FT AGL. Ohne ST Ceiling in 2500-3500 FT AMSL. Höchste
-Obergrenze über FL245, meist kompakt, zeitweise Ausschichtungen
-oberhalb von FL150 möglich. Aus dieser Bewölkung vom östlichen
-Münsterland bis in die Eifel Regen mit wechselnden Intensitäten.
-Örtlich und zeitweise auch kräftiger Regen durch EMBD TCU mit Tops
-zwischen FL150 und FL200.
-Im Nordwesten kaum noch Regen und bereits ausgeschichtete Bewölkung.
-Dort SCT/BKN SC/CU in 2500-5000 FT AMSL, Obergrenze FL100, darüber
-BKN LYR AC/CI ab FL150, höchste Obergrenze über FL245.
+Zu Berichtsbeginn etwa über der Südosthälfte hochreichende frontale
+Bewölkung aus BKN/OVC SC/AS/CS in 2000-3500 FT AMSL, Obergrenze über
+FL245. Darunter gebietsweise SCT/BKN ST in 300-800 FT AGL, im
+Hochsauerland aufliegend. Aus der frontalen Bewölkung fällt Regen mit
+wechselnden Intensitäten. Örtlich und zeitweise auch kräftiger Regen
+durch EMBD TCU mit Tops bis FL150.
+In der Nordwesthälfte überwiegend niederschlagsfrei bei SCT/BKN SC in
+2500-5000 FT AMSL, Obergrenze uneinheitlich, darüber BKN LYR AC/CI ab
+FL100, höchste Obergrenze über FL245. Einzelne Schauer aus ISOL TCU
+mit Tops bis FL140 möglich.
 
-Im Laufe des Nachmittags Verlagerung der kräftigsten Regenfälle und
-des tiefen ST in den Bereich östlich einer Linie Münster-Köln.
-Westlich davon abklingende Regenfälle und ausschichtende Bewölkung.
+Im Laufe der Nacht zögerlicher Abzug der Front nach Osten, in der
+zweiten Nachthälfte im gesamten Bereich niederschlagsfrei.
+Gleichzeitig bereits in der ersten Nachthälfte von Westen deutlicher
+Bewölkungsrückgang. Dann zeitweise SKC, zeitweise dünner SCT SC um
+2000 FT AMSL, im Bergland entsprechend als teils aufliegender BKN ST.
 
-Am Abend wenig Änderung. In der Südosthälfte weiterhin regnerisch bei
-frontaler Bewölkung aus BKN/OVC ST/SC/AS/CS. Im östlichen Bergland
-und in Ostwestfalen Untergrenzen in 0-800 FT AGL. Abseits davon
-Ceiling in 2500-4000 FT AMSL. Obergrenze über FL245. In der
-Nordwesthälfte überwiegend niederschlagsfrei bei SCT/BKN LYR SC/CU
-zwischen 2000 FT AMSL und FL060, darüber BKN LYR AC/CS ab FL100 bis
-über FL245.
-
-Im Laufe der Nacht zögerlicher Abzug der Front nach Osten, ab etwa 00
-UTC im gesamten Bereich niederschlagsfrei. Gleichzeitig in der ersten
-Nachthälfte von Westen deutlicher Bewölkungsrückgang. Dann zeitweise
-SKC, zeitweise dünner SCT SC um 2000 FT AMSL, im Bergland
-entsprechend als teils aufliegender BKN ST.
 In der zweiten Nachthälfte recht verbreitet Übergang zu Dunst/Nebel
-und BKN ST.
+und BKN/OVC ST.
 
 Freitagmorgen im Bergland und im Nordwesten überwiegend Nebel, im
-restlichen Bereich SCT/BKN ST in 300-1000 FT AGL, Obergrenze um 3500
-FT AMSL. Darüber meist wolkenlos oder nur CI-Felder oberhalb von
-FL245.
+restlichen Bereich SCT/BKN ST in 300-1000 FT AGL, Obergrenze um
+3500-4000 FT AMSL. Darüber meist wolkenlos oder nur CI-Felder
+oberhalb von FL245.
 Im Laufe des Vormittags Übergang zu SCT/BKN CU/ST in 1000-2000 FT
 AGL, Obergrenze weiterhin um 3500 FT AMSL.
+
+Am Mittag verbreitet SCT, teils BKN CU/SC in 2500-3500 FT AMSL, mit
+Tops um 5000 FT AMSL, darüber CI-Felder oberhalb von FL245.
+Am Nachmittag auf 4000-5000 FT AMSL ansteigende CU-Basis,
+gebietsweise Auflösung der CU-Bewölkung.
 
 Sichtweite:
 15-30 km. Im Regen je nach Intensität 4-8 km, bei Starkregen
@@ -67,23 +60,23 @@ auf 8-15 km, zum Berichtsende örtlich noch Sichtweiten unter 5 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 250/10KT  18C | 210/05KT  12C |
-1000FT | 260/10KT  17C | 250/05KT  12C |
-1500FT | 280/15KT  15C | 290/05KT  11C |
-2000FT | 290/15KT  14C | 290/05KT  10C |
-3000FT | 290/15KT  13C | 300/05KT  09C |
-5000FT | 280/10KT  09C | 300/05KT  07C |
-FL100  | 200/20KT  01C | 270/10KT M01C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 290/10KT  16C | 240/05KT  15C |
+1000FT | 310/15KT  15C | 240/05KT  13C |
+1500FT | 320/15KT  14C | 240/05KT  12C |
+2000FT | 320/10KT  13C | 240/05KT  11C |
+3000FT | 320/10KT  11C | 240/05KT  09C |
+5000FT | 290/10KT  08C | 300/05KT  08C |
+FL100  | 210/20KT M01C | 220/05KT M01C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 290/05KT  16C | 310/05KT  12C |
-1500FT | 290/10KT  14C | 320/05KT  11C |
-2000FT | 300/10KT  14C | 320/05KT  10C |
-3000FT | 300/15KT  12C | 300/10KT  09C |
-5000FT | 290/15KT  10C | 320/05KT  07C |
-FL100  | 210/15KT  03C | 270/05KT M00C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 300/05KT  15C | 310/05KT  14C |
+1500FT | 310/10KT  14C | 310/05KT  12C |
+2000FT | 320/15KT  13C | 330/05KT  12C |
+3000FT | 330/10KT  11C | 300/05KT  09C |
+5000FT | 310/10KT  09C | 320/05KT  06C |
+FL100  | 230/15KT  00C | 220/10KT  01C |
 
 Turbulenz:
 In und in der Umgebung von eingelagerten TCU mäßig bis stark. Am
@@ -94,14 +87,14 @@ maximale Intensität auf FL200-250 anhebend.
 Vereisung:
 In der frontalen Bewölkung verbreitet mäßig bis FL230. Zusätzlich in
 TCU mäßig bis stark.
-Am Nachmittag im Nordwesten bereits nachlassend. Im Laufe der Nacht
-ostwärts abziehend, ab Freitagfrüh nicht mehr signifikant oder keine.
+Im Laufe der Nacht ostwärts abziehend, ab Freitagfrüh nicht mehr
+signifikant oder keine.
 
 Nullgradgrenze:
-FL110-115. Ab dem Nachmittag von Westen sinkend. Am Abend FL090 im
-Nordwesten und FL105 im Südosten. Bis Freitagfrüh verbreitet auf
-FL085-090 sinkend. Am Vormittag auf FL090-100 ansteigend, im
-Südwesten bis FL105.
+FL090 im Nordwesten und FL105 im Südosten. Bis Freitagfrüh verbreitet
+auf FL085-090 sinkend. Am Vormittag auf FL090-100 ansteigend, im
+Südwesten bis FL105. Bis zum Nachmittag auf FL110-120, im Südwesten
+auf FL125 steigend.
 
 Inversionen:
 Zunächst nicht signifikant. In der Nacht zum Freitag rückseitig der
@@ -110,12 +103,12 @@ schwächeren zwischen 3000 und 4000 FT AMSL. Zudem bei längerem
 Aufklaren Ausbildung einer Bodeninversion unterhalb von 1000 FT AGL,
 die am Vormittag abgebaut wird.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Düsseldorf  17.11 | 17.45 | 05.02 | 05.35
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Düsseldorf  05.02 | 05.35 | 17.09 | 17.42
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 02.10.2026 um
+02.00/05.00 UTC
 
-Regionale Wetterberatungszentrale Essen/Wg
+Regionale Wetterberatungszentrale Essen/Hf
