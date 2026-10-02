@@ -1,103 +1,88 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-742
-FBEU40 EDZH 021200
+916
+FBEU40 EDZH 021800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 02.10.2026, 12.00 UTC bis 03.10.2026, 09.00 UTC
+gültig vom 02.10.2026, 18.00 UTC bis 03.10.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
-Von Westen fließt leicht labile Meeresluft ein. Diese gerät rasch
-unter den Einfluss eines Hochdruckgebiets mit Zentrum über
-Mitteldeutschland, welches Sonnabendfrüh die etwa die Odermündung
-erreicht. Dabei wird die Luftmasse immer weiter stabilisiert, in der
-Nacht bildet sich eine feuchte Grundschicht aus.
+Unter Hochdruckeinfluss bildet sich in der Nacht eine feuchte
+Grundschicht, die sich am Samstag teils nur zögerlich auflöst.
 
 Wettergeschehen:
-Verbreitet zeigt sich SCT/BKN CU mit Untergrenzen in 2500-3500 FT
-AMSL und Obergrenzen in 3500-5000 FT AMSL. Den äußersten Osten des
-Vorhersagegebiets beeinflusst noch die abziehende Front eines Tiefs
-bei Island, dort zeigt sich BKN/OVC CU/SC/AC-Bewölkung mit
-Untergrenzen in 2000-3000 FT AMSL und Obergrenzen in FL090-120. Aus
-dieser Bewölkung fällt lokal etwas Regen oder Sprühregen, in dem die
-Untergrenzen auf um 1500 FT AMSL zurückgehen. Zudem zeigt sich
-SCT/BKN CI, im Südosten oberhalb von FL220-240, im Nordwesten
-oberhalb von FL180-200.
+Vereinzelt zeigt sich FEW/SCT SC zwischen 2000 und 4000 FT AMSL, über
+Niedersachsen ziehen gebietsweise SCT/BKN CI in Schichten oberhalb
+FL180 durch. Ansonsten ist es wolkenlos.
+Bereits in der ersten Nachthälfte bilden sich über Land erste Dunst-
+und Nebelfelder, die sich im Laufe der Nacht ausweiten und
+verdichten. Zum Morgen hin können diese vor allem im Osten
+gebietsweise zum BKN/OVC ST unterhalb von etwa 800 FT AGL
+heranwachsen.
 
-Über den Nachmittag steigen die Untergrenzen der CU auf 3000-4000 FT
-AMSL, vereinzelt auch 4500 FT AMSL an, die Obergrenzen liegen in
-FL050-060. Am späten Nachmittag löst sich die Bewölkung vielfach
-gänzlich auf und es wird sonnig. Die frontale Bewölkung zieht rasch
-nach Osten ab, sodass sich rückseitig die oben genannten Bedingungen
-durchsetzen können.
-
-Am Abend und in der Nacht zum Sonnabend löst sich die CU-Bewölkung
-vielerorts auf, vereinzelt verbleibt FEW/SCT SC zwischen 2000 FT und
-4000 FT AMSL. Die höhere CI-Bewölkung schichtet im Südosten aus. Bei
-klaren Verhältnissen bildet sich über Land noch in der ersten
-Nachthälfte, sonst etwas später, Dunst und Nebel, die zu BKN/OVC ST
-unterhalb von etwa 1000 FT AGL anwachsen können. Bis zum Ende der
-Nacht haben Dunst, Nebel und Stratus nahezu das gesamte
-Vorhersagegebiet erfasst.
-
-Am Sonnabend lösen sich Dunst und Nebel von der Ems her auf. Auch der
-ST dünnt sich aus, löst sich auf oder geht in SCT/BKN CU mit
-Untergrenzen um 500 FT und Obergrenzen um 1000 FT AGL über. Über der
-Deutschen Bucht geht die Bewölkung in AC/CI über, die Untergrenzen
-erreichen FL120-150.
+Am Vormittag lösen sich zunächst die flacheren Dunst- und Nebelfelder
+auf, während sich der dichtere Nebel mit dem ST hartnäckiger hält und
+sich erst gegen Mittag auflösen kann. Gleichzeitig zieht von
+Südwesten her gebietsweise BKN CI oberhalb FL180 auf. Gegen Mittag
+bilden sich über Land FEW/SCT CU mit Basis zunächst in 1000-2000 FT
+AMSL, am Nachmittag auf 2000-3000 FT AMSL im Norden und 3500-4500 FT
+AMSL im Süden ansteigend, Obergrenzen in FL050-080. Im östlichen
+Niedersachsen können sich die CU zu SCT/BKN verdichten.
+Im Nachmittagsverlauf zieht über der nordwestlichen Deutschen Bucht
+BKN SC mit Untergrenzen in 1500-2500 FT AMSL und Obergrenzen in
+FL060-100 auf. Daraus kann örtlich etwas Sprühregen fallen, wodurch
+sich SCT/BKN ST in 700-1200 FT AGL bilden kann.
 
 Sichtweite:
-25-50 km, im Frontbereich noch bei 7-15 km, in Niederschlägen meist
-3-8 km. Bei Nebel und Dunst auf 500 m bis 5 km zurückgehend.
+20-50 km, bei Dunst auf 1-4 km und bei Nebel auf unter 1 km
+zurückgehend.
 
 Höhenwind und -temperatur:
-GAFOR-Gebiete 00-04:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 280/05KT  16C | 180/05KT  12C |
-1000FT | 280/05KT  15C | 190/10KT  14C |
-1500FT | 280/05KT  13C | 200/10KT  13C |
-2000FT | 280/05KT  11C | 200/10KT  12C |
-3000FT | 300/05KT  09C | 210/10KT  09C |
-5000FT | 300/10KT  07C | 210/10KT  07C |
-FL100  | 250/15KT M01C | 220/10KT  00C |
+GAFOR-Gebiete 00 - 04:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 230/05KT  14C | 170/05KT  13C |
+1000FT | 190/05KT  14C | 200/10KT  13C |
+1500FT | 210/05KT  13C | 200/10KT  12C |
+2000FT | 230/05KT  13C | 200/10KT  11C |
+3000FT | 240/05KT  09C | 200/10KT  09C |
+5000FT | 250/05KT  07C | 190/10KT  07C |
+FL100  | 260/10KT  00C | 220/10KT  01C |
 
-GAFOR-Gebiete 05-10:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 310/05KT  18C | 130/10KT  14C |
-1000FT | 310/05KT  16C | 140/10KT  15C |
-1500FT | 310/05KT  14C | 160/10KT  14C |
-2000FT | 310/05KT  13C | 170/10KT  13C |
-3000FT | 290/05KT  11C | 190/10KT  11C |
-5000FT | 270/05KT  06C | 200/05KT  07C |
-FL100  | 230/10KT  00C | 200/10KT  02C |
+GAFOR-Gebiete 05 - 10:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 080/05KT  16C | 120/05KT  15C |
+1000FT | 090/05KT  15C | 150/05KT  15C |
+1500FT | 110/05KT  14C | 150/05KT  14C |
+2000FT | 130/05KT  13C | 140/05KT  13C |
+3000FT | 180/05KT  10C | 160/05KT  11C |
+5000FT | 210/05KT  07C | 200/10KT  07C |
+FL100  | 260/05KT  02C | 230/10KT  02C |
 
 Turbulenz:
-Im Bereich der Front im Osten gebietsweise mäßige Turbulenz von FL120
-bis oberhalb FL245, rasch ostwärts abziehend.
+Nicht signifikant.
 
 Vereisung:
-Keine signifikante Vereisung.
+Nicht signifikant.
 
 Nullgradgrenze:
-FL080-090, bis zum Abend auf FL090-100 im Norden und FL115-125 im
-Süden ansteigend. Am Sonnabend im Norden auf FL100-110 und im Süden
-auf FL120-130 ansteigend.
+Zwischen FL095-105 im Nordwesten und FL115-125 im Südosten.
 
 Inversionen:
-Am Abend bildet sich über Land verbreitet eine Bodeninversion
-unterhalb von 500-1000 FT AGL. Diese löst sich am Vormittag auf. Am
-Sonnabend setzt sich von Süden zögerlich eine schwache
-Absinkinversion / Isothermie zwischen FL060 und FL090 durch.
+Über Land Bodeninversion, zunächst unterhalb 400 FT AGL, bis zum
+Morgen bis 1000 FT AGL heranwachsend. Diese löst sich im
+Vormittagsverlauf teils nur zögerlich auf.
+Im Süden Absinkinversion oberhalb FL060-080, am Samstag etwas nach
+Norden ausweitend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Schleswig  16.56 | 17.31 | 04.51 | 05.27
-Hannover  16.57 | 17.29 | 04.51 | 05.25
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Schleswig  04.51 | 05.27 | 16.53 | 17.29
+Hannover  04.51 | 05.25 | 16.54 | 17.29
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 03.10.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/Zd
+Luftfahrtberatungszentrale Hamburg/Pi

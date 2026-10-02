@@ -34,19 +34,19 @@ GAFOR Bereich LBZ Berlin 02.10.2026
 
 Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
-11  Mecklenburgisches Tiefland  O  O  O
+11  Mecklenburgisches Tiefland  O  O  D3 ISOL FG
 
-12  Vorpommern  D1 ISOL RADZ  O  O
+12  Vorpommern  D1 ISOL RADZ  O  M6 ISOL FG
 
-13  Westliche Mecklenburgische Seenplatte und Prignitz  O  O  D3 ISOL FG
+13  Westliche Mecklenburgische Seenplatte und Prignitz  O  O  M6 ISOL FG
 
-14  Östliche Mecklenburgische Seenplatte und Uckermark  D1 ISOL RADZ  O  D3 ISOL FG
+14  Östliche Mecklenburgische Seenplatte und Uckermark  D1 ISOL RADZ  O  M6 ISOL FG
 
 15  Altmark  O  C  C
 
 16  Fläming  D1  O  O
 
-17  Havelland  D1  O  D3 ISOL FG
+17  Havelland  D1  O  D3
 
 18  Barnim und Oderbruch  D1 ISOL RADZ  D1 ISOL RADZ  O
 
@@ -58,17 +58,17 @@ Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 22  Leipziger Tieflandsbucht und Elbe-Elster-Niederung  M2 ISOL RADZ  D1  D1
 
-23  Niederlausitzer Heiden  M2 ISOL RADZ  M2 ISOL RADZ  D1 ISOL RADZ
+23  Niederlausitzer Heiden  M2 ISOL RADZ  M2 ISOL RADZ  M5
 
-24  Thüringer Becken  M2 ISOL RADZ  D1  D1
+24  Thüringer Becken  M2 ISOL RADZ  D1  D4
 
-25  Mittelsächsisches Hügelland  X ISOL RADZ  X ISOL RADZ  X ISOL RADZ
+25  Mittelsächsisches Hügelland  X ISOL RADZ  X ISOL RADZ  X ISOL FG
 
-26  Oberlausitz und Lausitzer Gebirge  M2 ISOL RADZ  X ISOL RADZ  M2 ISOL RADZ
+26  Oberlausitz und Lausitzer Gebirge  M2 ISOL RADZ  X ISOL RADZ  M5 ISOL FG
 
-27  Thüringer Wald  X  X  M2
+27  Thüringer Wald  X  X  M8 ISOL FG
 
-28  Erzgebirge  X ISOL RADZ  X ISOL RADZ  X ISOL RADZ
+28  Erzgebirge  X ISOL RADZ  X ISOL RADZ  X ISOL FG
 
 GAFOR-Einstufung RWZ Essen
 
@@ -134,19 +134,19 @@ Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 55  Kocher-Jagst-Gebiet und Frankenhöhe  O  C  C
 
-56  Mittelfranken  O  O  O
+56  Mittelfranken  O  O  M2
 
-57  Oberfranken  M2 ISOL DZ  M2  M2
+57  Oberfranken  M2 ISOL DZ  D1  D1
 
-58  Frankenwald und Fichtelgebirge  X ISOL DZRA  X ISOL DZ  X
+58  Frankenwald und Fichtelgebirge  X ISOL DZRA  X ISOL DZ  X FRQ FG
 
 62  Schwäbische Alb  O  O  O
 
-63  Fränkische Alb  O  O  C
+63  Fränkische Alb  O  O  M2
 
-64  Oberpfälzer Wald  O  O  C
+64  Oberpfälzer Wald  O  X  O
 
-71  Bodenseeraum  O  O  C
+71  Bodenseeraum  O  O  O
 
 72  Schwäbische Hochebene  O  O  O
 
@@ -156,11 +156,11 @@ Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 75  Östliche Donau- und Naabniederung  D1  O  O ISOL FG
 
-76  Bayerischer Wald  D1  O  C
+76  Bayerischer Wald  D1  M6 ISOL FG  M6 ISOL FG
 
 81  Westliches Alpenvorland  D1  D1  O
 
-82  Östliches Alpenvorland  M2  D1  D1
+82  Östliches Alpenvorland  M2  M2  D1
 
 83  Allgäuer Alpen  X  X  X
 
