@@ -34,41 +34,41 @@ GAFOR Bereich LBZ Berlin 03.10.2026
 
 Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
-11  Mecklenburgisches Tiefland  C  C  O ISOL FG
+11  Mecklenburgisches Tiefland  C  O ISOL FG  O ISOL FG
 
-12  Vorpommern  O  O  D3 ISOL FG
+12  Vorpommern  O  O ISOL FG  D3 ISOL FG
 
-13  Westliche Mecklenburgische Seenplatte und Prignitz  C  C  O ISOL FG
+13  Westliche Mecklenburgische Seenplatte und Prignitz  C  O ISOL FG  O ISOL FG
 
-14  Östliche Mecklenburgische Seenplatte und Uckermark  C  O  D3 ISOL FG
+14  Östliche Mecklenburgische Seenplatte und Uckermark  C  O ISOL FG  D3 ISOL FG
 
-15  Altmark  C  C  D3 ISOL FG
+15  Altmark  C  O ISOL FG  D3 ISOL FG
 
-16  Fläming  O  O  D3 ISOL FG
+16  Fläming  O  O ISOL FG  D3 ISOL FG
 
-17  Havelland  C  O  D3 ISOL FG
+17  Havelland  C  O ISOL FG  D3 ISOL FG
 
-18  Barnim und Oderbruch  O  O  D3 ISOL FG
+18  Barnim und Oderbruch  O  O ISOL FG  D3 ISOL FG
 
-19  Dahme-Spree-Gebiet und Gubener Waldland  O  O  D3 ISOL FG
+19  Dahme-Spree-Gebiet und Gubener Waldland  O  O ISOL FG  D3 ISOL FG
 
-20  Magdeburger Börde und Nördliches Harzvorland  O  O  D3 ISOL FG
+20  Magdeburger Börde und Nördliches Harzvorland  O  O ISOL FG  D3 ISOL FG
 
-21  Harz  O  O  X OCNL FG
+21  Harz  O  O ISOL FG  X ISOL FG
 
-22  Leipziger Tieflandsbucht und Elbe-Elster-Niederung  O  O  X ISOL FG
+22  Leipziger Tieflandsbucht und Elbe-Elster-Niederung  O  O ISOL FG  X ISOL FG
 
-23  Niederlausitzer Heiden  C  O  D3 ISOL FG
+23  Niederlausitzer Heiden  O  O ISOL FG  D3 ISOL FG
 
-24  Thüringer Becken  O  O  X OCNL FG
+24  Thüringer Becken  O  O ISOL FG  X OCNL FG
 
-25  Mittelsächsisches Hügelland  O  O  D3 ISOL FG
+25  Mittelsächsisches Hügelland  D1  O ISOL FG  D3 ISOL FG
 
-26  Oberlausitz und Lausitzer Gebirge  C  C  D3 ISOL FG
+26  Oberlausitz und Lausitzer Gebirge  C  O ISOL FG  D3 ISOL FG
 
-27  Thüringer Wald  D1  D1  X OCNL FG
+27  Thüringer Wald  D1  M2 ISOL FG  X OCNL FG
 
-28  Erzgebirge  D1  D1  D3 ISOL FG
+28  Erzgebirge  M2  M2 ISOL FG  M5 ISOL FG
 
 GAFOR-Einstufung RWZ Essen
 
@@ -138,7 +138,7 @@ Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 57  Oberfranken  O  C  O
 
-58  Frankenwald und Fichtelgebirge  O  O  O
+58  Frankenwald und Fichtelgebirge  O  M2  M2
 
 62  Schwäbische Alb  O  O  O
 
