@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-091
-FBEU40 EDZM 030600
+681
+FBEU40 EDZM 031200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 03.10.2026, 06.00 UTC bis 04.10.2026, 03.00 UTC
+gültig vom 03.10.2026, 12.00 UTC bis 04.10.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
@@ -12,63 +12,71 @@ Wetterlage und -entwicklung:
 Süddeutschland liegt im Einflussbereich einer Hochdruckbrücke. Die
 Luftmasse ist in höheren Schichten trocken, in der Grundschicht vor
 allem morgens und nachts sehr feucht. Im Allgäu wird am Nachmittag
-und Abend eine feucht-labilere Luftmasse herangeführt.
+und Abend eine feucht-labilere Luftmasse herangeführt. In der zweiten
+Nachthälfte zum Sonntag fließt von Westen, besonders nördlich der
+Donau, eine feuchtere Luft in das Gebiet, welche sich am Sonntag
+weiter nach Osten ausbreitet.
 
 Wettergeschehen:
-Gebietsweise zieht SCT/BKN SC mit wechselnder Basis zwischen 3000 FT
-AMSL und FL060 durch, Obergrenze zwischen FL060 und FL090. In nur
-vorübergehenden Wolkenlücken haben sich flache Nebel- oder
-Dunstfelder gebildet. Bei größeren, länger andauernden Wolkenlücken
-hat sich hingegen dichter Nebel gebildet. In Franken verbreitet, in
-Schwaben gebietsweise, findet sich unter dem SC SCT/BKN ST mit tiefer
-Basis zwischen 1500 und 2000 FT AMSL, der damit teils als Nebel
-aufliegt.
+Verbreitet ist SCT/BKN CU/SC vorherrschend mit Untergrenzen in 3000
+bis 4000 FT AMSL und Obergrenzen variabel zwischen FL060 und FL090.
+Im Bereich der Alpen Untergrenzen in FL060 bis FL070 und Obergrenzen
+bis FL140. Besonders im Kocher-Jagst Gebiet und im Frankenwald sind
+noch ST-felder unter der CU/SC-Bewölkung vorhanden, welche sich
+weiter auflösen sollten.
+Besonders in den Allgäuer Alpen sind am Nachmittag und Abend einzelne
+TCU/CB mit TOPs um FL300 und daraus Schauer möglich, Gewitter sind
+gering wahrscheinlich. Ansonsten ist und bleibt es niederschlagsfrei.
 
-Am Vormittag löst sich flacher Nebel oder Dunst rasch auf. Dichterer
-Nebel geht zunächst vorübergehend in tiefbasigen ST über, bevor
-verbreitet ein Übergang in SCT/BKN CU/SC erfolgt, Anfangsbasis
-zwischen 2000 und 3000 FT AMSL, bis zum Nachmittag unter weiterer
-Auflockerung von den Rändern her auf 3500 bis 5000 FT AMSL
-ansteigend. Gebietsweise läuft der CU am Nachmittag allerdings
-nochmal zu BKN SC zwischen 4000 FT AMSL und FL060 breit. Der
-geringste Bedeckungsgrad ist rund um den Bayerischen Wald sowie im
-Bodenseebecken zu erwarten. Über dem CU/SC ziehen im
-Nachmittagsverlauf von Westen CI-Felder oberhalb FL240 auf. Zudem
-sind am Nachmittag und Abend im Allgäu einzelne TCU/CB mit Tops um
-FL300 mit Schauern zu erwarten. Gewitter sind gering wahrscheinlich.
+Im Nachmittagsverlauf lockert die CU/SC-Bewölkung von den Rändern
+zunächst etwas auf und die Untergrenzen steigen auf 3500 bis 5000 FT
+AMSL. Allerdings kommt es gebietsweise zur Ausbreitung und so erneut
+zu BKN SC in 4000 FT AMSL bis FL060. Der geringste Bedeckungsgrad ist
+im Bereich des Bayrischen Waldes und des Bodensees sowie in
+Mainfranken zu erwarten. Gleichzeitig zieht am Nachmittag von Westen
+CI oberhalb von FL240 auf.
 
-Am späten Nachmittag und Abend lockert der CU/SC verbreitet weiter
-auf. Gebietsweise bleiben dünne SC-Schollen zwischen 4000 FT AMSL und
-FL070 zurück, die im Laufe der Nacht zum Sonntag weiter abtrocknen.
-Der CI breitet sich von Westen weiter ostwärts aus, zudem ziehen ab
-dem Abend von Westen AC-Schollen zwischen FL080 und FL130 auf.
+Am späten Nachmittag und Abend lockert die CU/SC Bewölkung vielerorts
+auf. Gebietsweise bleiben SC Schollen bestehen. Vorwiegend am
+Alpenrand sowie vom Frankenwald bis zum Oberpfälzer Wald sind diese
+kompakter und bleiben etwas länger bestehen, während sie ansonsten
+meist im Verlauf der Nacht weiter abtrocknen.
+Zudem bildet sich in der Nacht zum Sonntag, besonders bei
+aufgelockerter SC-Bewölkung, gebietsweise dichter Nebel. Besonders in
+Oberfranken kann sich zudem ST um 2000 FT AMSL bilden.
 
-Bei aufgelockerter SC-Bewölkung bildet sich der Nacht zum Sonntag
-gebietsweise dichter Nebel aus, vor allem in Teilen Oberfrankens ist
-auch wieder tiefbasiger ST um 2000 FT AMSL wahrscheinlich.
+Im Verlauf des Sonntagvormittags löst sich der Nebel von Südwesten
+langsam auf. Dichter Nebel geht dabei vorübergehend in tiefen ST
+über. Anschließend geht die Bewölkung verbreitet in SCT/BKN CU/SC mit
+Untergrenze um 3000 FT AMSL über, in Oberschwaben und dem
+Bodenseeraum als FEW-Bewölkung auch mit größeren Wolkenlücken.
+Darüber zieht nördlich der Donau von Westen eine geschichtete SCT/BKN
+AC/CI Bewölkung auf. Dabei sinken die Untergrenzen zunehmend ab und
+liegen zum Berichtsende variabel zwischen FL160 und FL200. Südlich
+der Donau ziehen gebietsweise hohe CI-Felder oberhalb von FL240
+durch.
 
 Sichtweite:
-Verbreitet 10 bis 20 km, im Nebel wenige hundert Meter, im Dunst oder
-unter tiefem ST 1 bis 5 km. Tagsüber Anstieg auf 20 bis 50 km, im
-Schauer oder Gewitter lokal auf 2 bis 6 km eingeschränkt. In der
-Nacht zum Sonntag erneuter Rückgang auf 10 bis 20 km, im Nebel wenige
-hundert Meter, im Dunst oder unter tiefem ST 1 bis 5 km.
+Verbreitet 20 bis 50 km, im Schauer oder Gewitter lokal auf 2 bis 6
+km zurück gehend. Unter tiefem ST lokal 3 bis 6 km. In der Nacht zum
+Sonntag Rückgang auf 10 bis 20 km, im Nebel wenige hundert Meter, im
+Dunst oder unter tiefem ST 1 bis 5 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  09 UTC  |  21 UTC  |
-1500FT | 090/05KT  14C | 350/05KT  17C |
-2000FT | 090/05KT  14C | 010/05KT  17C |
-3000FT | 160/05KT  13C | 150/05KT  14C |
-5000FT | 150/05KT  10C | 230/05KT  11C |
-FL100  | 240/20KT  03C | 240/20KT  05C |
+AMSL  |  15 UTC  |  06 UTC  |
+1500FT | 360/05KT  18C | 090/05KT  14C |
+2000FT | 360/05KT  17C | 080/05KT  14C |
+3000FT | 280/05KT  14C | 350/05KT  13C |
+5000FT | 290/05KT  11C | 270/05KT  10C |
+FL100  | 250/20KT  05C | 260/15KT  05C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  09 UTC  |  21 UTC  |
-2000FT | 090/05KT  15C | 070/05KT  17C |
-3000FT | 110/05KT  12C | 320/05KT  15C |
-5000FT | 100/05KT  11C | 320/05KT  12C |
-FL100  | 280/05KT  04C | 230/05KT  04C |
+AMSL  |  15 UTC  |  06 UTC  |
+2000FT | 020/05KT  20C | 130/05KT  15C |
+3000FT | 020/05KT  16C | 090/05KT  14C |
+5000FT | 360/05KT  12C | 050/05KT  11C |
+FL100  | 220/10KT  04C | 270/10KT  03C |
 
 Turbulenz:
 In Verbindung mit TCU/CB mäßig bis stark.
@@ -77,26 +85,21 @@ Vereisung:
 In Verbindung mit TCU/CB mäßig bis stark.
 
 Nullgradgrenze:
-Zunächst zwischen FL110 in Oberfranken und FL130 in Unterfranken, im
-nördlichen Franken vereinzelt mit unterkühlter Schicht um FL105. Im
-Tagesverlauf verbreitet ansteigend, gegen Mittag verbreitet zwischen
-FL115 und FL130. Ab Samstagabend wieder auf FL110 bis FL120
-absinkend.
+Zwischen FL115 im Bodenseeraum und FL130 in Oberfranken. In der Nacht
+und Sonntagvormittag absinkend auf verbreitet FL110 bis FL120.
 
 Inversionen:
-In wolkenfreien Gebieten Bodeninversion mit Obergrenze zwischen 2000
-und 3000 FT AMSL, unter der Bewölkung teils als leicht abgehobene
-Inversion zwischen 2000 und 3000 FT AMSL. Darüber gebietsweise
-Absinkinversion zwischen FL050 und FL070. Die Bodeninversion wird im
-Laufe des Vormittags abgebaut und bildet sich in der Nacht zum
-Sonntag verbreitet erneut aus.
+Gebietsweise Absinkinversion zwischen FL050 und FL070. In der Nacht
+zum Sonntag vielerorts Ausbildung einer Bodeninversion mit Obergrenze
+in 2500 bis 3500 FT AMSL.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Nürnberg  04.46 | 05.18 | 16.50 | 17.22
-München  04.44 | 05.14 | 16.48 | 17.20
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Nürnberg  16.50 | 17.22 | 04.48 | 05.20
+München  16.48 | 17.20 | 04.44 | 05.16
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale München/ip
+Luftfahrtberatungszentrale München/ma
