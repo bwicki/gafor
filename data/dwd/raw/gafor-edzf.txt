@@ -1,7 +1,7 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-972
-FBEU40 EDZF 041800
+565
+FBEU40 EDZF 041800 COR
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
 gültig vom 04.10.2026, 18.00 UTC bis 05.10.2026, 15.00 UTC
@@ -20,15 +20,17 @@ Wettergeschehen:
 Anfangs dominiert verbreitet BKN LYR AC/CI oberhalb etwa FL150. Über
 Baden-Württemberg zeigt sich anfangs BKN SC/AC/CI mit Basis um FL070
 und Obergrenzen oberhalb FL245. Darin können sich EMBD CB mit TOPs um
-FL280 ausbilden. Damit verbunden treten leichte Regenschauer auf,
-einzelne Entladungen sind nicht gänzlich ausgeschlossen.
+FL280 ausbilden. Damit verbunden treten Regenschauer auf, einzelne
+Entladungen sind nicht gänzlich ausgeschlossen. Westlich des Rheins
+ist es bereits häufig wolkenlos oder es zeigt sich CI oberhalb von
+FL200.
 
 Ende der ersten, zum Beginn der zweiten Nachthälfte zieht die
 hochreichende Bewölkung über Baden-Württemberg ostwärts ab und geht
 in SCT/BKN SC/AC mit Basis zwischen 3000-4000 FT AMSL und Obergrenzen
 um FL090 über. Es ist dann wieder niederschlagsfrei. Nördlich davon
-bilden sich vor allem in Flussniederungen und Tallagen erste Dunst-
-und Nebelfelder aus.
+bilden sich, bei meist wolkenlosem Himmel, vor allem in
+Flussniederungen und Tallagen erste Dunst- und Nebelfelder aus.
 
 In der zweiten Nachthälfte dann meist wolkenfrei und in weiten Teilen
 Dunst und Nebel. Über Baden-Württemberg zusätzlich teils FEW/SCT
