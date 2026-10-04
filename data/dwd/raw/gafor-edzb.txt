@@ -1,75 +1,58 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-918
-FBEU40 EDZB 031800
+332
+FBEU40 EDZB 040600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 03.10.2026, 18.00 UTC bis 04.10.2026, 15.00 UTC
+gültig vom 04.10.2026, 06.00 UTC bis 05.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Unter Hochdruckfluss bildet sich Eingangs der Nacht verbreitet eine
-feuchte Grundschicht aus, welche im Laufe des Sonntages langsam
-abgebaut wird. Dabei bleibt fließt weiterhin eine sehr milde und
-feuchte Luftmasse ein.
+Ein Hochdruckgebiet erstreckt sich von den Britischen Inseln über
+Deutschland bis nach Südosteuropa. Bei geringen Luftdruckgegensätzen
+ist weiterhin milde Luft mit einer anfänglich feuchten Grundschicht
+wetterbestimmend.
 
 Wettergeschehen:
-Zu Beginn häufig in der Mitte und in der Südhälfte SCT/BKN SC in
-2500-4000 FT AMSL, Obergrenzen um FL050. Anderenorts FEW SC oder
-neben hohen CI-Feldern wolkenfrei. Lokal, insbesondere im Südwesten,
-erste Bildung von Nebel.
-
-Im weiteren Nachtverlauf rasch Bildung von dichtem Nebel mit
-anschließendem, vor allem in der zweiten Nachthälfte, aufliegendem ST
-oder 100-200 FT AGL mit Obergrenzen um 500 FT AGL. Zuerst
-Nebel-/ST-Bildung in wolkenarmen Regionen, anschließend auch unterm
-SC. Geringste Nebel-/ST-Neigung in Mecklenburg-Vorpommern, hier lokal
-ganz flache Nebelfelder möglich. Ausgangs der Nacht in Mecklenburg
-von Nordwest über die Ostsee kommende BKN SC-Bewölkung zwischen
-1000-2000 FT AMSL, Obergrenzen um FL080.
-
-Am Sonntagmorgen verbreitet dichter Nebel mit aufliegendem ST oder
-100-200 FT AGL, Obergrenzen um 500-900 FT AGL. In
-Mecklenburg-Vorpommern im Nordwesten der SC und ganz lokal flache
-Nebelfelder sonst nur CI Bewölkung oberhalb FL180.
-Im Laufe des Sonntagvormittags zögerliches Auflösen/Anheben des
-Nebels/ST. Bis zum Mittag lokal weiterhin Nebelfelder, vor allem im
-Südwesten, möglich. Ansonsten meist aufgelöst und ST auf 500-1000 FT
-AGL anhebend und in SC übergehend. In der Südhälfte meist noch in
-SCT/BKN ST, in der Nordhälfte dagegen meist nur FEW ST. Entlang der
-Küste weiterhin der SC um 1000-2000 FT AMSL.
-Am Nachmittag Auflösung auch der letzten Nebelfelder. Im Verlauf
-verbreitet Bildung von FEW/SCT CU, in der Südhälfte Übergang von
-SCT/BKN ST/SC in CU in 2000-3000 FT AMSL, Obergrenzen zwischen
-FL060-FL080. In Mecklenburg-Vorpommern Anheben des SC in 1500-2500 FT
-AMSL.
+Durchzug von SCT/BKN AC/CI oberhalb von FL200, in Sachsen und dem
+Südosten Thüringens örtlich Durchzug von SCT/BKN SC zwischen 3000 und
+5000 FT AMSL.
+Im Verlauf der Nacht in Thüringen und Sachsen-Anhalt verbreitet, im
+Nordwesten Brandenburgs und in Mecklenburg örtlich Nebel mit teils
+aufliegender Bewölkung, am Sonntagvormittag zögerlich auflösend.
+An der Küste bis zum Morgen Aufzug von SCT/BKN SC zwischen 1000 und
+2000 FT AGL, am Vormittag langsam weiter ins Binnenland ziehend,
+dabei im Laufe des Vormittags auf 2000 bis 3000 FT AMSL anhebend.
+Am Nachmittag verbreitet SCT bis BKN CU/SC bei 3000 bis 5000 FT AMSL,
+zum Abend größtenteils auflösend.
 
 Sichtweite:
-Zu Beginn 10-25 km. In der Nacht mit Nebelbildung rasch auf unter
-wenige 100 m verschlechternd, ansonsten im Norden 2-10 km. Im Laufe
-des Sonntages langsam auf 4-10 km verbessernd, am Nachmittag auf
-10-25 km.
+In Thüringen und Sachsen-Anhalt verbreitet, im übrigen Bereich
+örtlich Nebel mit 100 bis 500 m Sicht, sonst häufig Dunst um 4 km,
+selten 15 bis 25 km. Am Vormittag nach Auslösung der Nebelfelder
+verbreitet 30 bis 50 km, in der Nacht zum Montag erneut gebietsweise
+Nebelbildung.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 210/05KT  15C | 250/05KT  14C |
-1000FT | 220/05KT  15C | 280/10KT  13C |
-1500FT | 240/05KT  13C | 280/10KT  12C |
-2000FT | 240/05KT  13C | 280/10KT  12C |
-3000FT | 270/10KT  10C | 290/10KT  10C |
-5000FT | 270/10KT  07C | 300/10KT  07C |
-FL100  | 290/10KT  02C | 290/10KT  00C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 270/05KT  13C | 300/05KT  14C |
+1000FT | 290/10KT  13C | 270/05KT  13C |
+1500FT | 280/10KT  12C | 270/10KT  12C |
+2000FT | 280/10KT  12C | 270/10KT  11C |
+3000FT | 280/10KT  08C | 270/15KT  09C |
+5000FT | 270/10KT  07C | 280/15KT  08C |
+FL100  | 290/15KT  01C | 290/15KT  01C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 310/05KT  16C | 240/05KT  12C |
-1500FT | 260/05KT  15C | 170/05KT  13C |
-2000FT | 270/05KT  14C | 080/05KT  12C |
-3000FT | 290/05KT  11C | 300/05KT  10C |
-5000FT | 270/05KT  08C | 260/05KT  06C |
-FL100  | 260/15KT  04C | 270/10KT  02C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 250/05KT  12C | 220/05KT  15C |
+1500FT | 290/05KT  12C | 240/05KT  14C |
+2000FT | 320/05KT  12C | 260/05KT  13C |
+3000FT | 330/05KT  08C | 340/05KT  10C |
+5000FT | 280/05KT  07C | 340/05KT  09C |
+FL100  | 290/05KT  02C | 330/10KT  01C |
 
 Turbulenz:
 Nicht signifikant.
@@ -78,14 +61,11 @@ Vereisung:
 Nicht signifikant.
 
 Nullgradgrenze:
-Zwischen FL105-110 an der Küste und FL125-130 in den Mittelgebirgen.
-Am Sonntag langsam auf FL100 an der Küste und FL110 an den
-Mittelgebirgen absinkend.
+FL100 im Norden, FL115 im Süden, zum Abend allgemein um FL100
 
 Inversionen:
-Absinkinversion im Laufe der Nacht auf FL050-070 absinkend. Zudem ab
-dem Abendstunden Ausbildung einer Bodeninversion bis etwa 1000 FT
-AGL, am Vormittag langsam auflösend.
+Bodeninversion bis etwa 1000 FT AGL, am Vormittag langsam auflösend,
+darüber schwach um FL050
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Berlin  04.37 | 05.12 | 16.36 | 17.11
@@ -93,7 +73,6 @@ Leipzig  04.41 | 05.16 | 16.42 | 17.15
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 04.10.2026 um
-02.00/05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale Berlin/Hi
+Luftfahrtberatungszentrale Berlin/sae
