@@ -4,29 +4,29 @@ GAFOR-Einstufung LBZ Hamburg
 
 GAFOR Bereich LBZ Hamburg 06.10.2026
 
-Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
+Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
-00  Deutsche Bucht  M2 ISOL DZ  M2 ISOL DZ  M2 ISOL DZ
+00  Deutsche Bucht  M2 ISOL DZ  M2 ISOL DZ  M5 ISOL DZ
 
-01  Ostfriesland  D1  D1  O
+01  Ostfriesland  D1  D4 ISOL FG  M7 ISOL FG
 
-02  Nordfriesland-Dithmarschen  M2 ISOL DZ  D1 ISOL DZ  D1 ISOL DZ
+02  Nordfriesland-Dithmarschen  D1 ISOL DZ  D1 ISOL DZ  M8 ISOL DZ
 
-03  Schleswig-Holsteinische Geest  D1 ISOL DZ  D1 ISOL DZ  D1 ISOL DZ
+03  Schleswig-Holsteinische Geest  D1 ISOL DZ  D4 ISOL DZ  M8 ISOL DZ
 
-04  Schleswig-Holsteinisches Hügelland  D1 ISOL DZ  D1 ISOL DZ  D1 ISOL DZ
+04  Schleswig-Holsteinisches Hügelland  D1 ISOL DZ  D4 ISOL DZ  M8 ISOL DZ
 
-05  Nordwestliches Niedersachsen  D1  O  O
+05  Nordwestliches Niedersachsen  O  O  D3 ISOL FG
 
-06  Lüneburger Heide  O  O  O
+06  Lüneburger Heide  O  O  D3 ISOL FG
 
-07  Westliches Niedersachsen  O  O  O
+07  Westliches Niedersachsen  O  O  O ISOL FG
 
-08  Hannover und Braunschweig  O  O  O
+08  Hannover und Braunschweig  C  C  O ISOL FG
 
-09  Teutoburger Wald  O  O  O
+09  Teutoburger Wald  O  O  O ISOL FG
 
-10  Weser-Leine-Bergland  O  O  O
+10  Weser-Leine-Bergland  O  O  O ISOL FG
 
 GAFOR-Einstufung LBZ Berlin
 
@@ -158,11 +158,11 @@ Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 76  Bayerischer Wald  C  C  C
 
-81  Westliches Alpenvorland  C  C  C
+81  Westliches Alpenvorland  C  C  O ISOL TSRA
 
 82  Östliches Alpenvorland  C  C  C
 
-83  Allgäuer Alpen  O ISOL SHRA  D1 ISOL TSRA  D1 ISOL SHRA
+83  Allgäuer Alpen  O ISOL SHRA  D1 ISOL TSRA  D1 ISOL TSRA
 
 84  Östliche Bayerische Alpen  O  O  O
 
