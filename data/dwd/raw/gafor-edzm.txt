@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-364
-FBEU40 EDZM 070300
+282
+FBEU40 EDZM 070600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 07.10.2026, 03.00 UTC bis 08.10.2026, 00.00 UTC
+gültig vom 07.10.2026, 06.00 UTC bis 08.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
@@ -21,14 +21,14 @@ Vorderseitig der Front wird mit einer südwestlichen Strömung eine
 feucht-labile Luftmasse nach Süddeutschland geführt.
 
 Wettergeschehen:
-Verbreitet Durchzug von SCT/BKN AC mit Untergrenzen in FL090 bis
-FL120, die niedrigsten Werte südlich der Donau. Obergrenzen um FL180.
-Darüber lokal Durchzug von CI oberhalb von FL220. Darunter örtlich
-FEW/SCT SC-Schollen meist zwischen 5000 FT AMSL und FL070. Dort wo es
-nachts zeitweise aufklarte, mit Schwerpunkt in Flussniederungen sowie
-in einem Streifen von Augsburg bis zum Innviertel, konnten sich
-örtlich Dunst- und Nebelfelder mit Obergrenze um 2000 FT AMSL bilden,
-welche sich ausgangs der Nacht lokal noch verdichten können.
+Verbreitet Durchzug von SCT/BKN AC mit variablen Untergrenzen
+zwischen FL110 bis FL150, Obergrenzen um FL180. Im Süden fällt daraus
+lokal etwas Regen, welcher jedoch den Boden nicht erreicht. Darüber
+lokal Durchzug von CI oberhalb von FL220. Dort wo es nachts zeitweise
+aufklarte, mit Schwerpunkt in Flussniederungen sowie in einem
+Streifen von Augsburg bis zum Innviertel, konnten sich örtlich Dunst-
+und Nebelfelder mit Obergrenze um 2000 FT AMSL bilden, welche sich
+ausgangs der Nacht lokal noch verdichten können.
 
 Im Vormittagsverlauf Auflösung der Dunst- und Nebelfelder. Zudem
 Abzug der AC-Bewölkung nach Tschechien. Anschließend vielerorts
@@ -65,19 +65,19 @@ im Schauer und unter tiefem ST 2 bis 4 km, im Gewitter lokal um 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  06 UTC  |  18 UTC  |
-1500FT | 140/05KT  15C | 170/10KT  21C |
-2000FT | 160/05KT  15C | 170/10KT  21C |
-3000FT | 190/05KT  14C | 190/10KT  16C |
-5000FT | 190/05KT  10C | 220/10KT  12C |
-FL100  | 200/10KT  01C | 260/15KT  03C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 150/05KT  16C | 170/15KT  20C |
+2000FT | 160/05KT  15C | 170/15KT  20C |
+3000FT | 200/05KT  13C | 200/15KT  17C |
+5000FT | 200/10KT  10C | 220/15KT  13C |
+FL100  | 230/05KT  01C | 240/20KT  02C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  06 UTC  |  18 UTC  |
-2000FT | 200/05KT  14C | 130/10KT  21C |
-3000FT | 230/10KT  15C | 140/05KT  17C |
-5000FT | 240/10KT  11C | 230/05KT  14C |
-FL100  | 240/10KT M00C | 250/25KT  02C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 180/05KT  15C | 140/10KT  19C |
+3000FT | 240/10KT  15C | 140/10KT  18C |
+5000FT | 240/15KT  11C | 170/10KT  15C |
+FL100  | 260/15KT M00C | 240/20KT  02C |
 
 Turbulenz:
 In Verbindung mit TCU/CB mäßig bis stark.
@@ -102,6 +102,6 @@ München  04.49 | 05.20 | 16.40 | 17.12
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Luftfahrtberatungszentrale München/ma

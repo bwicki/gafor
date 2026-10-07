@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-894
-FBEU40 EDZH 070300
+280
+FBEU40 EDZH 070600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 07.10.2026, 03.00 UTC bis 08.10.2026, 00.00 UTC
+gültig vom 07.10.2026, 06.00 UTC bis 08.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
@@ -68,24 +68,24 @@ sonst 30-50 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 00-04:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 140/05KT  14C | 130/10KT  17C |
-1000FT | 150/10KT  14C | 150/15KT  16C |
-1500FT | 170/10KT  13C | 160/20KT  15C |
-2000FT | 170/10KT  12C | 160/20KT  14C |
-3000FT | 190/10KT  10C | 190/15KT  10C |
-5000FT | 190/10KT  08C | 210/15KT  07C |
-FL100  | 230/10KT  01C | 220/20KT  02C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 140/10KT  14C | 150/10KT  15C |
+1000FT | 150/10KT  13C | 170/20KT  16C |
+1500FT | 160/10KT  14C | 190/15KT  15C |
+2000FT | 160/10KT  13C | 190/15KT  14C |
+3000FT | 170/15KT  10C | 200/15KT  10C |
+5000FT | 160/15KT  07C | 210/10KT  08C |
+FL100  | 220/15KT  01C | 200/20KT  00C |
 
 GAFOR-Gebiete 05-10:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 130/10KT  14C | 140/10KT  20C |
-1000FT | 160/10KT  16C | 160/15KT  20C |
-1500FT | 160/10KT  15C | 180/15KT  18C |
-2000FT | 160/10KT  14C | 190/20KT  17C |
-3000FT | 150/10KT  12C | 200/20KT  14C |
-5000FT | 180/05KT  08C | 220/15KT  10C |
-FL100  | 200/10KT  02C | 220/20KT  02C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 120/05KT  15C | 170/10KT  19C |
+1000FT | 140/10KT  15C | 190/15KT  19C |
+1500FT | 150/10KT  15C | 220/15KT  18C |
+2000FT | 150/10KT  14C | 220/15KT  17C |
+3000FT | 150/10KT  12C | 220/15KT  15C |
+5000FT | 180/10KT  08C | 220/15KT  10C |
+FL100  | 210/15KT  02C | 220/25KT  01C |
 
 Turbulenz:
 In und in der Umgebung von TCU mäßig bis stark.
@@ -115,6 +115,6 @@ Hannover  04.58 | 05.32 | 16.45 | 17.18
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Luftfahrtberatungszentrale Hamburg/Zd
