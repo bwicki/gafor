@@ -30,45 +30,45 @@ Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 GAFOR-Einstufung LBZ Berlin
 
-GAFOR Bereich LBZ Berlin 07.10.2026
+GAFOR Bereich LBZ Berlin 08.10.2026
 
-Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
+Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
 
-11  Mecklenburgisches Tiefland  C  C  C
+11  Mecklenburgisches Tiefland  C ISOL RA  O ISOL RA  D1 ISOL RA
 
-12  Vorpommern  C  C  C
+12  Vorpommern  O  D3 ISOL RA  O ISOL RA
 
-13  Westliche Mecklenburgische Seenplatte und Prignitz  C  C  C
+13  Westliche Mecklenburgische Seenplatte und Prignitz  C ISOL RA  O ISOL RA  M2 ISOL RA
 
-14  Östliche Mecklenburgische Seenplatte und Uckermark  C  C  C
+14  Östliche Mecklenburgische Seenplatte und Uckermark  O  O ISOL RA  D1 ISOL RA
 
-15  Altmark  C  C  C
+15  Altmark  C ISOL RA  O ISOL RA  M2 ISOL RA
 
-16  Fläming  C  C  C
+16  Fläming  C ISOL RA  C ISOL RA  O ISOL RA
 
-17  Havelland  C  C  C
+17  Havelland  C  C ISOL RA  O ISOL RA
 
-18  Barnim und Oderbruch  C  C  C
+18  Barnim und Oderbruch  D3  O ISOL RA  C ISOL RA
 
-19  Dahme-Spree-Gebiet und Gubener Waldland  C  C  C
+19  Dahme-Spree-Gebiet und Gubener Waldland  C  C ISOL RA  C ISOL RA
 
-20  Magdeburger Börde und Nördliches Harzvorland  C  C  C
+20  Magdeburger Börde und Nördliches Harzvorland  C ISOL RA  O ISOL RA  M2 ISOL RA
 
-21  Harz  C  C  C
+21  Harz  O ISOL RA  X ISOL RA  X ISOL RA
 
-22  Leipziger Tieflandsbucht und Elbe-Elster-Niederung  C  C  C
+22  Leipziger Tieflandsbucht und Elbe-Elster-Niederung  C ISOL RA  C ISOL RA  O ISOL RA
 
-23  Niederlausitzer Heiden  C  C  C
+23  Niederlausitzer Heiden  C  C ISOL RA  C ISOL RA
 
-24  Thüringer Becken  C  C  C
+24  Thüringer Becken  C ISOL RA  O ISOL RA  M2 ISOL RA
 
-25  Mittelsächsisches Hügelland  C  C  C
+25  Mittelsächsisches Hügelland  C ISOL RA  C ISOL RA  O ISOL RA
 
-26  Oberlausitz und Lausitzer Gebirge  C  C  C
+26  Oberlausitz und Lausitzer Gebirge  C  C ISOL RA  C ISOL RA
 
-27  Thüringer Wald  C  C  C
+27  Thüringer Wald  D1 ISOL RA  X ISOL RA  X ISOL RA
 
-28  Erzgebirge  C  C  C
+28  Erzgebirge  C ISOL RA  C ISOL RA  C ISOL RA
 
 GAFOR-Einstufung RWZ Essen
 
