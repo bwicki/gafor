@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-845
-FBEU40 EDZM 100300
+389
+FBEU40 EDZM 100600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 10.10.2026, 03.00 UTC bis 11.10.2026, 00.00 UTC
+gültig vom 10.10.2026, 06.00 UTC bis 11.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
@@ -29,12 +29,12 @@ Sprühregenanteil. Wolkenobergrenzen bei FL200, darüber
 ausgeschichteter CI. Im Weststau der bayerischen Mittelgebirge sinkt
 die Wolkenbasis vermehrt auf 2000 FT AMSL ab.
 
-Am Morgen und am Vormittag breitet sich die niederschlagsträchtige
-Bewölkung weiter südostwärts aus. Dadurch kommt es im gesamten Gebiet
-zu anhaltendem, teils kräftigem Regen/Sprühregen. Wolkenbasis dabei
-verbreitet bei nördlich der Donau auch nach Sonnenaufgang noch bei
-2000-3000 FT AMSL, südlich der Donau 2500-3500 FT AMSL. An den Alpen
-erst in den Mittagsstunden auf 3500-4500 FT AMSL absinkend.
+Am Vormittag breitet sich die niederschlagsträchtige Bewölkung weiter
+südostwärts aus. Dadurch kommt es im gesamten Gebiet zu anhaltendem,
+teils kräftigem Regen/Sprühregen. Wolkenbasis dabei verbreitet bei
+nördlich der Donau auch nach Sonnenaufgang noch bei 2000-3000 FT
+AMSL, südlich der Donau 2500-3500 FT AMSL. An den Alpen erst in den
+Mittagsstunden auf 3500-4500 FT AMSL absinkend.
 Am späten Vormittag gelangt dann zunächst Unterfranken, anschließend
 der gesamte Nordwesten auf die Rückseite der Kaltfront. Die Bewölkung
 schichtet aus und geht in BKN CU um 2000 FT AMSL über, bis mittags
@@ -77,19 +77,19 @@ Kaltfrontrückseitig generell Sichtbesserung auf 30-40 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  06 UTC  |  18 UTC  |
-1500FT | 210/15KT  10C | 260/10KT  12C |
-2000FT | 230/20KT  10C | 270/15KT  11C |
-3000FT | 270/35KT  08C | 270/20KT  07C |
-5000FT | 280/30KT  06C | 270/20KT  02C |
-FL100  | 260/30KT M02C | 270/30KT M04C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 240/10KT  10C | 240/20KT  10C |
+2000FT | 250/15KT  10C | 250/20KT  10C |
+3000FT | 280/25KT  07C | 270/25KT  06C |
+5000FT | 280/20KT  05C | 280/20KT  02C |
+FL100  | 260/40KT M03C | 260/35KT M05C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  06 UTC  |  18 UTC  |
-2000FT | 240/15KT  11C | 250/10KT  11C |
-3000FT | 260/35KT  10C | 280/10KT  08C |
-5000FT | 260/25KT  08C | 280/20KT  04C |
-FL100  | 250/25KT M01C | 270/40KT M04C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 240/15KT  11C | 280/10KT  11C |
+3000FT | 270/30KT  09C | 290/15KT  08C |
+5000FT | 280/25KT  06C | 280/20KT  04C |
+FL100  | 250/25KT M02C | 260/40KT M04C |
 
 Turbulenz:
 Anfangs im Nordwesten Mäßige Low-Level Turbulenz unterhalb FL060. Am
@@ -100,10 +100,10 @@ In Verbindung mit TCU mäßig bis stark.
 Vereisung:
 In der frontalen Bewölkung im gesamten Zeitraum immer wieder mäßig
 zwischen Nullgradgrenze und FL180. Abends abschwächend, in der Nacht
-in kompakter Bewölkung erneut unterhalb FL140 aufkommend
+in kompakter Bewölkung erneut unterhalb FL140 aufkommend.
 
 Nullgradgrenze:
-Zunächst um FL095. In den Früh- und Vormittagsstunden von Nordwesten
+Zunächst um FL090. In den Früh- und Vormittagsstunden von Nordwesten
 her absinkend, Mittags dann zwischen FL060 im Nordwesten und FL080 an
 den Alpen. Nachmittags im Südosten weiter auf FL070-075 absinkend. In
 der Nacht dann FL050 in Mainfranken und FL065 an den Alpen.
@@ -118,6 +118,6 @@ München  04.52 | 05.25 | 16.34 | 17.04
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Luftfahrtberatungszentrale München/RY
