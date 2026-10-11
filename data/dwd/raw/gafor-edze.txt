@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-549
-FBEU40 EDZE 110300
+580
+FBEU40 EDZE 110600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 11.10.2026, 03.00 UTC bis 12.10.2026, 00.00 UTC
+gültig vom 11.10.2026, 06.00 UTC bis 12.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
@@ -16,37 +16,35 @@ Gleichzeitig dämpft hoher Luftdruck über Frankreich die Labilität im
 Südwesten des Vorhersagebereiches.
 
 Wettergeschehen:
-SCT/BKN SC in 3000 und 4000 FT AMSL, vor allem nördlich einer Linie
+SCT/BKN SC in 3000 und 5000 FT AMSL, vor allem nördlich einer Linie
 Aachen-Sauerland noch einzelne Schauer mit SCT/BKN TCU mit Basis
 zwischen 1500 und 2500 FT AMSL, Tops zwischen FL120-160. Im Südwesten
 kaum Schauer und zu FEW/SCT auflockernder SC mit Basis in 4000-5000
 FT AMSL, Tops FL080-100. Im Münsterland vor allem unter dem
-Niederschlag gebietsweise BKN ST mit Untergrenzen zwischen 700 und
-1000 FT AGL möglich, im Bergland teils BKN/OVC ST unter 500 FT AGL,
-Kammlagen in Wolken.
+Niederschlag örtlich BKN ST mit Untergrenzen zwischen 800 und 1200 FT
+AGL möglich, im Bergland teils BKN/OVC ST unter 500 FT AGL, Kammlagen
+in Wolken.
 
-Am Sonntagvormittag nur zögerlich anhebende Untergrenzen der
-ST-Bewölkung.
+Am Vormittag nur zögerlich anhebende Untergrenzen der ST-Bewölkung.
 
-Zum Sonntagmittag meist SCT/BKN CU/SC in 2000 bis 3000 FT AMSL,
-Obergrenzen dabei meist um FL080 bis FL090. Zudem erneut auflebende
-und zunehmende Schauertätigkeit in der Nordhälfte sowie im Bergland.
-Vor allem hier und bei Schauern Böen zwischen 25 und 30 KT aus SW
+Zum Mittag meist SCT/BKN CU/SC in 2000 bis 4000 FT AMSL, Obergrenzen
+dabei meist um FL080 bis FL090. Zudem erneut auflebende und
+zunehmende Schauertätigkeit in der Nordhälfte sowie im Bergland. Vor
+allem hier und bei Schauern Böen zwischen 25 und 30 KT aus SW
 möglich. Dabei ISOL TCU/CB mit Tops um FL180, teils bis FL200.
 Einzelne kurze Gewitter im Norden nicht ganz ausgeschlossen.
-Abseits von TCU/CB am Sonntagnachmittag verbreitet SCT/BKN CU/SC/AC
-mit Untergrenzen zwischen 3000 und 4000 FT AMSL, Obergrenzen bis
-FL100.
+Abseits von TCU/CB am Nachmittag verbreitet SCT/BKN CU/SC/AC mit
+Untergrenzen zwischen 3000 und 4000 FT AMSL, Obergrenzen bis FL100.
 
-Sonntagabend im Norden abschwächende Schauertätigkeit, im Südwesten
+Am Abend im Norden abschwächende Schauertätigkeit, im Südwesten
 weiter auflockernde Bewölkung zu FEW/SCT nur noch selten BKN CU/SC/AC
 mit Untergrenzen um 3000 FT AMSL, Obergrenzen um FL080 im weiteren
 Abendverlauf weiter auflockernde mittelhohe Bewölkung und oft nur
-noch FEW/SCT SC um 3000-5000 FT AMLS.
+noch FEW/SCT SC in 3000-5000 FT AMSL.
 
 Eingangs der Nacht zum Montag im Norden noch FEW/SCT SC mit
-Untergrenzen zwischen 2500 und 3500 FT AMSL, darüber noch SCT/BKN AC
-Felder in FL060 bis FL090. Im Süden und Südwesten oft SKC oder
+Untergrenzen zwischen 2500 und 3500 FT AMSL, darüber noch SCT/BKN
+AC-Felder in FL060 bis FL090. Im Süden und Südwesten oft SKC oder
 FEW/SCT SC in 2500-4000 FT AMSL, Obergrenzen um 5000 FT AMSL bis
 FL060.
 
@@ -60,43 +58,43 @@ Felder zwischen 1500 und FL070 im Norden und um 3000 FT AMSL bis
 FL070 im restlichen Gebiet.
 
 Sichtweite:
-30-50 km, in Schauern teils 4-8 km, bei Volltreffern um 2 km. In der
-Nacht zum Montag vor allem im Bergland örtlich Dunst- und Nebel mit
-Sichtweiten teils unter 1 km, bei Dunst 2-5 km, bei aufliegender
-Bewölkung und dichterem Nebel unter 500 m.
+30-50 km, in Schauern je nach Intensität 2-8 km. In der Nacht zum
+Montag vor allem im Bergland örtlich Dunst- und Nebel mit Sichtweiten
+teils unter 1 km, bei Dunst 2-5 km, bei aufliegender Bewölkung und
+dichterem Nebel unter 500 m.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 240/15KT  08C | 260/10KT  12C |
-1000FT | 240/20KT  07C | 270/15KT  11C |
-1500FT | 270/30KT  07C | 280/20KT  09C |
-2000FT | 270/30KT  06C | 290/20KT  08C |
-3000FT | 280/25KT  04C | 290/15KT  05C |
-5000FT | 280/25KT  00C | 270/15KT  02C |
-FL100  | 290/25KT M09C | 310/20KT M06C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 240/15KT  10C | 250/10KT  10C |
+1000FT | 240/15KT  08C | 270/15KT  10C |
+1500FT | 270/25KT  07C | 280/15KT  09C |
+2000FT | 270/25KT  06C | 280/15KT  08C |
+3000FT | 270/25KT  03C | 280/15KT  05C |
+5000FT | 290/30KT  00C | 290/10KT  02C |
+FL100  | 300/25KT M08C | 310/20KT M05C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 240/10KT  07C | 270/05KT  10C |
-1500FT | 260/20KT  06C | 280/15KT  09C |
-2000FT | 260/25KT  05C | 280/20KT  08C |
-3000FT | 280/30KT  03C | 280/20KT  05C |
-5000FT | 280/25KT M00C | 280/20KT  02C |
-FL100  | 280/30KT M09C | 310/20KT M07C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 260/10KT  08C | 260/05KT  09C |
+1500FT | 270/20KT  07C | 280/10KT  08C |
+2000FT | 270/20KT  06C | 280/15KT  08C |
+3000FT | 280/25KT  03C | 290/15KT  05C |
+5000FT | 280/25KT  00C | 280/15KT  02C |
+FL100  | 290/25KT M09C | 310/20KT M06C |
 
 Turbulenz:
-In TCU/CB und deren Umgebung mäßig bis stark. Am Sonntag im
-Tagesverlauf zunehmend auch abseits von TCU/CB mäßig bis 3000 FT
-AMSL, vor allem im Münsterland und dem Bergland.
+In TCU/CB und deren Umgebung mäßig bis stark. Im Tagesverlauf
+zunehmend auch abseits von TCU/CB mäßig bis 3000 FT AMSL, vor allem
+im Münsterland und dem Bergland.
 
 Vereisung:
 Bei TCU/CB mäßig bis stark. Sonst bei mittelhoher AC-Bewölkung teils
 mäßig zwischen FL060 und FL100. Abends abschwächend.
 
 Nullgradgrenze:
-Zwischen 4500 und 5000 FT AMSL, Sonntagmittag FL050-FL055, ab
-Sonntagnachmittag um FL055. In der Nacht zum Montag von Westen erst
+Zwischen 4500 und 5000 FT AMSL, am Mittag FL050-FL055, ab dem
+Nachmittag um FL055. In der Nacht zum Montag von Westen erst
 ansteigend auf FL060, im Nordosten teils noch um FL055. In der
 zweiten Nachthälfte im Westen weiter steigend. Montagfrüh in der
 Eifel teilweise FL060-FL075, sonst zwischen FL055-FL060.
@@ -112,6 +110,6 @@ Düsseldorf  05.16 | 05.49 | 16.49 | 17.21
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Regionale Wetterberatungszentrale Essen/Ts
+Regionale Wetterberatungszentrale Essen/Oh
