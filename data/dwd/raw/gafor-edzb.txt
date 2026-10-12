@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-734
-FBEU40 EDZB 120300
+759
+FBEU40 EDZB 120600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 12.10.2026, 03.00 UTC bis 13.10.2026, 00.00 UTC
+gültig vom 12.10.2026, 06.00 UTC bis 13.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
@@ -15,27 +15,23 @@ trocknet allmählich ab. In der Nacht zum Dienstag kann sich bodennah
 aber teilweise wieder eine feuchte Grundschicht ausbilden.
 
 Wettergeschehen:
-Am Montagmorgen vor allem in einem Streifen von der Prignitz bis nach
-Westmecklenburg teils wolkenlos, sonst überwiegt SCT/BKN SC mit Basis
-bei 2000 bis 3000 FT AMSL und Obergrenze zwischen 4000 FT AMSL und
-FL100. Darunter insbesondere in Sachsen-Anhalt, Brandenburg und
-Sachsen sowie in den Weststaulagen der Mittelgebirge gebietsweise
-SCT/BKN ST bei 300 bis 1000 FT AGL, Kammlagen in Wolken. In
-Vorpommern sowie vom Harz bis nach Sachsen lokal eingelagerte TCU mit
-TOPS bis FL130 und einzelnen Regenschauern, sonst niederschlagsfrei.
+Am Montagmorgen vor allem in einem Streifen vom Berliner Raum bis
+nach Westmecklenburg teils wolkenlos, sonst überwiegt SCT/BKN SC mit
+Basis bei 2000 bis 3000 FT AMSL und Obergrenze zwischen 4000 FT AMSL
+und FL100. Darunter von der Börde bis nach Südbrandenburg sowie in
+den Weststaulagen der Mittelgebirge stellenweise SCT/BKN ST bei 300
+bis 1000 FT AGL, Kammlagen in Wolken. In Vorpommern sowie vom Harz
+bis nach Sachsen lokal eingelagerte TCU mit TOPS bis FL130 und
+einzelnen Regenschauern, sonst niederschlagsfrei.
 
-Am Montagvormittag SCT/BKN, teils FEW/SCT CU/SC mit Basis anfangs bei
-1000 bis 2500 FT AMSL, bis zum Mittag auf 2000 bis 3000 FT AMSL
-anhebend, Obergrenze um FL070. Vom Berliner Raum über die Prignitz
-bis nach Westmecklenburg oftmals auch wolkenlos. Es ist überwiegend
-trocken, einzig in Küstennähe sowie vom Harz bis nach Sachsen aus
-ISOL TCU/CB mit TOPS bis maximal FL100 einzelne schwache
-Regenschauer.
-
-Am Nachmittag und Abend einsetzender Bewölkungsrückgang zu FEW/SCT CU
-mit Basis bei 2500 bis 4500 FT AMSL und Obergrenze um FL070,
-zunehmend auch wolkenlos. Weitgehend trocken, die schwachen
-Regenschauer aus ISOL TCU in besagten Regionen lassen rasch nach.
+Am Montagvormittag vom Berliner Raum bis nach Westmecklenburg
+weiterhin meist wolkenlos, sonst SCT/BKN SC/CU mit Basis bei 2000 bis
+3500 FT AMSL, bis zum Nachmittag bei allgemein einsetzenden
+Bewölkungsrückgang zu FEW/SCT noch weiter anhebende Wolkenbasen auf
+2500 bis 5000 FT AMSL, Obergrenze um FL070. Es ist überwiegend
+trocken, einzig in Küstennähe/Vorpommern sowie vom Harz bis nach
+Sachsen aus ISOL TCU/CB mit TOPS bis maximal FL100 bis zum frühen
+Nachmittag noch einzelne schwache Regenschauer.
 
 In der Nacht zum Dienstag wolkenlos oder flache SC-Schollen um 5000
 FT AMSL. Im Nachtverlauf insbesondere in Flussniederungen und
@@ -47,23 +43,23 @@ Sichtweite:
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 280/10KT  04C | 340/05KT  11C |
-1000FT | 300/20KT  06C | 340/10KT  10C |
-1500FT | 310/20KT  05C | 330/10KT  08C |
-2000FT | 310/20KT  05C | 330/10KT  07C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 280/10KT  08C | 350/05KT  10C |
+1000FT | 300/15KT  06C | 350/05KT  09C |
+1500FT | 330/20KT  06C | 330/05KT  08C |
+2000FT | 330/20KT  05C | 330/05KT  07C |
 3000FT | 320/20KT  03C | 320/10KT  05C |
-5000FT | 320/20KT  00C | 320/15KT  01C |
-FL100  | 320/30KT M08C | 320/25KT M05C |
+5000FT | 320/20KT  01C | 320/10KT  01C |
+FL100  | 320/25KT M08C | 340/20KT M04C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 270/10KT  08C | 060/05KT  11C |
-1500FT | 290/10KT  07C | 020/05KT  10C |
-2000FT | 300/10KT  06C | 340/05KT  09C |
-3000FT | 310/15KT  04C | 290/05KT  06C |
-5000FT | 300/15KT  01C | 290/10KT  02C |
-FL100  | 300/20KT M08C | 330/25KT M04C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 270/10KT  08C | 160/05KT  11C |
+1500FT | 290/15KT  07C | 050/05KT  10C |
+2000FT | 310/10KT  06C | 030/05KT  09C |
+3000FT | 320/15KT  04C | 300/05KT  06C |
+5000FT | 310/15KT  01C | 290/05KT  01C |
+FL100  | 310/15KT M09C | 340/20KT M04C |
 
 Turbulenz:
 Mäßig bis stark in TCU/CB-Nähe, sonst über der Vorpommerschen See bis
@@ -89,6 +85,6 @@ Leipzig  04.56 | 05.29 | 16.25 | 16.57
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Luftfahrtberatungszentrale Berlin/Ru

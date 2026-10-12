@@ -1,28 +1,31 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-301
-FBEU40 EDZF 120300
+094
+FBEU40 EDZF 120600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 12.10.2026, 03.00 UTC bis 13.10.2026, 00.00 UTC
+gültig vom 12.10.2026, 06.00 UTC bis 13.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
 Unter Hochdruckeinfluss ist mit einer nordwestlichen Höhenströmung
 trocken-kühle Luft eingeflossen. Diese hat eine feuchte Grundschicht
-gebildet, welche sich im Vormittagsverlauf wieder auflöst.
+gebildet, welche sich im Vormittagsverlauf wieder auflöst. In der
+Nacht zum Dienstag erreicht die Warmfront eines Tiefs nördlich
+Großbritanniens mit warmer und hochreichend feuchter Luft den
+äußersten Westen des Vorhersagegebiets.
 
 Wettergeschehen:
-Am Morgen liegt über Rheinland-Pfalz, dem Rhein-Main-Gebiet dem
-Großteil Baden-Württembergs eine flache SCT/BKN SC Bewölkung zwischen
-4000 FT AMSL und FL060 vor. Darunter hat sich bei größeren
-Wolkenlücken gebietsweise Dunst, Nebel oder BKN/OVC ST um 500 FT AGL
-gebildet. Im restlichen Vorhersagegebiet hat sich nur örtlich
-feuchter Dunst, Nebel oder tiefer ST gebildet.
+Zu Beginn des Vormittags liegt über Rheinland-Pfalz, dem
+Rhein-Main-Gebiet dem Großteil Baden-Württembergs eine flache SCT/BKN
+SC Bewölkung zwischen 4000 FT AMSL und FL060 vor. Darunter hat sich
+bei größeren Wolkenlücken gebietsweise Dunst, Nebel oder BKN/OVC ST
+um 500 FT AGL gebildet. Im restlichen Vorhersagegebiet hat sich nur
+örtlich feuchter Dunst, Nebel oder tiefer ST gebildet.
 
-Im Vormittagsverlauf lösen sich Dunst, Nebel und ST auf. Im Anschluss
-bildet sich meist FEW, über RLP, dem Rhein-Main Gebiet und
+Im weiteren Vormittagsverlauf lösen sich Dunst, Nebel und ST auf. Im
+Anschluss bildet sich meist FEW, über RLP, dem Rhein-Main Gebiet und
 Baden-Württemberg auch als SCT/BKN, CU mit Basen anfänglich zwischen
 2000-3000 FT AMSL und TOPs bis FL080. Im Nachmittagsverlauf hebt
 dieser auf 3500-4500 FT AMSL an und die TOPs sinken auf FL060 hinab.
@@ -32,33 +35,38 @@ In der ersten Nachthälfte kann sich vereinzelt in Tallagen und
 Flussniederungen bereits Dunst und Nebel ausbilden. Anderswo bleibt
 es zunächst wolkenfrei.
 
+In der zweiten Nachthälfte zieht über RLP eine BKN/OVC LYR SC/AC/CI
+Bewölkung oberhalb von FL055-070 auf. Anderswo ist es weiterhin
+überwiegend wolkenfrei. Weiterhin primär in Tallagen und
+Flussniederungen breitet sich weiter Dunst und Nebel aus.
+
 Sichtweite:
 30-60 km. Im Dunst 5-1 km, im Nebel unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 210/05KT  07C | 140/05KT  12C |
-1500FT | 240/05KT  07C | 170/05KT  11C |
-2000FT | 260/10KT  07C | 190/05KT  10C |
-3000FT | 290/05KT  05C | 230/10KT  07C |
-5000FT | 240/05KT  01C | 270/10KT  05C |
-FL100  | 310/20KT M04C | 320/15KT  01C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 220/05KT  09C | 160/05KT  10C |
+1500FT | 230/05KT  07C | 190/10KT  10C |
+2000FT | 240/05KT  07C | 190/10KT  10C |
+3000FT | 250/10KT  05C | 230/10KT  07C |
+5000FT | 240/05KT  02C | 300/10KT  05C |
+FL100  | 320/20KT M04C | 310/15KT  02C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 210/05KT  10C | 070/05KT  15C |
-1500FT | 210/10KT  10C | 070/05KT  14C |
-2000FT | 230/05KT  09C | 070/05KT  13C |
-3000FT | 240/05KT  06C | 220/05KT  10C |
-5000FT | 300/10KT  03C | 210/10KT  06C |
-FL100  | 310/15KT M03C | 330/15KT  02C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 270/05KT  11C | 080/05KT  14C |
+1500FT | 230/05KT  10C | 110/05KT  14C |
+2000FT | 230/05KT  09C | 130/05KT  13C |
+3000FT | 230/05KT  06C | 220/05KT  10C |
+5000FT | 260/05KT  04C | 260/10KT  07C |
+FL100  | 330/15KT M02C | 320/10KT  02C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-Nicht signifikant.
+Ab der zweiten Nachthälfte über RLP mäßig zwischen FL110-210.
 
 Nullgradgrenze:
 Anfangs zwischen FL060 im Osten und FL080 im Westen. Ab dem
@@ -77,6 +85,6 @@ Karlsruhe  05.11 | 05.42 | 16.43 | 17.14
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Flugwetterzentrale Frankfurt/lb
