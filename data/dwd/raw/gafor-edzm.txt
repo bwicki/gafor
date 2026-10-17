@@ -1,40 +1,40 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-120
-FBEU40 EDZM 170300
+861
+FBEU40 EDZM 170600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 17.10.2026, 03.00 UTC bis 18.10.2026, 00.00 UTC
+gültig vom 17.10.2026, 06.00 UTC bis 18.10.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
 Von Nordwesten greift eine Kaltfront auch Süddeutschland über. Im
-Tagesverlauf breitet sich die Front langsam nach Südosten aus und
-erreicht am Nachmittag die Alpen, beginnt aber gleichzeitig zu
-wellen. In der Nacht zu Sonntag wird sie durch Tiefdruckentwicklung
-auf der Alpensüdseite retrograd und verlagert sich wieder Richtung
-Nordwesten. Mit der Front sickert in den tiefen Schichten sehr
-feuchte Luft ein.
+Tagesverlauf verlagert sich die Front nur langsam südostwärts und
+beginnt gleichzeitig zu wellen. In der Nacht zu Sonntag wird sie
+durch Tiefdruckentwicklung auf der Alpensüdseite retrograd und
+verlagert sich wieder Richtung Nordwesten. Mit der Front sickert in
+den tiefen Schichten sehr feuchte Luft bis an die Alpen.
 
 Wettergeschehen:
 Vom Süden Oberfrankens über die Oberpfalz bis nach Nieder- und ins
-östliche Oberbayern liegen gebietsweise Nebelfelder mit Obergrenzen
-bei 2000-2500 FT AMSL. Westlich davon zeigt sich SCT/BKN SC zwischen
+östliche Oberbayern liegen gebietsweise Dunst- und Nebelfelder mit
+Obergrenzen bei 2000-2500 FT AMSL. Örtlich treten auch ST-Felder bei
+2000-2500 FT AMSL auf. Westlich davon zeigt sich SCT/BKN SC zwischen
 3000-5000 FT AMSL und FL070-090, in Württemberg häufig BKN/OVC ST in
 2000-3000 FT AMSL. Darüber ziehen dichte CI-Felder oberhalb FL200.
 
-Am Morgen und Vormittag verlagert sich die tiefere ST-Bewölkung
-weiter südostwärts, die Obergrenze wächst von Westen her auf
-FL140-160 an. In Württemberg fällt daraus dann schon Regen und
-Sprühregen, die Basis dann oftmals nur wenige 100 FT AGL. Der Nebel
-im Osten Bayerns beginnt sich von Südwesten her aufzulösen, wird aber
-direkt durch die ebenfalls ostwärts ziehende Schichtbewölkung bei
-zunächst noch 3000 FT AMSL abgelöst. Am späteren Vormittag zeigt sich
-nur mehr in Niederbayern und im Osten der Oberpfalz Nebel und
-Hochnebel. Einzig an den Alpen und über dem Vorland noch SC/TBKN
-SC-Bewölkung in 3000-3500 FT AMSL, in den Alpen am frühen vormittag
-teils auch noch sonnig.
+Am Vormittag verlagert sich die tiefere ST-Bewölkung weiter
+südostwärts, die Obergrenze wächst von Westen her auf FL140-160 an.
+In Württemberg fällt daraus dann schon Regen und Sprühregen, die
+Basis dann oftmals nur wenige 100 FT AGL. Der Nebel im Osten Bayerns
+beginnt sich von Südwesten her aufzulösen, wird aber direkt durch die
+ebenfalls ostwärts ziehende Schichtbewölkung bei zunächst noch 3000
+FT AMSL abgelöst. Am späteren Vormittag zeigt sich nur mehr in
+Niederbayern und im Osten der Oberpfalz Nebel und Hochnebel. Einzig
+an den Alpen und über dem Vorland noch SC/TBKN SC-Bewölkung in
+3000-3500 FT AMSL, in den Alpen am frühen vormittag teils auch noch
+sonnig.
 
 Über Mittag zunächst kaum Änderung, nur der der Nebel löst sich dann
 auch im Osten auf, wird aber direkt mit der dichten Schichtbewölkung
@@ -63,19 +63,19 @@ der Nacht dort wieder neblig.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  06 UTC  |  18 UTC  |
-1500FT | 290/10KT  13C | 350/10KT  09C |
-2000FT | 290/15KT  13C | 360/15KT  08C |
-3000FT | 290/15KT  11C | 030/20KT  05C |
-5000FT | 270/20KT  09C | 350/10KT  04C |
-FL100  | 260/20KT  01C | 240/10KT M03C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 310/10KT  13C | 010/15KT  08C |
+2000FT | 300/10KT  12C | 020/15KT  07C |
+3000FT | 300/10KT  09C | 030/20KT  05C |
+5000FT | 290/15KT  07C | 350/05KT  04C |
+FL100  | 250/20KT  01C | 210/15KT M02C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  06 UTC  |  18 UTC  |
-2000FT | 270/05KT  13C | 330/10KT  10C |
-3000FT | 310/10KT  13C | 360/15KT  08C |
-5000FT | 310/05KT  10C | 020/05KT  06C |
-FL100  | 290/05KT  01C | 210/15KT M02C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 290/10KT  13C | 360/15KT  09C |
+3000FT | 320/10KT  11C | 020/15KT  08C |
+5000FT | 290/05KT  09C | 060/05KT  07C |
+FL100  | 250/05KT  00C | 210/10KT M01C |
 
 Turbulenz:
 Am Samstagvormittag in Mainfranken unterhalb von FL100 leicht bis
@@ -92,7 +92,7 @@ Norden absinkende Nullgradgrenze: mittags im Norden bei FL075-080, im
 Süden FL090-100. Abends FL060 im Norden und FL080-090 im Süden.
 
 Inversionen:
-Bodeninversion unterhalb von 2000 bis 2500 FT AMSL. Am Samstag nur
+Bodeninversion unterhalb von 2000 bis 2500 FT AMSL. Vormittags nur
 langsam auflösend.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
@@ -101,6 +101,6 @@ München  05.03 | 05.35 | 16.20 | 16.50
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Luftfahrtberatungszentrale München/pk
