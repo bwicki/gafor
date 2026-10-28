@@ -130,39 +130,39 @@ GAFOR Bereich LBZ Muenchen 28.10.2026
 
 Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
-54  Mainfranken und Nördliches Unterfranken  D1  C  C
+54  Mainfranken und Nördliches Unterfranken  D1  C  C ISOL FG
 
-55  Kocher-Jagst-Gebiet und Frankenhöhe  D1  O  C
+55  Kocher-Jagst-Gebiet und Frankenhöhe  D1  O  C ISOL FG
 
-56  Mittelfranken  M2 ISOL DZ  D1 ISOL DZ  C
+56  Mittelfranken  M2 ISOL DZ  D1 ISOL DZ  C ISOL FG
 
-57  Oberfranken  M2 OCNL DZ  D1 ISOL DZ  O ISOL DZ
+57  Oberfranken  M2 OCNL DZ  D1 ISOL DZ  M2 OCNL DZ
 
-58  Frankenwald und Fichtelgebirge  X OCNL DZ  M5 ISOL DZ  O ISOL DZ
+58  Frankenwald und Fichtelgebirge  X OCNL DZ  M5 ISOL DZ  M5 ISOL DZ
 
 62  Schwäbische Alb  D1 ISOL DZ  D1  C
 
-63  Fränkische Alb  X ISOL RADZ  M2 ISOL DZ  C
+63  Fränkische Alb  X ISOL RADZ  M2 ISOL DZ  D1 ISOL DZ
 
-64  Oberpfälzer Wald  X FRQ RADZ  X OCNL RADZ  M2 ISOL DZ
+64  Oberpfälzer Wald  X FRQ RADZ  X OCNL RADZ  X OCNL DZ
 
 71  Bodenseeraum  D1 OCNL RADZ  O ISOL RADZ  O
 
-72  Schwäbische Hochebene  X OCNL RADZ  D1 ISOL DZ  D1 ISOL DZ
+72  Schwäbische Hochebene  X OCNL RADZ  D1 ISOL DZ  O ISOL DZ
 
-73  Westliche Donauniederung  M2 ISOL RADZ  D1 ISOL RADZ  O ISOL DZ
+73  Westliche Donauniederung  M2 ISOL RADZ  D1 ISOL RADZ  O ISOL FG
 
-74  Südbayerisches Hügelland  X FRQ RADZ  M2 OCNL RADZ  D1 ISOL DZ
+74  Südbayerisches Hügelland  X FRQ RADZ  M2 OCNL RADZ  M5 OCNL DZ
 
-75  Östliche Donau- und Naabniederung  X OCNL RADZ  M2 ISOL RADZ  D1 ISOL RADZ
+75  Östliche Donau- und Naabniederung  X OCNL RADZ  M2 ISOL RADZ  M5 OCNL RADZ
 
-76  Bayerischer Wald  X OCNL RADZ  X ISOL RADZ  X ISOL RADZ
+76  Bayerischer Wald  X OCNL RADZ  X ISOL RADZ  X OCNL RADZ
 
-81  Westliches Alpenvorland  X FRQ RADZ  X OCNL RADZ  D1 ISOL DZ
+81  Westliches Alpenvorland  X FRQ RADZ  X OCNL RADZ  X ISOL DZ
 
-82  Östliches Alpenvorland  X FRQ RADZ  X FRQ RADZ  M5 OCNL RADZ
+82  Östliches Alpenvorland  X FRQ RADZ  X FRQ RADZ  X OCNL RADZ
 
-83  Allgäuer Alpen  X FRQ RADZ  X OCNL RADZ  X ISOL DZ
+83  Allgäuer Alpen  X FRQ RADZ  X OCNL RADZ  X OCNL DZ
 
 84  Östliche Bayerische Alpen  X FRQ RADZ  X FRQ RADZ  X OCNL RADZ
 
