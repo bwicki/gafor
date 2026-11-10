@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-649
-FBEU40 EDZH 101200
+939
+FBEU40 EDZH 101800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 10.11.2026, 12.00 UTC bis 11.11.2026, 09.00 UTC
+gültig vom 10.11.2026, 18.00 UTC bis 11.11.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
@@ -21,68 +21,63 @@ etwa eine Linie Südengland - Belgien - Erzgebirge und bringt etwas
 mildere Luft heran.
 
 Wettergeschehen:
-Mit Ausnahme von der nordöstlichen Lüneburger Heide, dem Südosten
-Schleswig-Holsteins und weiten Teilen der Deutschen Bucht bestimmt
-BKN/OVC ST um 100 FT AGL in Verbindung mit Nebel das Wetter im
-Vorhersagebereich - die Obergrenzen liegen meist bei 800-1200 FT AGL.
-Örtlich heben die Untergrenzen hier auf 300-500 FT AGL an, sinken
-aber, sobald die Sonne untergeht, wieder auf um 200 FT AGL ab. Im Lee
-von Harz, Weser-Leine Bergland, sowie Teutoburger Wald und
-Wiehengebirge heben die Untergrenzen gebietsweise auf 500-800 FT AGL
-an, im Minimum bleibt es aber weiterhin bei 200-400 FT AGL.
+Mit Ausnahme von weiten Teilen der Deutschen Bucht, dem äußersten
+Nordwesten Nordfrieslands sowie dem äußersten Süden Niedersachsens
+bestimmt BKN/OVC ST-Bewölkung in 100-300 FT AGL in Verbindung mit
+Nebel und Starkdunst das Wetter im Vorhersagebereich - die
+Obergrenzen liegen meist bei 800-1200 FT AGL.
 Im Laufe der Nacht schiebt sich mit Drehung der Strömung auf südliche
-Richtungen a) BKN/OVC AC/AS/CI oberhalb von FL120 heran und die
-tiefen Wolken lockern im Luv der Mittelgebirge gebietsweise zu
-SCT/BKN ST in 600-800 FT AGL auf, örtlich verschwinden die tiefen
-Wolken sogar komplett.
-Bis zum Morgen kann diese (zeitweise) Besserung die Gebiete südlich
-einer Linie mittleres Emsland - Altmark erreichen - der Rest bleibt
-bei dichter und tiefster Stratusbewölkung.
-Über der Lüneburger Heide und dem Südosten Schleswig-Holsteins
-herrschen bei Sichten von 8-10 km vielfach wolkenlose Verhältnisse,
-jedoch schiebt sich mit sinkendem Sonnenstand und damit verbundenem
-Temperaturrückgang die schon bekannte BKN/OVC Stratusbewölkung
-ostwärts und wird bis zum Abend auch diese Schönwetterinseln zum
-Versinken gebracht haben.
-Lediglich über der Deutschen Bucht Nordfriesischen, zeitweise auch
-den Ostfriesischen Inseln und dem äußersten Nordwesten Nordfrieslands
-herrscht mit FEW/SCT CU/SC in 1500-2000 FT AMSL und Obergrenzen bei
-2500-3500 FT AMSL lecker laut und klares Wetter. Einzelne kräftigere
-CU schaffen es, bei Obergrenzen um FL070 kurze Schauer hervor zu
-bringen, in denen die Untergrenzen auf 1200-1500 FT AMSL absinken.
+Richtungen a) BKN/OVC AC/AS/CI-Bewölkung oberhalb von FL120 heran und
+b) die ST-Bewölkung lockert im Luv der Mittelgebirge zu SCT/BKN
+ST-Bewölkung auf und hebt dabei auf 600-800 FT AGL an, örtlich löst
+sich die ST-Bewölkung auch komplett auf.
+Bis zum Morgen kann diese Besserung die Gebiete südlich etwa einer
+Linie mittleres Emsland - Altmark erreichen und bis zum Berichtsende
+bis auf etwa eine Linie Dollart-Lübecker Bucht nordwärts vorankommen.
+Nördlich davon halten sich über Land noch Reste der dichten
+Stratusbewölkung zwischen 500 und 1000 FT AGL.
+Über weiten Teilen der Deutschen Bucht, den Nordfriesischen Inseln
+sowie dem äußersten Nordwesten Nordfrieslands ist die Bewölkung
+dagegen bereits zu Beginn mit FEW/SCT CU/SC-Bewölkung in 1500-2000 FT
+AMSL und Obergrenzen bei 2500-3500 FT AMSL aufgelockert. Einzelne
+kräftigere CU schaffen es, bei Obergrenzen um FL070 kurze Schauer
+hervor zu bringen, in denen die Untergrenzen auf 1200-1500 FT AMSL
+absinken.
 
 Sichtweite:
-Im Nebel 0200-800 m, auf den Schönwetterinseln 8-15 km, sowie über
-der Nordsee 20-40 km.
-Nördlich der Mittelgebirge bei 2000-4000 m.
+Über weiten Teilen der Nordsee 20-40 km, über dem äußersten
+Nordwesten Nordfrieslands und dem äußersten Süden Niedersachsens 4-8
+km, ansonsten verbreitet 200-3000 m. Ab morgen früh von Süden her
+zögerliche Sichtbesserung auf 8-12 km, bis zum Nachmittag nahezu den
+gesamten Bereich über Land betreffend.
 
 Höhenwind und -temperatur:
-GAFOR-Gebiete 00-04:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 220/10KT  06C | 210/10KT  03C |
-1000FT | 230/10KT  05C | 240/15KT  05C |
-1500FT | 260/15KT  05C | 250/15KT  06C |
-2000FT | 270/15KT  04C | 260/15KT  05C |
-3000FT | 280/15KT  02C | 260/15KT  02C |
-5000FT | 290/15KT M00C | 260/15KT M00C |
-FL100  | 310/15KT M09C | 280/20KT M07C |
+GAFOR-Gebiete 00 - 04:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 200/10KT  03C | 190/05KT  01C |
+1000FT | 230/15KT  05C | 220/05KT  07C |
+1500FT | 250/15KT  05C | 230/05KT  06C |
+2000FT | 250/15KT  05C | 240/05KT  05C |
+3000FT | 250/10KT  02C | 220/05KT  02C |
+5000FT | 260/10KT M01C | 240/05KT M00C |
+FL100  | 260/15KT M08C | 280/20KT M07C |
 
-GAFOR-Gebiete 05-10:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 140/05KT  04C | 110/10KT  03C |
-1000FT | 170/05KT  04C | 130/15KT  06C |
-1500FT | 230/05KT  05C | 140/15KT  05C |
-2000FT | 100/05KT  05C | 160/15KT  04C |
-3000FT | 010/05KT  03C | 160/10KT  05C |
-5000FT | 350/05KT  00C | 180/10KT  03C |
-FL100  | 300/15KT M07C | 250/15KT M04C |
+GAFOR-Gebiete 05 - 10:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 120/10KT  05C | 100/10KT  02C |
+1000FT | 160/10KT  05C | 130/10KT  03C |
+1500FT | 170/15KT  05C | 160/10KT  04C |
+2000FT | 160/10KT  04C | 160/10KT  05C |
+3000FT | 140/10KT  03C | 150/10KT  05C |
+5000FT | 140/05KT  01C | 170/05KT  03C |
+FL100  | 270/15KT M05C | 310/10KT M04C |
 
 Turbulenz:
 Keine signifikante.
 
 Vereisung:
 Zunächst keine signifikante. In der frontalen Bewölkung in der Nacht
-mäßig oberhalb von FL100-120
+mäßig oberhalb von FL100-120.
 
 Nullgradgrenze:
 4500-5500 FT AMSL, im Süden auf FL060-070 ansteigend.
@@ -90,13 +85,13 @@ Nullgradgrenze:
 Inversionen:
 Unter dem Nebel meist unterhalb von 1000-1500 FT AMSL.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Schleswig  15.29 | 16.08 | 06.03 | 06.43
-Hannover  15.36 | 16.13 | 05.58 | 06.35
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Schleswig  06.03 | 06.43 | 15.27 | 16.06
+Hannover  05.58 | 06.35 | 15.34 | 16.10
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 11.11.2026 um 05.00
+UTC
 
-Luftfahrtberatungszentrale Hamburg/KS
+Luftfahrtberatungszentrale Hamburg/Ku

@@ -10,7 +10,7 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 01  Ostfriesland  X ISOL FC  X ISOL FG  X ISOL FG
 
-02  Nordfriesland-Dithmarschen  D4 ISOL FG  D4 ISOL FG  D4 ISOL FG
+02  Nordfriesland-Dithmarschen  D4 ISOL FG  D4 ISOL FG  M8 ISOL FG
 
 03  Schleswig-Holsteinische Geest  X OCNL FG  X OCNL FG  X OCNL FG
 
@@ -18,11 +18,11 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 05  Nordwestliches Niedersachsen  X OCNL FG  X OCNL FG  X ISOL FG
 
-06  Lüneburger Heide  M8 ISOL FG  M8 ISOL FG  M8 ISOL FG
+06  Lüneburger Heide  X ISOL FG  X ISOL FG  X ISOL FG
 
 07  Westliches Niedersachsen  X FRQ FG  X OCNL FG  X ISOL FG
 
-08  Hannover und Braunschweig  X ISOL FG  M8 ISOL FG  M8 ISOL FG
+08  Hannover und Braunschweig  X ISOL FG  X ISOL FG  X ISOL FG
 
 09  Teutoburger Wald  X OCNL FG  X ISOL FG  X ISOL FG
 
@@ -76,11 +76,11 @@ GAFOR Bereich RWZ Essen 10.11.2026
 
 Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
-31  Niederrheinisches Tiefland  O ISOL FG  C ISOL FG  C
+31  Niederrheinisches Tiefland  O ISOL FG  C ISOL FG  C ISOL FG
 
-32  Münsterland  X ISOL FG  X ISOL FG  M5 ISOL FG
+32  Münsterland  X ISOL FG  X ISOL FG  X OCNL FG
 
-33  Ruhrgebiet und Ostwestfalen  O  C  C
+33  Ruhrgebiet und Ostwestfalen  O  C  D3 ISOL FG
 
 34  Niederrheinische Bucht  C  C  C
 
@@ -92,7 +92,7 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 38  Neuwieder Becken  D3  C  C
 
-39  Westerwald  D1  D1  D1
+39  Westerwald  D1  C  C
 
 GAFOR-Einstufung FWZ Frankfurt
 
@@ -102,21 +102,21 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 41  Hunsrück  O  D1  M5
 
-42  Taunus  O  C  O
+42  Taunus  C  C  O
 
-43  Nordhessisches Bergland und Vogelsberg  M2  D1  O
+43  Nordhessisches Bergland und Vogelsberg  C  C  C ISOL FG
 
 44  Rheinpfalz und Saarland  M2 ISOL RADZ  X ISOL RADZ  X ISOL RADZ
 
-45  Rhein-Main-Gebiet und Wetterau  O  O  O
+45  Rhein-Main-Gebiet und Wetterau  C  C  C
 
-46  Odenwald und Spessart  D1  D1  O
+46  Odenwald und Spessart  D1  O  O
 
 47  Rhön  D1  O  O
 
 50  Südlicher Oberrheingraben  X ISOL RADZ  X ISOL RADZ  X ISOL RADZ
 
-51  Mittlerer Oberrheingraben  M5 ISOL RADZ  M2 ISOL RADZ  D4 ISOL RADZ
+51  Mittlerer Oberrheingraben  M5 ISOL RADZ  M2 ISOL RADZ  M5 ISOL RADZ
 
 52  Kraichgau  M2 ISOL RADZ  M2 ISOL RADZ  M2 ISOL RADZ
 
@@ -130,23 +130,23 @@ GAFOR Bereich LBZ Muenchen 10.11.2026
 
 Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
-54  Mainfranken und Nördliches Unterfranken  D1  D1  C
+54  Mainfranken und Nördliches Unterfranken  D1  C  C
 
-55  Kocher-Jagst-Gebiet und Frankenhöhe  X  M2  M5 ISOL DZ
+55  Kocher-Jagst-Gebiet und Frankenhöhe  X  M2 ISOL DZ  M5 ISOL DZ
 
 56  Mittelfranken  M2  D1  D1
 
 57  Oberfranken  M2  D1  C
 
-58  Frankenwald und Fichtelgebirge  M2  M2  M2
+58  Frankenwald und Fichtelgebirge  M2  D1  D1
 
 62  Schwäbische Alb  X OCNL DZ  X OCNL DZ  X OCNL DZ
 
 63  Fränkische Alb  X  M2  D1
 
-64  Oberpfälzer Wald  X  M2  D1
+64  Oberpfälzer Wald  X  D1  D1
 
-71  Bodenseeraum  M5 ISOL RADZ  D4  M7
+71  Bodenseeraum  M5 ISOL RADZ  M5  M7
 
 72  Schwäbische Hochebene  X FRQ RADZ  X OCNL RADZ  X ISOL RADZ
 
