@@ -1,68 +1,71 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-313
-FBEU40 EDZF 111200
+178
+FBEU40 EDZF 111800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 11.11.2026, 12.00 UTC bis 12.11.2026, 09.00 UTC
+gültig vom 11.11.2026, 18.00 UTC bis 12.11.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
 Im Einflussbereich eines Tiefdruckgebietes über dem Ostatlantik ist
-mit westlicher bis südwestlicher Strömung stabile und hochreichend
-feuchte sowie milde, im Südwesten sehr milde Luft eingeflossen. Über
-Baden-Württemberg ist sie teils labil geschichtet. Zum Donnerstag
-gelangt das Vorhersagegebiet unter schwachen Hochdruckeinfluss und
-die Luftmasse trocknet in den höheren Schichten deutlich ab.
-Verbreitet zeigt sich jedoch eine feuchte Grundschicht.
+mit westlicher Strömung stabile und hochreichend feuchte sowie milde,
+im Südwesten sehr milde Luft eingeflossen.
+Über Baden-Württemberg ist sie teils noch labil geschichtet.
+Zum Donnerstag gelangt das Vorhersagegebiet unter schwachen
+Hochdruckeinfluss und die Luftmasse trocknet in den höheren Schichten
+deutlich ab. Verbreitet zeigt sich jedoch eine feuchte Grundschicht.
+Eine Kaltfront aus Nordwest räumt die feuchte Grundschicht am
+Nachmittag allmählich auf, nördlich der Mainlinie setzt sich dann
+Rückseitenwetter durch.
 
 Wettergeschehen:
-Anfangs zeigt sich verbreitet BKN LYR ST/SC/AC mit Basis zwischen
-1500-2500 FT AMSL und Obergrenzen zwischen FL130-160, lokal auch
-oberhalb FL245. Daraus fällt leichter, teils mäßiger Sprühregen.
-Unter der kompakten Bewölkung lokal Dunst und Nebel. Über
-Baden-Württemberg reichen die Obergrenzen bis oberhalb FL245. Darin
-sind lokal CB mit TOPs um FL200 eingelagert die den Niederschlag
-schauerartig verstärken. Im Nachmittagsverlauf lockert die Bewölkung
-westlich des Rheins zu SCT/BKN CU/SC mit Basis um 2500 FT AMSL und
-Obergrenzen bei FL080 auf. Darüber ziehen AC-Felder um FL130 und
-kompakter CI oberhalb FL245 durch, es ist meist trocken.
+Verbreitet BKN/OVC LYR ST/SC/AC mit Basis zwischen 1500-2500 FT AMSL
+und Obergrenzen zwischen FL130-160, lokal auch oberhalb FL245. Daraus
+fällt leichter, teils mäßiger Sprühregen. Unter der kompakten
+Bewölkung lokal Dunst und Nebel. Über Baden-Württemberg reichen die
+Obergrenzen bis oberhalb FL245. Darin sind lokal letzte CB mit TOPs
+um FL240 eingelagert die den Niederschlag schauerartig verstärken.
 
 Bis in die erste Nachthälfte ändert sich nur wenig. Leichter
 Sprühregen fällt meist nur nördlich des Mains. Über Baden-Württemberg
 sinkt die Obergrenze der BKN SC/AC-Bewölkung ebenfalls auf FL130-160.
-Lokal zeigen sich dort TCU/CB mit TOPs um FL140 aus denen leichte
-Schauer ausfallen.
+Lokal zeigen sich dort TCU/CB mit TOPs um FL140 aus denen nur noch
+leichte Schauer fallen.
 
-Im Laufe der zweiten Nachthälfte sinkt die Obergrenze der BKN
-ST/SC-Bewölkung auf FL060-090, die Basis liegt meist zwischen
-1000-2000 FT AMSL. Lokal fällt daraus etwas leichter Niederschlag. Es
-zeigt sich darunter weiterhin Dunst und Nebel. Diese Bedingungen
-halten sich bis in den Vormittag.
+Im Laufe der zweiten Nachthälfte sinkt die Obergrenze der BKN/OVC
+ST/SC-Bewölkung auf FL060-090, die Basis liegt bei wenigen hundert FT
+AGL, im Nebel aufliegend.
+Diese Bedingungen halten sich bis in den Vormittag.
+
+Am Nachmittag nördlich des Mains Übergang zu SCT/BKN CU/SC bei
+2000-3000 FT AMSL, Tops um FL060. Im Süden BKN/OVC ST/SC bei
+1500-2500 FT AMSL, kaum noch Niederschlag.
 
 Sichtweite:
-In Nordhessen 10-20 km, sonst 20-30 km. Jedoch im Niederschlag auf
-3-8 km reduziert. Im Dunst 5-1 km, im Nebel unter 1 km.
+4-9 km, im Süden teils 8-10 km, jedoch im Niederschlag auf 3-5 km
+reduziert. Im Dunst 5-1 km, im Nebel unter 1 km.
+Am Donnerstagnachmittag von Norden her 15-25 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 310/05KT  04C | 050/05KT  06C |
-1500FT | 220/05KT  04C | 020/05KT  05C |
-2000FT | 230/10KT  05C | 360/05KT  05C |
-3000FT | 270/20KT  06C | 340/10KT  04C |
-5000FT | 280/20KT  05C | 280/15KT  04C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 300/05KT  05C | 020/05KT  06C |
+1500FT | 220/10KT  07C | 010/05KT  04C |
+2000FT | 240/10KT  08C | 360/10KT  04C |
+3000FT | 270/20KT  07C | 360/10KT  03C |
+5000FT | 270/20KT  05C | 330/10KT  01C |
 FL100  | 270/25KT M03C | 260/25KT M04C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 220/10KT  13C | 270/05KT  11C |
-1500FT | 240/15KT  12C | 290/05KT  11C |
-2000FT | 250/15KT  11C | 280/05KT  10C |
-3000FT | 270/20KT  09C | 250/10KT  08C |
-5000FT | 260/20KT  06C | 250/10KT  05C |
-FL100  | 260/25KT M02C | 260/15KT M02C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 220/10KT  13C | 050/05KT  11C |
+1500FT | 220/15KT  12C | 040/05KT  11C |
+2000FT | 220/15KT  12C | 020/05KT  10C |
+3000FT | 250/15KT  08C | 200/05KT  07C |
+5000FT | 260/20KT  05C | 260/05KT  04C |
+FL100  | 260/25KT M02C | 250/15KT M02C |
 
 Turbulenz:
 In der Umgebung von TCU/CB mäßig bis stark, sonst nicht signifikant.
@@ -74,19 +77,20 @@ meist nicht mehr signifikant.
 
 Nullgradgrenze:
 Zwischen FL075 im Norden und FL085 im Süden.
+Am Donnerstag von Norden her auf 3500 FT AMSL absinkend.
 
 Inversionen:
-Über Nordhessen Aufgleitinversion zwischen 2000-5000 FT AMSL. Am
-Abend abschwächend. Nachts bei Auflockerungen Bildung einer schwachen
-Bodeninversion unterhalb 1000 FT AGL.
+Nachts bei Auflockerungen Bildung einer schwachen Bodeninversion
+unterhalb 1000 FT AGL. Am Donnerstagnachmittag von Norden her
+Absinkinversion um FL060.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Gießen  15.45 | 16.19 | 05.58 | 06.35
-Karlsruhe  15.51 | 16.25 | 05.56 | 06.31
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Gießen  05.58 | 06.35 | 15.43 | 16.18
+Karlsruhe  05.56 | 06.31 | 15.49 | 16.23
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 12.11.2026 um 05.00
+UTC
 
-Flugwetterzentrale Frankfurt/CH
+Flugwetterzentrale Frankfurt/Go
