@@ -1,39 +1,42 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-437
-FBEU40 EDZM 131200
+333
+FBEU40 EDZM 131800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 13.11.2026, 12.00 UTC bis 14.11.2026, 09.00 UTC
+gültig vom 13.11.2026, 18.00 UTC bis 14.11.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
-Die rückseitig einer abgezogenen Kaltfront eingeflossene
-Meereskaltluft liegt unter Hochdruckeinfluss. Der Schwerpunkt
-verlagert sich im Laufe der kommenden Nacht langsam von den
-Britischen Inseln nach Österreich. Dabei bildet sich stellenweise
-eine feuchtkalte Grundschicht, die am Samstag langsam abgebaut wird.
+Süddeutschland liegt im Einflussbereich eines umfangreichen
+Hochdruckgebietes, das sich von Großbritannien bis zum Balkan
+erstreckt und sich in der kommenden Nacht und am Samstag weiter nach
+Osten verlagert. Dabei kann sich nachts bei der eingeflossenen
+Meereskaltluft stellenweise eine feuchtkalte Grundschicht bilden, die
+im Laufe des Samstages langsam abgebaut wird.
 
 Wettergeschehen:
-Mittags hält sich oft SCT/BKN CU/SC. Die Untergrenze liegt in
-Nordbayern bei 2500 bis 3000 FT AMSL und steigt langsam auf 3500 FT
-AMSL. In Südbayern liegt die Basis bei 3000, Richtung Alpen bei 4000
-FT AMSL und steigt nachmittags auch im Flachland noch auf 4000 FT
-AMSL an. Die Obergrenze liegt bei 5000 bis 6000 FT AMSL.
+Abends zeigt sich noch FEW/SCT flache CU um 4000 FT AMSL, die sich in
+der ersten Nachthälfte weiter auflösen. In Staulagen von den
+östlichen Mittelgebirgen kann es jedoch bis Samstagfrüh örtlich noch
+zu BKN CU/SC zwischen 3000-4000 FT AMSL kommen. Ansonsten ist es
+eingangs der Nacht in weiten Teilen des Vorhersagebereiches
+wolkenlos.
 
-Im Laufe des Abends und der 1. Nachthälfte löst sich die Bewölkung
-auf, zunächst im Westen, später auch im Osten. Zum Tageswechsel
-bilden sich aber bei Auflockerungen bereits erste flache Dunst- und
-gefrierende Nebelfelder. Diese werden im Laufe der 2. Nachthälfte
-besonders vom nördlichen Schwaben bis nach Oberbayern und im
-Nordosten Bayerns mehr. Stellenweise können sich auch etwas
-höherreichender werden, mit Obergrenze um 2000 FT AMSL.
+Im Laufe der Nacht bilden sich unter klarem Himmel in den
+Niederungen, und dort vor allem vom nördlichen Schwaben bis nach
+Oberbayern sowie in Franken, meist flache Dunst- oder Nebelfelder,
+die in den Frühstunden weiter ausbreiten. Stellenweise können sich
+auch etwas höherreichender werden, mit Obergrenze um 2000 FT AMSL.
 
-Am Samstagvormittag lösen sich flache Nebelfelder wieder auf. In
-einem Streifen von der oberen Donau bis ins Naabtal un weiter
-nördlich des Mains erfolgt ein langsamer Übergang in BKN/OVC ST.
-Darunter bleibt es bis Berichtsende noch neblig.
+Am Samstagvormittag lösen sich die Nebelfelder allmählich auf bzw.
+gehen in meist flache FEW/SCT SC zwischen 2000-3000 FT AMSL über.  In
+einem Streifen von der oberen Donau bis ins Naabtal und weiter
+nördlich des Mains erfolgt ein langsamer Übergang in BKN/OVC ST mit
+Ceilings bis in den Nachmittag hinein unter 500 FT AGL. Bis zum
+Sonnenuntergang löst sich dieser ST zum Teil auf; örtlich bleibt es
+jedoch ganztägig trüb.
 
 Sichtweite:
 25 bis 50 km. Im Dunst 2 bis 4 km, bei gefrierendem Nebel 300 bis 800
@@ -41,49 +44,47 @@ m.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  15 UTC  |  06 UTC  |
-1500FT | 290/10KT  04C | 140/05KT  02C |
-2000FT | 290/15KT  03C | 100/05KT  02C |
-3000FT | 300/15KT M01C | 010/05KT M02C |
-5000FT | 310/20KT M05C | 340/05KT M03C |
-FL100  | 320/25KT M10C | 310/10KT M07C |
+AMSL  |  21 UTC  |  09 UTC  |
+1500FT | 260/10KT  03C | 140/05KT  03C |
+2000FT | 280/15KT  03C | 130/05KT  02C |
+3000FT | 310/15KT M01C | 130/05KT M02C |
+5000FT | 330/10KT M05C | 080/05KT M02C |
+FL100  | 310/20KT M08C | 300/10KT M06C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  15 UTC  |  06 UTC  |
-2000FT | 280/10KT  04C | 100/05KT  02C |
-3000FT | 280/10KT M00C | 100/05KT M01C |
-5000FT | 300/10KT M04C | 100/05KT M03C |
-FL100  | 320/25KT M09C | 300/10KT M06C |
+AMSL  |  21 UTC  |  09 UTC  |
+2000FT | 310/10KT  02C | 100/10KT  01C |
+3000FT | 280/10KT M01C | 100/10KT M01C |
+5000FT | 290/10KT M04C | 110/10KT M01C |
+FL100  | 320/15KT M08C | 280/05KT M06C |
 
 Turbulenz:
 Im äußersten Nordosten bis zum Tageswechsel zeitweise leicht bis
 mäßig unterhalb FL060.
 
 Vereisung:
-Stellenweise leicht bis mäßig in der teils dichten SC-Bewölkung
-zwischen 3000 und 6000 FT AMSL, mit den Auflockerungen nachlassend.
-Nachts im leicht bis mäßig im unterkühlten Nebel.
+Nachts evtl. leicht bis mäßig im unterkühlten Nebel.
 
 Nullgradgrenze:
 Um 3000 FT AMSL. Im Laufe der Nacht zum Samstag verbreitet auch am
-Boden negative Temperaturen. Am Samstag im Südwesten wieder
-ansteigende Nullgradgrenze auf FL070, aber noch eine negative Schicht
-bei 3000 bis 4000 FT AMSL.
+Boden negative Temperaturen. Am Samstag tagsüber von Südwesten auf
+FL070-080, vom Niederbayern bis nach Oberfranken auf 5000 FT AMSL
+ansteigend.
 
 Inversionen:
 Absinkinversion zwischen FL080 bis FL100, bis Samstagmorgen absinkend
 auf 4000 FT AMSL bis FL090.
-Darunter bildet sich ab dem Abend eine Bodeninversion mit Obergrenze
+Darunter bildet sich heute Nacht eine Bodeninversion mit Obergrenze
 um 2000 FT AMSL, die am Samstagvormittag örtlich wieder abgebaut
 wird.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Nürnberg  15.36 | 16.09 | 05.51 | 06.25
-München  15.36 | 16.09 | 05.44 | 06.18
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Nürnberg  05.51 | 06.25 | 15.35 | 16.09
+München  05.44 | 06.18 | 15.35 | 16.09
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 14.11.2026 um 05.00
+UTC
 
-Luftfahrtberatungszentrale München/La
+Luftfahrtberatungszentrale München/PC

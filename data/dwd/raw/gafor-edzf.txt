@@ -1,80 +1,80 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-807
-FBEU40 EDZF 131200 COR
+334
+FBEU40 EDZF 131800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 13.11.2026, 12.00 UTC bis 14.11.2026, 09.00 UTC
- aktualisiert um 12:35 UTC
+gültig vom 13.11.2026, 18.00 UTC bis 14.11.2026, 15.00 UTC
+
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Unter dem Einfluss eines Hochs über England wird mit einer
-nordwestlichen Strömung eine stabile und zunehmend trockene Luftmasse
-herangeführt. In der kommenden Nacht bildet sich dann vielerorts eine
-feuchte Grundschicht aus, welche bis in den Samstagvormittag bestehen
-bleibt.
+Ein Hoch über Frankreich verlagert sich in Richtung Osteuropa. Die
+damit anfänglich nordwestliche Höhenströmung hat eine trocken-kalte
+Luftmasse einfließen lassen. In der Nacht bildet sich gebietsweise
+eine feuchte Grundschicht. Am morgigen Tag löst diese sich auf und es
+dreht mit der Hochverlagerung die Strömung auf Südwest, sodass wieder
+mildere Luft Einzug erhält.
 
 Wettergeschehen:
-Mit FEW/SCT CU/SC mit Untergrenzen um 4000 FT AMSL und Tops in
-FL055-060 ist es meist gering bis aufgelockert bewölkt. In Nord- und
-Osthessen halten sich stellenweise noch SCT/BKN SC-Reste mit
-Untergrenzen bei 2500-3000 FT AMSL, diese lockern am Nachmittag
-weiter auf.
+Am Abend liegt verbreitet flacher FEW, über Nordhessen teils SCT SC
+zwischen 2500-3500 FT AMSL vor. Im Süden Baden-Württembergs ist es
+teils klar. Im Verlauf der ersten Nachthälfte löst sich dieser
+größtenteils auf, lediglich über Nordhessen verbleibt dieser teils
+als FEW SC. Dadurch bildet sich gebietsweise bis zum Morgen Dunst und
+Nebel, welcher bei leichtem Frost überwiegend gefrierend ist.
 
-Die Quellbewölkung löst sich dann abends weitgehend auf, lediglich in
-Nord- und Osthessen können sich weiterhin noch letzte SC-Reste bei
-2500-3000 FT AMSL halten. Niederschlag wird nicht erwartet.
-
-Am Abend bildet sich lokal, ausgehend von den Flusstälern,  Dunst und
-Nebel (teils gefrierender Nebel) aus, welcher sich im Laufe der Nacht
-weiter ausbreitet und bis in den Vormittag erhalten bleibt.
+Am Vormittag löst sich der Dunst auf. Wo sich Nebel gebildet, hält
+sich dieser länger und geht langsam in hochnebelartigen BKN ST in
+wenigen Hunderten FT AGL über. Abseits davon ist es wolkenfrei. Am
+Nachmittag löst sich dann überwiegend auch der letzte Nebel und
+Hochnebel auf und es ist verbreitet wolkenfrei.
 
 Sichtweite:
-20-40 km, im Dunst 1-5 km, im Nebel unter 1 km.
+30-50 km. Im Dunst 5-1 km, im Nebel unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 260/10KT  05C | 200/05KT  00C |
-1500FT | 270/15KT  04C | 240/05KT  02C |
-2000FT | 280/15KT  03C | 240/05KT  01C |
-3000FT | 310/20KT M00C | 290/05KT  00C |
-5000FT | 320/25KT M04C | 300/05KT M02C |
-FL100  | 320/25KT M10C | 330/15KT M07C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 240/05KT  04C | 240/05KT  01C |
+1500FT | 270/10KT  03C | 180/05KT  02C |
+2000FT | 280/15KT  03C | 190/05KT  02C |
+3000FT | 310/20KT  01C | 200/05KT  00C |
+5000FT | 320/15KT M03C | 200/05KT M02C |
+FL100  | 320/20KT M09C | 320/05KT M06C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 360/05KT  06C | 060/10KT  05C |
-1500FT | 350/05KT  04C | 090/10KT  04C |
-2000FT | 350/05KT  03C | 100/10KT  03C |
-3000FT | 020/05KT  01C | 100/15KT  01C |
-5000FT | 010/05KT M04C | 090/10KT M01C |
-FL100  | 340/20KT M08C | 310/05KT M06C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 150/05KT  06C | 060/10KT  05C |
+1500FT | 040/05KT  05C | 100/10KT  04C |
+2000FT | 030/05KT  04C | 100/10KT  03C |
+3000FT | 040/05KT  01C | 120/15KT  02C |
+5000FT | 040/10KT M03C | 110/10KT M00C |
+FL100  | 330/10KT M07C | 230/05KT M05C |
 
 Turbulenz:
-Keine
-
-Vereisung:
 Nicht signifikant.
 
+Vereisung:
+Im gefrierenden Nebel mäßig. Ansonsten nicht signifikant.
+
 Nullgradgrenze:
-2500 im Norden und 3500 FT AMSL im Süden. In der Nacht zudem lokal
-negativ am Boden. Samstagmorgen im Norden bei um 3000 FT AMSL und im
-Süden um FL075 einstellend.
+3000-4000 FT AMSL. Nachts oft mit bodennah temperierter Schicht bis
+ca. 1000 FT AGL. Ab dem Vormittag Anstieg bis Berichtsende auf FL080
+im Südwesten und 5000 FT AMSL im Nordosten.
 
 Inversionen:
-Absinkinversion zwischen FL080 und FL100, im laufe der Nacht
-abschwächend. Zudem bildet sich am Abend und im Laufe der Nacht eine
-Bodeninversion bis 1200 FT AGL aus.
+Nachts und am frühen Vormittag Bodeninversion unterhalb 1000 FT AGL,
+anschließend auflösend. Absinkinversion zwischen 5000 FT AMSL und
+FL080, im Tagesverlauf im Süden verstärkend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Gießen  15.42 | 16.18 | 06.02 | 06.38
-Karlsruhe  15.48 | 16.22 | 05.59 | 06.34
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Gießen  06.02 | 06.38 | 15.41 | 16.15
+Karlsruhe  05.59 | 06.34 | 15.47 | 16.22
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 14.11.2026 um 05.00
+UTC
 
-Flugwetterzentrale Frankfurt/MJ/Hd
+Flugwetterzentrale Frankfurt/lb
