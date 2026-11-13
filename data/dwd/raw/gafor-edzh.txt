@@ -1,97 +1,97 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-754
-FBEU40 EDZH 130600
+572
+FBEU40 EDZH 131200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 13.11.2026, 06.00 UTC bis 14.11.2026, 03.00 UTC
+gültig vom 13.11.2026, 12.00 UTC bis 14.11.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
-Der Kern eines Sturmtief liegt zu Beginn über dem Bottnischen
-Meerbusen und zieht im Tagesverlauf nach Finnland. Rückseitig fließt
-mit lebhafter nordwestlicher Strömung eine labil geschichtete
-Meeresluft ein. Ab dem Nachmittag wird zögerlich ein Hoch mit
-Schwerpunkt über dem Ärmelkanal wetterbestimmend, damit einhergehend
-schwächt sich die Strömung langsam ab. Zum Berichtsende liegt der
-Schwerpunkt des Hochs über der Südhälfte Deutschlands und die
-Labilität nimmt langsam ab.
+Zwischen einem Tief mit Kern über Südfinnland und einem Hoch mit
+Schwerpunkt über dem Ärmelkanal fließt mit einer lebhaften
+nordwestlichen Strömung labil geschichtete Meereskaltluft ein.
+Kommende Nacht rückt der Schwerpunkt des Hochs über den Süden
+Deutschlands in Richtung Österreich. Dabei wird auch im
+Vorhersagebereich die Luftmasse von Süden her allmählich
+stabilisiert.
 
 Wettergeschehen:
-Nördlich einer Linie Lüneburger Heide - Grafschaft Bentheim kommt es
-wiederholt zu Schauern aus ISOL CB in 2500-4000 FT AMSL, mit Tops um
-FL140. Damit einhergehend kommt es zu Starkregen, Graupel und Böen
-bis 45 KT, über See bis 55 KT. Vereinzelt können kurzlebige Gewitter,
-insbesondere über der Nordsee und dem angrenzenden Küstengebiet nicht
-ausgeschlossen werden.
-Südlich der konvektiven Niederschläge zeigen sich zunächst SCT/BKN
-CU/SC mit Basis in 3000-4500 FT AMSL. Im Tagesverlauf können sich
-daraus auch hier vereinzelt TCU/CB mit Tops um FL120 entwickeln. Dann
-kommt es zeit- und gebietsweise zu leichten bis mäßigen Schauern. Die
-Begleiterscheinungen fallen im Binnenland schwächer aus.
-In kräftiger ausfallenden Schauern kann im gesamten Gebiet zeitweise
-die Wolkenuntergrenze auf 1000-2000 FT absinken.
+Über der Südhälfte zeigen sich meist FEW/SCT, über der Nordhälfte
+SCT/BKN CU mit Basis bei 3000-4000 FT AMSL und Tops bei 4500 FT
+AMSL-FL065.
 
-Ab dem Nachmittag lässt die Schauerneigung von Westen her langsam
-nach und die Bewölkung geht zunehmend in SCT/BKN CU in 3000-4000 FT
-AMSL über. Einzelne Schauer können jedoch bis zum Berichtsende über
-der Nordsee und dem angrenzenden Küstenbereich auftreten.
+Vor allem über der Nordsee entstehen daraus wiederholt ISOL CB mit
+Tops bei FL120-FL160. Diese bringen Schauer, die zum Teil mit
+Starkregen, Graupel und Böen bis 45 KT einhergehen. Vereinzelt ist
+auch ein kurzes Gewitter nicht ausgeschlossen. Des Weiteren sinken
+die Untergrenzen besonders in stärkeren Schauern und mit Graupel auf
+1000-2000 FT ab. Diese Schauer ziehen mit der kräftigen
+nordwestlichen Strömung über das Binnenland, vor allem nordöstlich
+der Linie Emsland-Harz, hinweg.
 
-In der ersten Nachthälfte zum Samstag kommt es im
-Südniedersächsischen Bergland zur Bildung einzelner BKN ST/SC Felder
-mit Untergrenzen um 1500-2500 FT AMSL. Die Obergrenzen liegen um
-FL055. Einzelne Kamm- und Gipfellagen können in Wolken liegen. Im
-übrigen Gebiet bleiben die Bedingungen weitgehend unverändert.
+Am Abend und in der ersten Nachthälfte lässt die Schaueraktivität von
+Südwesten langsam nach, während sie über der Nordsee und den
+angrenzenden Küstengebieten weiter anhält und sich in der zweiten
+Nachthälfte sogar wieder verstärkt. Besonders im Umfeld der Ostsee
+sind hingegen in der Nacht auch Auflockerungen nicht ausgeschlossen.
+
+Außerdem bilden sich ebenfalls in der zweiten Nachthälfte etwa
+südlich der Linie Dollart-Wendland stellenweise BKN ST/SC-Felder mit
+Untergrenzen in 300-800 FT AGL und Obergrenzen um 2500 FT AMSL.
+Örtlich sind die Berge in Wolken. Diese ST/SC-Felder beginnen am
+Vormittag allmählich anzuheben. Ansonsten bleiben die Bedingungen
+meist unverändert.
 
 Sichtweite:
-Meist 20-40 km, in Schauern auf 4-8 km, in Gewittern teils auf 2-3 km
+Vorherrschend 30-60 km, in Schauern meist auf 4-8 km, in kräftigeren
+Schauern oder in Verbindung mit Graupel teils auf 2-3 km
 zurückgehend.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 00-04:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 280/20KT  06C | 290/15KT  06C |
-1000FT | 290/25KT  05C | 300/25KT  06C |
-1500FT | 300/30KT  03C | 310/25KT  04C |
-2000FT | 300/35KT  02C | 310/25KT  03C |
-3000FT | 310/40KT M01C | 310/30KT M01C |
-5000FT | 310/40KT M04C | 310/30KT M03C |
-FL100  | 310/40KT M15C | 310/35KT M12C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 300/20KT  07C | 250/15KT  06C |
+1000FT | 300/30KT  05C | 280/20KT  07C |
+1500FT | 310/30KT  03C | 290/20KT  05C |
+2000FT | 310/35KT  02C | 300/20KT  04C |
+3000FT | 320/40KT M01C | 300/20KT M00C |
+5000FT | 320/40KT M04C | 300/25KT M03C |
+FL100  | 310/40KT M15C | 310/30KT M12C |
 
 GAFOR-Gebiete 05-10:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 270/20KT  04C | 270/15KT  05C |
-1000FT | 280/25KT  03C | 280/25KT  05C |
-1500FT | 300/35KT  03C | 300/25KT  04C |
-2000FT | 300/35KT  02C | 300/25KT  02C |
-3000FT | 310/30KT M00C | 300/25KT M01C |
-5000FT | 310/35KT M04C | 310/25KT M03C |
-FL100  | 310/35KT M15C | 310/30KT M11C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 280/20KT  08C | 250/15KT  04C |
+1000FT | 280/25KT  06C | 270/20KT  04C |
+1500FT | 290/30KT  04C | 290/20KT  03C |
+2000FT | 290/30KT  03C | 290/20KT  03C |
+3000FT | 290/30KT  00C | 290/20KT M01C |
+5000FT | 310/35KT M04C | 300/20KT M03C |
+FL100  | 320/30KT M14C | 330/25KT M09C |
 
 Turbulenz:
-Gebietsweise mäßig unterhalb von 2000-3000 FT AMSL. Außerdem in und
-in der Nähe von TCU und CB.
+Gebietsweise mäßig unterhalb von 2000-3000 FT AMSL, kommende Nacht
+über der Südhälfte nachlassend. Außerdem in und in der Nähe von CB.
 
 Vereisung:
-In der CU/SC-Bewölkung teils mäßig oberhalb der Nullgradgrenze bis
-5000 FT AMSL. Außerdem in TCU und CB.
+In Wolken teils mäßig oberhalb der Nullgradgrenze. Außerdem in CB.
 
 Nullgradgrenze:
-2500-3500 FT AMSL. Mit kräftigem Niederschlag kann die Nullgradgrenze
-lokal bis auf 1000 FT AMSL absinken.
+Meist bei 3000-3500 FT AMSL. Im kräftigen Niederschlag lokal auf
+Werte bei 1000 FT AMSL absinkend.
 
 Inversionen:
-Anfangs über Land regional schwache Bodeninversion unterhalb von 1500
-FT AMSL, nach Sonnenaufgang rasch auflösend. In der Nacht zum Samstag
-erneut ausbildent.
+Kommende Nacht über Land örtlich Bodeninversion unterhalb von
+800-1500 FT AGL, am Samstagmorgen nach Sonnenaufgang auflösend.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Schleswig  06.06 | 06.47 | 15.24 | 16.03
-Hannover  06.02 | 06.39 | 15.31 | 16.09
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Schleswig  15.24 | 16.03 | 06.08 | 06.49
+Hannover  15.31 | 16.09 | 06.04 | 06.41
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/SC
+Luftfahrtberatungszentrale Hamburg/Zi

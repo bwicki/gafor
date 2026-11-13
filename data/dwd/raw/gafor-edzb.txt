@@ -1,71 +1,72 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-977
-FBEU40 EDZB 130600
+439
+FBEU40 EDZB 131200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 13.11.2026, 06.00 UTC bis 14.11.2026, 03.00 UTC
+gültig vom 13.11.2026, 12.00 UTC bis 14.11.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Ein Tief zieht von der mittleren Ostsee nach Finnland ab, ein
-Hochdruckgebiet verlagert seinen Schwerpunkt von den Britischen
-Inseln nach Deutschland.
-Mit lebhafter West- bis Nordwestströmung fließt kühle, teils leicht
-labil geschichtete Meeresluft ein.
+Zwischen einem Tief über der mittleren Ostsee und einem Hoch über
+Westeuropa fließt mit nordwestlicher Strömung leicht labil
+geschichtete Meereskaltluft in die Region.
 
 Wettergeschehen:
-Am Freitagmorgen vielfach gering bewölkt, im Nordweststau der
-Mittelgebirge gebietsweise BKN ST mit Basis 1500 bis 2000 FT AMSL, in
-Mecklenburg-Vorpommern und Sachsen-Anhalt örtlich SCT CU/SC um 3000
-FT AMSL, eingelagert darin TCU mit Schauern, Tops um FL200.
+Am Nachmittag FEW/SCT CU mit Untergrenze in 2500 bis 3500 FT und
+Obergrenze in 4000 bis 5000 FT AMSL. Gebietsweise auch wolkenlos. In
+Mecklenburg-Vorpommern, in Berlin und Brandenburg und in der Altmark
+zeitweise leichte Schauer, teils mit Graupel aus SCT TCU/CB in 2000
+FT AMSL und TOPS in den südlichen Bereichen bei FL100 und in
+Mecklenburg-Vorpommern bis FL160. Im Norden können anfangs auch
+einzelne kurze Gewitter auftreten.
+Im Laufe des Nachmittags schwächt sich die Schauertätigkeit ab und
+endet am Abend vollständig. Bis dahin gehen die Obergrenzen der immer
+seltener werden TCU/CB auf FL070 bis FL100 zurück.
 
-Am Vormittag allgemein Bildung von SCT CU/SC mit Untergrenzen bei
-anfangs um 1500 FT AMSL, zum Mittag auf 2000 bis 3000 FT AMSL
-ansteigend. Daraus in Mecklenburg-Vorpommern sowie der Nordhälfte
-Sachsen-Anhalts und Brandenburgs Bildung lokaler TCU mit kurzen
-Schauern, Obergrenzen im Binnenland um FL150, an der Küste um FL180,
-hier auch kurze Gewitter möglich.
-In Sachsen und Thüringen SCT CU/SC um 3000 FT AMSL, Hochlagen der
-Mittelgebirge bis zum Mittag meist noch in Wolken.
+In den Mittelgebirgen herrschen den gesamten Tag über BKN SC/CU in
+2500 bis 3500 FT AMSL, so dass die Gipfellagen überwiegend in Wolken
+sind. Der Thüringer Wald wird von Südwesten, die sächsischen
+Mittelgebirge von Nordwesten her angestaut. So bleibt es auch am
+Abend, in der Nacht zum Samstag und am Samstagvormittag.
 
-Am Nachmittag Vorankommen der Schauer auch in den Süden
-Sachsen-Anhalts und Brandenburgs, in Sachsen und Thüringen bis zum
-Abend überwiegend niederschlagsfrei.
-
-In der Nacht zum Samstag teils gering bewölkt, teils SCT/BKN SC bei
-2000 bis 3000 FT AMSL, Mittelgebirge zum Teil in Wolken, in
-Sachsen-Anhalt und Mecklenburg auch in der Nacht einzelne Schauer aus
-eingelagerten TCU, sonst meist niederschlagsfrei.
+Im Tiefland am Abend gebietsweise noch FEW/SCT SC zwischen 2500 und
+3500 FT AMSL, teils auch wolkenlos. Im Lauf der Nacht geht diese
+Bewölkung weiter zurück und in Sachsen, Sachsen-Anhalt und Thüringen
+gibt es größere wolkenfreien Gebiete.
+Am Samstagmorgen wieder zunehmend BKN SC in mehreren Schichten
+zwischen 2000 FT und 6000 FT AMSL. An der Küste wieder einzelne TCU
+bis FL080 und leichte Regenschauer.
 
 Sichtweite:
-In der Nordhälfte verbreitet 30 bis 50 km, im Südosten anfangs noch
-etwas Dunst mit 4 bis 8 km, später auch hier meist 15 bis 30 km. Im
-Schauer kurzzeitige Reduktion auf 3 bis 5 km möglich.
+Verbreitet 30 bis 50 km, im Schauer vorübergehend 1 bis 8 km, je nach
+Mengenanteil fester Bestandteile.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 280/25KT  05C | 280/20KT  05C |
-1000FT | 280/30KT  03C | 280/25KT  04C |
-1500FT | 290/35KT  01C | 300/35KT  02C |
-2000FT | 290/35KT  01C | 300/35KT  02C |
-3000FT | 290/35KT M01C | 320/35KT M00C |
-5000FT | 300/40KT M04C | 310/40KT M04C |
-FL100  | 310/35KT M15C | 310/40KT M14C |
+AMSL  |  15 UTC  |  06 UTC  |
+ 500FT | 270/20KT  06C | 260/10KT  03C |
+1000FT | 270/30KT  05C | 280/25KT  03C |
+1500FT | 270/30KT  04C | 290/25KT  04C |
+2000FT | 270/35KT  03C | 290/20KT  04C |
+3000FT | 290/35KT M00C | 310/20KT  00C |
+5000FT | 310/40KT M04C | 320/20KT M04C |
+FL100  | 310/40KT M15C | 320/25KT M10C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 260/20KT  03C | 270/20KT  04C |
-1500FT | 290/30KT  02C | 290/25KT  04C |
-2000FT | 300/30KT  02C | 300/30KT  03C |
-3000FT | 310/35KT M01C | 310/30KT M01C |
-5000FT | 310/30KT M03C | 310/25KT M04C |
-FL100  | 300/25KT M14C | 310/30KT M12C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 270/20KT  06C | 260/15KT  03C |
+1500FT | 280/25KT  04C | 280/15KT  03C |
+2000FT | 280/30KT  03C | 290/15KT  02C |
+3000FT | 290/30KT M00C | 300/15KT M01C |
+5000FT | 300/30KT M04C | 310/15KT M03C |
+FL100  | 310/30KT M13C | 310/20KT M09C |
 
 Turbulenz:
-An der Küste leicht bis mäßig unterhalb 3000 FT AMSL, dazu in TCU/CB.
+Heute tagsüber verbreitet leicht unterhalb von 5000 FT. An der Küste
+und in Schauernähe bis mäßig unterhalb 3000 FT AMSL. Am Abend
+nachlassende Turbulenz.
 
 Vereisung:
 Mäßig in TCU und teils in kompakterem CU/SC.
@@ -76,12 +77,13 @@ Bei 2500 bis 3500 FT AMSL
 Inversionen:
 Nicht signifikant.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Berlin  05.47 | 06.23 | 15.16 | 15.54
-Leipzig  05.49 | 06.25 | 15.25 | 16.00
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Berlin  15.16 | 15.54  | 05.46 | 06.25
+Leipzig  15.25 | 16.00  | 05.51 | 06.27
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale Berlin/sae
+Luftfahrtberatungszentrale Berlin/Oe
