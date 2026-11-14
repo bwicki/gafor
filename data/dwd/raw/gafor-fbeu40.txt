@@ -8,7 +8,7 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 00  Deutsche Bucht  O ISOL SHRA  O ISOL SHRA  O
 
-01  Ostfriesland  O  O  O
+01  Ostfriesland  O  O  M2
 
 02  Nordfriesland-Dithmarschen  O ISOL SHRA  O ISOL SHRA  O
 
@@ -20,11 +20,11 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 06  Lüneburger Heide  O  O  O
 
-07  Westliches Niedersachsen  X ISOL FG  M5 ISOL FG  D4
+07  Westliches Niedersachsen  X ISOL FG  M5 ISOL FG  M5
 
 08  Hannover und Braunschweig  O  O  O
 
-09  Teutoburger Wald  X ISOL FG  D1 ISOL FG  O
+09  Teutoburger Wald  X ISOL FG  D1 ISOL FG  D1
 
 10  Weser-Leine-Bergland  M2 ISOL FG  D1  O
 
@@ -134,17 +134,17 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 55  Kocher-Jagst-Gebiet und Frankenhöhe  C  C  C
 
-56  Mittelfranken  O ISOL FZFG  C  C
+56  Mittelfranken  O ISOL FZFG  C  D1 ISOL FG
 
 57  Oberfranken  D3 ISOL FZFG  X OCNL FZFG  X OCNL FZFG
 
-58  Frankenwald und Fichtelgebirge  O  C  C
+58  Frankenwald und Fichtelgebirge  O  C  O
 
 62  Schwäbische Alb  C  C  C
 
 63  Fränkische Alb  D3 ISOL FZFG  D1 ISOL FG  D1 ISOL FG
 
-64  Oberpfälzer Wald  X OCNL FZFG  M5 ISOL FZFG  O
+64  Oberpfälzer Wald  X OCNL FZFG  M5 ISOL FZFG  M2 ISOL FZFG
 
 71  Bodenseeraum  C  C  C
 
@@ -152,7 +152,7 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 73  Westliche Donauniederung  M6 OCNL FZFG  D3 ISOL FG  D1 ISOL FG
 
-74  Südbayerisches Hügelland  C ISOL FG  C  C
+74  Südbayerisches Hügelland  C ISOL FG  C  O
 
 75  Östliche Donau- und Naabniederung  X OCNL FZFG  D3 ISOL FG  D3 ISOL FG
 
