@@ -130,15 +130,15 @@ GAFOR Bereich LBZ Muenchen 18.11.2026
 
 Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
-54  Mainfranken und Nördliches Unterfranken  D1 ISOL TSRA  O ISOL TSRA  O ISOL SHRA
+54  Mainfranken und Nördliches Unterfranken  D1 ISOL TSRA  O ISOL TSRA  O ISOL TSRA
 
-55  Kocher-Jagst-Gebiet und Frankenhöhe  O ISOL TSRA  O ISOL TSRA  O ISOL SHRA
+55  Kocher-Jagst-Gebiet und Frankenhöhe  O ISOL TSRA  O ISOL TSRA  D1 ISOL TSRA
 
-56  Mittelfranken  O ISOL TSRA  O ISOL TSRA  O ISOL SHRA
+56  Mittelfranken  O ISOL TSRA  O ISOL TSRA  O ISOL TSRA
 
-57  Oberfranken  O ISOL TSRA  O ISOL TSRA  O ISOL SHRA
+57  Oberfranken  O ISOL TSRA  O ISOL TSRA  O ISOL TSRA
 
-58  Frankenwald und Fichtelgebirge  D1 ISOL SHRA  D1 ISOL SHRA  D1 ISOL SHRA
+58  Frankenwald und Fichtelgebirge  D1 ISOL SHRA  D1 ISOL SHRA  D1 ISOL TSRA
 
 62  Schwäbische Alb  O ISOL TSRA  O ISOL TSRA  O ISOL SHRA
 
