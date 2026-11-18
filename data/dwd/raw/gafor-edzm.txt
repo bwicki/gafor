@@ -1,90 +1,69 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-450
-FBEU40 EDZM 171800
+690
+FBEU40 EDZM 180600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 17.11.2026, 18.00 UTC bis 18.11.2026, 15.00 UTC
+gültig vom 18.11.2026, 06.00 UTC bis 19.11.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
-Deutschland liegt in einer lebhaften Südwestströmung mit der
-wolkenreiche und milde Luft herangeführt wird. In der Nacht greift
-eine Kaltfront von Westen her über, die bis zum Mittwochmorgen
-Süddeutschland ostwärts überquert. Rückseitig wird mit weiterhin
-lebhafter Strömung labil geschichtete kühlere Luft herangeführt.
+Auf der Rückseite einer nach Osten abgezogenen Kaltfront liegt
+Süddeutschland im lebhaften Zufluss labiler Meeresluft aus Westen.
 
 Wettergeschehen:
-Besonders nördlich der Donau hält sich SCT, in Staulagen auch BKN SC
-bei 3500 bis 4500 FT AMSL. Obergrenze im Westen bei FL060 und FL100
-im Osten. Im Süden zieht nur selten FEW/SCT SC Bei 5000 FT AMSL
-durch, Obergrenze bei FL070. Darüber im gesamten Bereich SCT/BKN CI
-oberhalb FL200. Nur anfangs sind im Osten noch einzelne TCU mit
-leichten Schauern eingelagert, die rasch abziehen.
+In einer lebhaften Westströmung ziehen verbreitet SCT/BKN SC - Felder
+nach Osten. Untergrenze meist zwischen 3000 und 4000 FT AMSL,
+Obergrenze zwischen FL050 und FL070. Südlich einer Linie Memmingen -
+München - Passau wie auch im nördlichen Franken sind TCUs mit Tops
+bis etwa FL140 eingelagert, die mit Schauern rasch nach Osten ziehen,
+sonst ist es niederschlagsfrei.
+Vormittags lassen die Schauer nach, es ziehen dann meist SCT AC bei
+FL060 bis 070 durch, Obergrenze um FL100. Darunter bilden sich bis
+Mittag FEW/SCT CU bei 4000 FT AMSL, die über Mittag auf 4500 bis 5000
+FT AMSL ansteigen. Teils bilden sich nachmittags größere
+Wolkenlücken, im Norden Frankens verdichten ich die Quellwolken aber
+oft zu BKN SC. Ab Mittag entwickeln sich von Westen her erneut TCUs
+mit Schauern, Tops um FL150.
+Abends und in der ersten Nachthälfte zum Donnerstag trocknen die
+Schauer rasch ab, die Quellbewölkung trocknet ab. Meist bleiben dann
+nur STC SC um 5000 FT AMSL übrig.
 
-Im Laufe der 1. Nachthälfte löst sich der SC meist wieder auf. Nur
-nördlich des Mains bleibt er erhalten. Gleichzeitig ziehen aber in
-der Westhälfte wieder dichter werdende hohe Wolken auf, die sich bis
-zum Tagesende westlich einer Linie Bayreuth-Kempten zu BKN SC/AC/CI
-in 4000 bis 5000 FT AMSL verdichten. Obergrenze in FL150-180. Es
-setzt leichter bis mäßiger Regen ein, der durch zusätzlich
-eingelagerte TCU/CB schauerartig verstärkt wird. Einzelne kurze
-Kaltluftgewitter können nicht ausgeschlossen werden. Tops können bis
-FL290 reichen.
-
-In der 2. Nachthälfte erreicht der Niederschlag dann auch den
-Südosten. Im Westen läßt der Niederschlag teils schon nach. Die
-Bewölkung schichtet aus und geht in SCT/BKN SC in 4000 bis 5000 FT
-AMSL über, in die aber weiterhin einzelne TCU mit leichten Schauern
-eingelagert sein können. Bis zum Mittwochmorgen verlagert sich die
-Front in den Südosten Bayerns und den Alpenrand. Nördlich des Mains
-wird die Bewölkung rasch wieder kompakter mit BKN/OVC SC/AC in 4000
-FT AMSL, Obergrenze in FL110.
-di
-Im Laufe des Mittwochvormittags läßt der Niederschlag an den Alpen
-nach, die Bewölkung geht ins SCT/BKN SC/AC bei FL070 über, Obergrenze
-um FL110. Sonst werden die Schauer von Westen her bereits wieder
-häufiger und breiten sich ostwärts aus.
-
-Mit Erreichen der Front muss bereits wieder mit auflebendem
-Südwestwind und Böen von 35, im Bergland von 45-50 KT gerechnet
-werden, was morgens vorübergehend nachläßt, aber Mittwochvormittag
-erneut auflebt.
+Ab dem Vormittag muss verbreitet mit lebhaftem Südwestwind und Böen
+um 35, im Bergland von 45-50 KT gerechnet werden. Abends lässt der
+Bodenwind wieder nach.
 
 Sichtweite:
-30 bis 60 km. Im Regen 10 bis 20 km, bei eingelagerten Schauern oder
-Gewittern 3 bis 8 km.
+30 bis 60 km. In Schauern 3 bis 8 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  21 UTC  |  09 UTC  |
-1500FT | 220/20KT  11C | 230/20KT  09C |
-2000FT | 220/25KT  10C | 230/25KT  08C |
-3000FT | 250/40KT  08C | 250/40KT  04C |
-5000FT | 260/50KT  05C | 260/50KT  02C |
-FL100  | 260/50KT M05C | 270/50KT M08C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 230/20KT  08C | 250/20KT  08C |
+2000FT | 240/25KT  08C | 250/25KT  07C |
+3000FT | 250/40KT  04C | 260/40KT  04C |
+5000FT | 260/50KT  01C | 270/45KT  01C |
+FL100  | 270/45KT M08C | 280/45KT M09C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  21 UTC  |  09 UTC  |
-2000FT | 240/20KT  11C | 240/25KT  10C |
-3000FT | 260/40KT  09C | 250/35KT  06C |
-5000FT | 270/50KT  07C | 260/50KT  03C |
-FL100  | 260/40KT M04C | 270/50KT M08C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 240/25KT  10C | 250/25KT  08C |
+3000FT | 250/40KT  06C | 250/40KT  05C |
+5000FT | 270/50KT  03C | 270/45KT  03C |
+FL100  | 270/50KT M08C | 270/45KT M09C |
 
 Turbulenz:
 Oft mäßige bis starke Turbulenz unterhalb FL060. In Verbindung mit
-TCU/CB mäßig bis stark in allen Höhen. In den Alpen bis etwa FL120
+TCU mäßig bis stark in allen Höhen. In den Alpen bis etwa FL120
 hinauf mäßig bis starke Turbulenz.
 
 Vereisung:
-In Verbindung mit TCU/CB mäßig bis stark in allen Höhen. Nachts im
-Kaltfrontbereich mäßig zwischen FL080 und FL180.
+In Verbindung mit TCU mäßig bis stark in allen Höhen.
 
 Nullgradgrenze:
-Zwischen FL070 im nördlichen Franken und FL080 an den Alpen. Nachts
-absinkend, am Mittwochmorgen am Alpenrand bei FL060, am Main bei 5500
-FT AMSL.
+Am Alpenrand bei FL060, am Main bei 5500 FT AMSL. Im Laufe des Tages
+am Alpenrand auf FL070 ansteigend.
 
 Inversionen:
 Keine
@@ -92,10 +71,9 @@ Keine
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Nürnberg  05.56 | 06.31 | 15.30 | 16.05
 München  05.49 | 06.24 | 15.31 | 16.05
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 18.11.2026 um 05.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale München/La
+Luftfahrtberatungszentrale München/bq
