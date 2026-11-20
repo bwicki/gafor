@@ -76,13 +76,13 @@ GAFOR Bereich RWZ Essen 20.11.2026
 
 Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
-31  Niederrheinisches Tiefland  X OCNL RA  M5 ISOL RA  D4
+31  Niederrheinisches Tiefland  X OCNL RA  M5 ISOL RA  M5
 
-32  Münsterland  M2 ISOL DZRA  D1  O
+32  Münsterland  D1 ISOL DZRA  O  O ISOL FG
 
-33  Ruhrgebiet und Ostwestfalen  X OCNL RA  M5 ISOL RADZ  D4
+33  Ruhrgebiet und Ostwestfalen  X OCNL RA  X ISOL RADZ  M5
 
-34  Niederrheinische Bucht  M5 OCNL RA  M5 OCNL RA  M5 ISOL RA
+34  Niederrheinische Bucht  M5 OCNL RA  X OCNL RA  M5 ISOL RA
 
 35  Bergisches Land  X OCNL RA  X OCNL RA  X ISOL RADZ
 
@@ -92,7 +92,7 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 38  Neuwieder Becken  O FRQ RA  D1 OCNL RA  M2 OCNL RA
 
-39  Westerwald  X OCNL RA  X FRQ RA  X OCNL RA
+39  Westerwald  X OCNL RA  X OCNL RA  X OCNL RA
 
 GAFOR-Einstufung FWZ Frankfurt
 
@@ -100,13 +100,13 @@ GAFOR Bereich FWZ Frankfurt 20.11.2026
 
 Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
-41  Hunsrück  X OCNL SHRA  M2 OCNL SHRA  M2 OCNL SHRA
+41  Hunsrück  M2 OCNL SHRA  M2 OCNL SHRA  M2 OCNL SHRA
 
 42  Taunus  M2 OCNL SHRA  M2 OCNL SHRA  M2 OCNL SHRA
 
-43  Nordhessisches Bergland und Vogelsberg  X OCNL SHRA  X OCNL SHRA  M2 OCNL SHRA
+43  Nordhessisches Bergland und Vogelsberg  M2 OCNL SHRA  M2 OCNL SHRA  M2 OCNL SHRA
 
-44  Rheinpfalz und Saarland  X OCNL SHRA  M2 OCNL SHRA  M2 OCNL SHRA
+44  Rheinpfalz und Saarland  D1 OCNL SHRA  D1 OCNL SHRA  M2 OCNL SHRA
 
 45  Rhein-Main-Gebiet und Wetterau  D1 OCNL SHRA  D1 OCNL SHRA  D1 OCNL SHRA
 
@@ -118,9 +118,9 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 51  Mittlerer Oberrheingraben  O OCNL SHRA  O OCNL SHRA  O OCNL SHRA
 
-52  Kraichgau  O OCNL SHRA  O OCNL SHRA  O OCNL SHRA
+52  Kraichgau  M2 OCNL SHRA  M2 OCNL SHRA  M2 OCNL SHRA
 
-53  Oberer und mittlerer Neckarraum  O OCNL SHRA  O OCNL SHRA  O OCNL SHRA
+53  Oberer und mittlerer Neckarraum  D1 OCNL SHRA  D1 OCNL SHRA  D1 OCNL SHRA
 
 61  Schwarzwald  X OCNL SHRA  X OCNL SHRA  X OCNL SHRA
 
@@ -134,7 +134,7 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 55  Kocher-Jagst-Gebiet und Frankenhöhe  D1 ISOL SHRA  D1 ISOL RA  M5 FRQ RA
 
-56  Mittelfranken  M2 ISOL SHRA  D1 OCNL RA  D4 OCNL RA
+56  Mittelfranken  D1 ISOL SHRA  D1 OCNL RA  D4 OCNL RA
 
 57  Oberfranken  M2 OCNL SHRA  M5 FRQ RA  M5 FRQ RA
 
