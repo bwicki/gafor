@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-082
-FBEU40 EDZE 221800
+216
+FBEU40 EDZE 231200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 22.11.2026, 18.00 UTC bis 23.11.2026, 15.00 UTC
+gültig vom 23.11.2026, 12.00 UTC bis 24.11.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
@@ -14,74 +14,75 @@ Hochdruckeinfluss. Dabei bestimmt bei schwachen Winden eine feuchte
 Grundschicht das Wettergeschehen, die tagsüber teilweise abtrocknet.
 
 Wettergeschehen:
-Vor allem vom Ruhrgebiet bis an den Niederrhein und in Teilen des
-Berglandes BKN ST/SC mit Untergrenzen in 500-1500 FT AGL und
-Obergrenzen bis 3000 FT AMSL, allmählich nach Südwesten ziehend. Im
-Süden auch dichterer BKN CI/CS oberhalb FL245. Sonst nach
-CU-Auflösung teils SKC, örtlich aber wieder rasche Nebelbildung,
-insbesondere im Münsterland.
+Im Münsterland, Ruhrgebiet sowie im nördlichen Niederrhein meist SKC.
+Südlich einer Linie EDDL-EDLW-EDLP OVC ST unterhalb 500 FT AGL und
+häufig Nebel, teils gefrierend. Oberhalb des ST/Nebels SKC.
 
-In der Nacht Durchzug des tiefen ST Richtung Südwesten, dahinter
-Aufklaren, teils SKC. Örtlich erneute Bildung dichter Nebelfelder, am
-Nordrand des Berglandes auch höher reichend mit OVC ST bis 3000 FT
-AMSL. Bis zum Vormittag meist Zweiteilung der Bedingungen mit CAVOK
-im höheren Bergland und teils nur flachen, teils auch dichten Feldern
-aus ST/Nebel in Tallagen und im Tiefland. Oberhalb des ST/Nebels SKC.
+Am Nachmittag vor allem in der Niederrheinischen Bucht sowie im
+Bergland weiterhin zäher Nebel und Hochnebel. Nach Norden zu SKC,
+örtlich flacher FEW CU/SC um 2000 FT AMSL.
 
-Am Mittag und Nachmittag allmähliche Auflösung der Nebel- und
-Hochnebel, Reste eventuell noch vorhanden. Sonst zunehmend SKC,
-örtlich bildet sich flacher FEW CU um 2000 FT AMSL.
+Am Abend weiterhin teils SKC, teils BKN/OVC ST mit Untergrenzen
+zwischen 100 und 500 FT AGL und Obergrenzen bis 2000 FT AMSL, im
+Bergland teils aufliegend. Oberhalb von 2000 FT AMSL SKC.
+Im Norden und Nordosten SCT/BKN CU/SC zwischen 2500 FT AMSL und
+FL065, teilweise Entwicklung zu TCU. Daraus meist geringer Schneefall
+möglich, im weiteren Verlauf nach Südosten abziehend.
+
+In der Nacht Ausbreitung des Nebels sowie des ST. Teilweise weiterhin
+SKC. Im Vormittagsverlauf teils Auflösung des Nebels und ST, teils
+aber auch zäh.
 
 Sichtweite:
-Am Abend meist 10-30 km, unter ST 3-8 km. Örtlich rasche
-Nebelbildung. In der Nacht zum Montag Sichtrückgang auf 5-10 km,
-gebietsweise Dunst- oder Nebelbildung mit Sichtrückgang unter 3 km.
-Ab Montagvormittag zögerliche Besserung. Bis zum Nachmittag meist
-20-40 km.
+In weiten Teilen 10 bis 25 km. Gebietsweise Dunst oder Nebel mit
+Sichten unter 5 km, bei aufliegender Bewölkung und im dichten Nebel
+unter 1 km. In möglichen Niederschlägen im Nordosten zeitweise 3 bis
+8 km, evtl. auch darunter. In der Nacht Rückgang auf 10-20 km, im
+Nebel und ST 1-5 km. Am Dienstagvormittag teils Sichtbesserung,
+teilweise zäher Nebel.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 040/10KT  02C | 020/05KT  00C |
-1000FT | 050/15KT  02C | 050/05KT M00C |
-1500FT | 050/15KT  01C | 050/10KT M01C |
-2000FT | 050/15KT M01C | 050/10KT M02C |
-3000FT | 020/05KT M02C | 040/15KT M03C |
-5000FT | 030/10KT M04C | 040/20KT M05C |
-FL100  | 040/15KT M11C | 360/20KT M12C |
+AMSL  |  15 UTC  |  06 UTC  |
+ 500FT | 330/05KT  02C | 120/05KT  01C |
+1000FT | 340/05KT  01C | 130/05KT  02C |
+1500FT | 020/05KT M00C | 110/05KT  01C |
+2000FT | 030/10KT M01C | 100/05KT  00C |
+3000FT | 020/15KT M03C | 120/05KT M02C |
+5000FT | 020/15KT M05C | 080/05KT M05C |
+FL100  | 330/25KT M13C | 330/20KT M11C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 020/05KT  02C | 340/05KT M01C |
-1500FT | 040/10KT  01C | 040/05KT M02C |
-2000FT | 040/10KT M00C | 040/10KT M02C |
-3000FT | 030/05KT M02C | 040/15KT M03C |
-5000FT | 030/10KT M04C | 040/15KT M05C |
-FL100  | 030/15KT M12C | 360/20KT M12C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 330/05KT  02C | 080/05KT M04C |
+1500FT | 360/10KT  00C | 110/05KT M00C |
+2000FT | 360/10KT M01C | 110/05KT M00C |
+3000FT | 010/10KT M04C | 090/05KT M03C |
+5000FT | 020/15KT M06C | 060/05KT M06C |
+FL100  | 330/25KT M13C | 330/20KT M11C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-In dünnen SC-Feldern örtlich mäßig, ebenso in FZFG in der Nacht und
-morgen früh.
+Bodennah in FZFG/ST teils mäßig. Am Abend und in der Nacht unterhalb
+FL060-FL080 sowie in TCU mäßig.
 
 Nullgradgrenze:
-Am Abend im Norden 1500-2000 FT AMSL, im Süden um 2500 FT AMSL. In
-der Nacht zum Montag verbreitet SFC, bis zum Vormittag anhaltend. Bis
-zum Nachmittag auf 1500-2000 FT AMSL ansteigend.
+Im Dauernebel ganztags SFC, sonst 1500-2000 FT AMSL. Ab der Nacht zum
+Dienstag verbreitet SFC.
 
 Inversionen:
-Bildung einer Bodeninversion unterhalb 1000 FT AGL, ab dem Vormittag
-auflösend. Danach örtlich schwache Absinkinversion in 2000-3000 FT
-AMSL.
+Im Dauernebel Bodeninversion unterhalb 1000 FT AGL. In der Nacht
+Bodeninversion unterhalb von 1500 FT AGL, am Dienstagvormittag
+teilweise auflösend.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Düsseldorf  06.24 | 07.03 | 15.35 | 16.12
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Düsseldorf  15.35 | 16.12 | 06.26 | 07.04
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 23.11.2026 um 05.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Regionale Wetterberatungszentrale Essen/oh
+Regionale Wetterberatungszentrale Essen/jb
