@@ -1,95 +1,86 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-614
-FBEU40 EDZF 231200
+308
+FBEU40 EDZF 231800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 23.11.2026, 12.00 UTC bis 24.11.2026, 09.00 UTC
+gültig vom 23.11.2026, 18.00 UTC bis 24.11.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Bei schwachen Luftdruckgegensätzen ist in weiten Teilen leichter
-Hochdruckeinfluss bei bodennah feuchter Grundschicht
-wetterbestimmend. Nur im äußersten Süden Baden-Württembergs zeigt
-sich hochreichend feuchte und stabile Luft, die bis zur ersten
-Nachthälfte nach Süden abgedrängt wird.
-
-Anschließend ist im gesamten Gebiet Hochdruckeinfluss
-wetterbestimmend, teils mit feuchter Grundschicht.
+Bei schwachen Luftdruckgegensätzen ist Hochdruckeinfluss mit einer
+mäßig kalten und überwiegend trockenen Luftmasse wetterbestimmend.
+Vor allem im äußersten Süden Baden-Württembergs zeigt sich eine
+kompakte feuchte Grundschicht, die auch am Dienstag kaum abgebaut
+wird.
 
 Wettergeschehen:
-Nahezu im gesamten Vorhersagebereich flacher FEW/SCT SC in 2500-3000
-FT AMSL, in der Mitte örtlich wolkenlos. Über dem Hunsrück,
-Nordhessen und dem Norden Baden-Württembergs zeigen sich unterhalb
-der SC Bewölkung flache FEW/SCT ST-Bewölkung in 1000-1500 FT AMSL.
-Nur noch vereinzelt in wenigen Tallagen Nebel/gefrierender Nebel
-welcher sich bis zum Nachmittag auflösen
-sollte.
+Vor allem über der Mitte und dem Süden von Baden-Württemberg zeigt
+sich am Abend BKN/OVC ST/SC mit Basis zwischen 1500-2500 FT AMSL, die
+Obergrenzen liegen zwischen 4000 FT AMSL und FL060. Darunter anfangs
+Dunst der bereits im Laufe der ersten Nachthälfte in (gefrierenden)
+Nebel übergeht. Nördlich davon zeigt sich vor allem in Senken und
+Tallagen von Taunus und Hunsrück gefrierender Nebel. Dieser breitet
+sich im Laufe der Nacht auch in den Flussniederungen und Tallagen
+abseits davon aus.
 
-Dahingegen zeigt sich südlich von Stuttgart noch BKN/OVC SC mit
-Untergrenzen zwischen 1500-3000 FT AMSL und Tops bis FL100, darüber
-hohe Wolkenfelder. Nur sehr vereinzelt fällt noch leichter Regen, im
-Schwarzwald oberhalb von etwa 2500 FT AMSL auch Schnee, das Bergland
-liegt in Wolken. Im Rheintal, südlich von Straßburg
-bleibt der Dunst und örtlich Nebel oder gefrierender Nebel bestehen,
-bzw. geht in Hochnebel in 1000 FT AMSL über.
-
-Bis Mitte der ersten Nachthälfte zieht die höherreichende Bewölkung
-in Baden-Württemberg nach Süden ab.
-Es verbleibt BKN/OVC ST/SC mit Untergrenzen in 1500-2500 FT AMSL, mit
-Obergrenzen in FL060 und es ist niederschlagsfrei. Nachts bildet sich
-dann abermals Dunst und gefrierender Nebel, der sich im
-Vormittagsverlauf vielerorts wieder auflöst, in ungünstigen Tallagen
-aber auch ganztags halten kann.
+Im Laufe des Vormittages löst sich der gefrierende Nebel meist nur
+sehr zögerlich auf und geht dann in meist flachen ST in wenigen 100
+FT AGL mit Dunst über der sich zum Nachmittag rasch auflöst. Es ist
+dann verbreitet wolkenfrei. Lokal kann sich der tiefe ST, vor allem
+in der Wetterau und im Rhein-Main-Gebiet bis in den Nachmittag, im
+südlichen Rheingraben den ganzen Tag halten.
 
 Sichtweite:
-10-15 km, Im Niederschlag 3-8 km, im Schneefall 2-3 km, im Dunst 1-4
-km und im (gefrierendem) Nebel unter 1 km. Am Montagnachmittag teils
-20-30 km.
+20-30 km, im Dunst 1-5 km und im (gefrierendem) Nebel unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 110/05KT  02C | 330/05KT M04C |
-1500FT | 360/05KT M00C | 060/05KT M01C |
-2000FT | 350/05KT M01C | 040/05KT M01C |
-3000FT | 350/10KT M04C | 010/05KT M04C |
-5000FT | 360/15KT M06C | 020/10KT M07C |
-FL100  | 320/25KT M13C | 330/25KT M12C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 240/05KT M00C | 260/05KT M06C |
+1500FT | 260/05KT M01C | 160/05KT M02C |
+2000FT | 270/05KT M01C | 130/05KT M01C |
+3000FT | 340/05KT M03C | 090/05KT M03C |
+5000FT | 360/10KT M06C | 260/05KT M06C |
+FL100  | 320/30KT M14C | 320/10KT M10C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 040/15KT  01C | 050/10KT M01C |
-1500FT | 050/15KT M01C | 080/05KT M01C |
-2000FT | 060/15KT M02C | 090/05KT M02C |
-3000FT | 080/05KT M03C | 110/10KT M01C |
-5000FT | 330/05KT M03C | 110/05KT M02C |
-FL100  | 320/15KT M10C | 330/10KT M10C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 050/10KT  01C | 040/10KT M01C |
+1500FT | 070/10KT  00C | 120/05KT  01C |
+2000FT | 090/05KT M00C | 140/05KT  01C |
+3000FT | 200/05KT M03C | 170/05KT M00C |
+5000FT | 270/05KT M03C | 130/05KT M01C |
+FL100  | 320/15KT M11C | 350/10KT M08C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-Im Süden in dichter Bewölkung mäßig zwischen FZLVL und FL100, ab
-Mitte der ersten Nacht zwischen FZLVL und FL060.
+Im Süden in dichter Bewölkung mäßig zwischen FZLVL und FL060, zur
+zweiten Nachthälfte zwischen FZLVL und 4000 FT AMSL.
 
 Nullgradgrenze:
-Zwischen 1000-1500 FT AMSL, im Südlichen Baden-Württemberg bei 2500
-FT AMSL. Mitte der ersten Nachthälfte vielerorts wieder am Boden, im
-Süden Baden-Württembergs 1500-2000 FT AMSL.
+Am Abend zwischen 1000-2500 FT AMSL, die höheren Werte im Süden.
+Zusätzlich verbreitet unterkühlte Schicht zwischen Boden und etwa 500
+FT AGL. In der Nacht verbreitet am Boden, Richtung Breisgau um 2000
+FT AMSL. Nachfolgend über Baden-Württemberg, Rheinland-Pfalz und dem
+Saarland ansteigend. Dienstagnachmittag zwischen FL060-070, lokal
+leicht unterkühlt zwischen 2000-3500 FT AMSL. In Hessen um 1500 FT
+AMSL.
 
 Inversionen:
 In der Nacht gebietsweise Ausbildung einer Bodeninversion unterhalb
 1200 FT AGL, am Vormittag wieder auflösend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Gießen  15.30 | 16.07 | 06.17 | 06.54
-Karlsruhe  15.37 | 16.12 | 06.13 | 06.49
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Gießen  06.17 | 06.54 | 15.29 | 16.05
+Karlsruhe  06.13 | 06.49 | 15.36 | 16.11
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 24.11.2026 um 05.00
+UTC
 
-Flugwetterzentrale Frankfurt/Le
+Flugwetterzentrale Frankfurt/CH

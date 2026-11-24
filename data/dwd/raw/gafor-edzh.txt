@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-179
-FBEU40 EDZH 231200
+311
+FBEU40 EDZH 231800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 23.11.2026, 12.00 UTC bis 24.11.2026, 09.00 UTC
+gültig vom 23.11.2026, 18.00 UTC bis 24.11.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
@@ -16,96 +16,83 @@ trockene Polarluft ein, die zeitweise durch einen Höhentrog
 labilisiert wird.
 
 Wettergeschehen:
-Verbreitet ist es wolkenlos. Über Nord- und Ostsee und den
-angrenzenden Küstenregionen hat sich SCT/BKN CU ausgebildet. Die
-Basis dieser Bewölkung liegt etwa bei 3000 bis 3500 FT AMSL, die
-Obergrenzen liegen zwischen FL070 und FL095. Lokal quillt dazwischen
-ISOL TCU/CB hervor, dessen Tops können auch FL120 erreichen. Daraus
-kommt es zu Schauern, die neben Regen auch Schnee mit sich führen
-können, insbesondere im Umfeld der Ostsee.
-Auch im Bergland zeigt sich vereinzelt FEW/SCT CU, hier zumeist mit
-Untergrenzen zwischen 1500 und 2500 FT AMSL, die Obergrenzen liegen
-nur knapp darüber. Teile des Eggegebirges und des südöstlichen
-Teutoburger Waldes sind durch BKN/OVC ST angestaut, dieser liegt am
-Gebirge auf, während die Obergrenzen 1500 FT AMSL erreichen.
-
-Im Verlauf des Nachmittages ändert sich zunächst nicht viel,
-allerdings zieht die SCT/BKN CU-Bewölkung von der Nordsee mitsamt
-Schauern Richtung Süden und erreicht zum Sonnenuntergang etwa die
-Linie Hannover-Emden. Auch hier nimmt dabei der Schneeanteil im
-Niederschlag über Land zu. Nach Sonnenuntergang ist bei vorheriger
-Auskühlung zeitweise auch gefrierender Regen nicht ausgeschlossen.
-
-In der ersten Nachthälfte ziehen die Schauer Richtung Süden ab, nur
-im Umfeld der Ostsee ist bis weiter mit Schneeregen oder
-Schneeschauern zu rechnen. Nach Abzug der Schauer und der SCT/BKN
-CU-Bewölkung ist es oftmals wolkenlos, besonders westlich der Weser
-und im Bergland bildet sich dann Nebel (verbreitet in gefrierender
-Form), Dunst und SCT/BKN ST mit Untergrenzen zwischen 100 und 600 FT
-AGL. Die Obergrenzen liegen bei etwa 1500 FT AMSL. In der zweiten
-Nachthälfte können sich Nebel, Dunst und SCT/BKN ST etwas nach Norden
-ausbreiten und dabei die Region um Hannover und Braunschweig
-erfassen.
-
-Am Morgen greifen Schnee- und Schneeregenschauer der Ostsee Richtung
-Süden aus und können dabei zeitweise den Osten der Lüneburger Heide
-beeinflussen. Zum Berichtsende lösen sich Nebel und SCT/BKN ST nur
-sehr zögerlich auf, verbreitet können sich beide Erscheinungen noch
-länger halten.
+Verbreitet ist es wolkenlos. Südwestlich der Weser-Aller-Linie sowie
+über dem östlichen Schleswig-Holstein samt Ostseeraum hält sich
+SCT/BKN CU/SC-Bewölkung mit Basis bei 3000-3500 FT AMSL und
+Obergrenzen zwischen FL070 im Südwesten und FL095 im Nordosten.
+Daraus kommt es zu Schauern, die neben Regen auch Schnee mit sich
+führen können, insbesondere im Umfeld der Ostsee und im Bergland.
+In der ersten Nachthälfte ziehen die Schauer über der Südwesthälfte
+des Bereichs südwärts ab, nur im Umfeld der Ostsee ist weiterhin mit
+Schneeregen oder Schneeschauern zu rechnen. Nach Abzug der Schauer
+samt zugehöriger Bewölkung ist es oftmals wolkenlos, besonders
+südwestlich etwa einer Linie Dollart-Fläming bildet sich im Laufe der
+zweiten Nachthälfte und in den Morgenstunden dann allerdings häufig
+Dunst und Nebel (verbreitet in gefrierender Form), der mit SCT/BKN
+ST-Bewölkung zwischen aufliegend und 200-500 FT AGL einhergeht.
+Gleichzeitig greifen am Morgen die Schnee- und Schneeregenschauer der
+Ostsee Richtung Süden aus und können dabei zeitweise den Osten der
+Lüneburger Heide beeinflussen. Im Laufe des Vormittags kommt die
+ST-Bewölkung samt Nebel noch etwas nordostwärts voran und beeinflusst
+zum Berichtsende noch einen Bereich von Ostfriesland und dem
+nördlichen Emsland bis zur Lüneburger Heide. Südwestlich davon löst
+sich die ST-Bewölkung samt Dunst und Nebel im Tagesverlauf zögerlich
+auf und geht in FEW ST-Bewölkung zwischen 500 und 1000 FT AGL über.
+Auch die Schneefälle im äußersten Osten lassen nach und die Bewölkung
+geht dort in FEW/SCT CU/SC-Bewölkung über. Im restlichen Bereich ist
+und bleibt es wolkenlos.
 
 Sichtweite:
-Zumeist zwischen 40 und 70 km, im Regen meist auf 5-15 km reduziert.
-Bei Schneeregen oder Schnee sinken die Sichtweiten im Niederschlag
-auf 1-3 km. Im Nebel oder Dunst treten auch Sichtweiten zwischen
-300-5000 m auf.
+Zumeist zwischen 40 und 70 km, im Regenschauer meist auf 5-15 km
+reduziert. Bei Schneeregen oder Schnee sinken die Sichtweiten im
+Niederschlag auf 1-3 km. Im Nebel oder Dunst treten auch Sichtweiten
+zwischen 300-4000 m auf.
 
 Höhenwind und -temperatur:
-GAFOR-Gebiete 00-04:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 330/15KT  01C | 340/10KT M01C |
-1000FT | 340/20KT  00C | 010/15KT  00C |
-1500FT | 350/20KT M02C | 010/10KT M01C |
-2000FT | 350/20KT M03C | 010/10KT M02C |
-3000FT | 360/25KT M06C | 360/10KT M05C |
-5000FT | 340/25KT M08C | 360/15KT M07C |
-FL100  | 360/25KT M19C | 360/15KT M14C |
+GAFOR-Gebiete 00 - 04:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 340/10KT M00C | 010/05KT M00C |
+1000FT | 360/15KT M00C | 030/05KT  00C |
+1500FT | 010/15KT M02C | 030/05KT M01C |
+2000FT | 010/15KT M03C | 020/05KT M02C |
+3000FT | 360/15KT M06C | 010/05KT M04C |
+5000FT | 360/20KT M07C | 020/10KT M06C |
+FL100  | 010/20KT M15C | 350/05KT M14C |
 
-GAFOR-Gebiete 05-10:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 290/10KT  02C | 290/10KT M00C |
-1000FT | 300/15KT  01C | 320/10KT  00C |
-1500FT | 320/20KT M01C | 320/15KT M01C |
-2000FT | 320/20KT M02C | 320/15KT M02C |
-3000FT | 330/25KT M04C | 320/20KT M04C |
-5000FT | 330/30KT M08C | 340/20KT M07C |
-FL100  | 320/30KT M16C | 350/20KT M14C |
+GAFOR-Gebiete 05 - 10:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 300/10KT  01C | 250/05KT M01C |
+1000FT | 320/15KT  01C | 290/05KT M01C |
+1500FT | 330/15KT M01C | 350/05KT M02C |
+2000FT | 330/15KT M02C | 350/05KT M03C |
+3000FT | 330/20KT M04C | 350/05KT M04C |
+5000FT | 330/20KT M08C | 010/05KT M06C |
+FL100  | 360/20KT M17C | 340/10KT M13C |
 
 Turbulenz:
-Im TCU/CB mäßig bis stark.
+In der vorhandenen Bewölkung teils mäßig, sonst keine signifikante.
 
 Vereisung:
-Mäßig im gefrierenden Nebel. Außerdem im SCT/BKN CU zwischen 3500 FT
-AMSL bis FL090. Im TCU/CB mäßig bis stark. Im Flugniveau im Bereich
-des Niederschlags bei Schneeanteilen teils auch mäßig unterhalb der
-Nullgradgrenze. Falls gefrierender Regen auftritt ist auch starke
-Vereisung möglich.
+Mäßig im gefrierenden Nebel, außerdem in CU/SC-Bewölkung bis FL090.
+Im Flugniveau im Bereich des Niederschlags bei Schneeanteilen teils
+auch mäßig bis stark.
 
 Nullgradgrenze:
 Im Westen bei 1000-1500 FT AMSL, im Osten zwischen 500 und 1000 FT
-AMSL In der Nacht verbreitet zum Boden absinkend.
+AMSL, in der Nacht verbreitet zum Boden absinkend.
 
 Inversionen:
 Teils schwache Absinkinversion bei FL065-FL090, mit Aufzug der
 Schauer abschwächend. Des Weiteren über Land Ausbildung einer
 Bodeninversion unterhalb von 1500 FT AMSL.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Schleswig  15.09 | 15.50 | 06.26 | 07.08
-Hannover  15.18 | 15.57 | 06.17 | 06.58
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Schleswig  06.26 | 07.08 | 15.08 | 15.50
+Hannover  06.17 | 06.58 | 15.17 | 15.56
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 24.11.2026 um 05.00
+UTC
 
-Luftfahrtberatungszentrale Hamburg/VW
+Luftfahrtberatungszentrale Hamburg/Ku

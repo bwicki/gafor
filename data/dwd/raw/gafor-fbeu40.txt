@@ -80,17 +80,17 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 32  Münsterland  C ISOL FG  C ISOL FG  D4 ISOL FZFG
 
-33  Ruhrgebiet und Ostwestfalen  D4 ISOL FG  D1 ISOL FG  M5 ISOL FZFG
+33  Ruhrgebiet und Ostwestfalen  O ISOL FG  O ISOL FG  D4 ISOL FZFG
 
-34  Niederrheinische Bucht  X FRQ FZFG  X FRQ FZFG  X FRQ FZFG
+34  Niederrheinische Bucht  M8 OCNL FZFG  X OCNL FZFG  X OCNL FZFG
 
-35  Bergisches Land  M8 ISOL FZFG  M8 ISOL FZFG  X FRQ FZFG
+35  Bergisches Land  M8 ISOL FZFG  M8 ISOL FZFG  X OCNL FZFG
 
-36  Sauerland  M5 ISOL FZFG  X ISOL FZFG  X OCNL FZFG
+36  Sauerland  O ISOL FZFG  O ISOL FZFG  M7 OCNL FZFG
 
-37  Eifel  M8 ISOL FZFG  M8 ISOL FZFG  X OCNL FZFG
+37  Eifel  D1 ISOL FZFG  O ISOL FZFG  D4 OCNL FZFG
 
-38  Neuwieder Becken  M2 FRQ FZFG  M2 FRQ FZFG  X FRQ FZFG
+38  Neuwieder Becken  D1 ISOL FZFG  D1 ISOL FZFG  M8 OCNL FZFG
 
 39  Westerwald  O ISOL FZFG  D1 ISOL FZFG  M5 OCNL FZFG
 
