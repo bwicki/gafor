@@ -24,9 +24,9 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 08  Hannover und Braunschweig  D1  D1  O
 
-09  Teutoburger Wald  O  D1  O
+09  Teutoburger Wald  O  D1  D1
 
-10  Weser-Leine-Bergland  O  O  O
+10  Weser-Leine-Bergland  O  O  D1
 
 GAFOR-Einstufung LBZ Berlin
 
