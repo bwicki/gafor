@@ -1,99 +1,97 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-271
-FBEU40 EDZH 260600
+558
+FBEU40 EDZH 261200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 26.11.2026, 06.00 UTC bis 27.11.2026, 03.00 UTC
+gültig vom 26.11.2026, 12.00 UTC bis 27.11.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
-Zwischen hohem Luftdruck über Norwegen und einem Tief im nördlichen
-Mittelmeer wird mäßig kalte und trockene Kontinentalluft aus Osten
-nach Norddeutschland geführt. Ein Höhentief über der Ostsee
-labilisiert dabei die Luft etwas.
+Zwischen hohem Luftdruck über Norwegen und einem Tief über
+Norditalien fließt mit einer östlichen Strömung mäßig kalte Luft in
+den Vorhersagebereich. Diese Luftmasse ist im Norden leicht labil
+geschichtet.
 
 Wettergeschehen:
-Zu Beginn teils BKN/OVC SC-Bewölkung mit Untergrenzen in 2000-3000 FT
-AMSL und Obergrenzen in 3500-4500 FT AMSL, teils wolkenfrei. Über
-Schleswig-Holstein zeigt sich BKN/OVC ST/SC-Bewölkung mit
-Untergrenzen in 1000-1500 FT AMSL und Obergrenzen zwischen 5000 FT
-AMSL und FL070. Daraus fällt Schnee, teils auch Schneeregen,
-vereinzelt auch gefrierender Sprühregen. Mit dem Niederschlag sinken
-die Wolkenuntergrenzen stellenweise auf 600-1000 FT AGL ab. Diese
-Bedingungen weiten sich westwärts aus und beeinflussen bis zum
-Vormittag die Deutsche Bucht. In Niedersachsen bleibt es weiterhin
-niederschlagsfrei, dabei zeigt sich FEW/SCT SC um 3000 FT AMSL oder
-es ist wolkenfrei.
-Im Laufe des Tages gehen die Niederschläge im Norden allgemein in
-Regen über und die Wolkenuntergrenzen heben auf 1500-2000 FT AMSL an.
-Vereinzelt kann der Niederschlag aus ISOL TCU mit Tops bis FL090
-schauerartig verstärkt auftreten.
-Am Nachmittag und Abend hebt die Bewölkung im Norden langsam an, die
-Untergrenzen liegen dann meist zwischen 2500 und 4000 FT AMSL mit
-Obergrenzen um FL070. Daraus fällt weiterhin leichter Regen oder
-Schneeregen, lokal kann es zu gefrierendem Sprühregen kommen. Bei
-anhaltendem Regen sinkt die Untergrenze strichweise bis auf 1000 FT
-AMSL ab.
-Im Laufe der Nacht zeigt sich über weiten Teilen Schleswig-Holsteins
-und der Deutschen Bucht keine Veränderung der Bedingungen. In der
-Lüneburger Heide, sowie dem südlichen Bergland kann sich in der
-zweiten Nachthälfte gefrierender Nebel ausbilden, teils reift es aus.
+Über Niedersachsen meist FEW/SCT, gebietsweise auch BKN SC mit
+Untergrenzen bei 2000-3000 FT AMSL, Obergrenzen um 4000 FT AMSL,
+darüber ziehen im Westen SCT/BKN CI oberhalb von FL200 durch,
+stellenweise ist es auch wolkenlos.
+Über der Nordsee, Schleswig-Holstein und der Ostsee häufig BKN/OVC SC
+mit Untergrenzen in 1000-2000 FT AMSL und Obergrenzen um 5000 FT
+AMSL. Darin eingelagert sind ISOL TCU mit Tops bis FL100. Aus dieser
+Bewölkung fällt zeitweise schauerartiger Regen/Sprühregen oder
+Schneeregen, in dem die Untergrenzen zeitweise auf 400-800 FT AGL
+absinken. Diese Wetterbedingungen halten bis zum Freitagvormittag an.
+Im Laufe der Nacht und am Morgen muss örtlich auch mit gefrierendem
+Niederschlag gerechnet werden.
+
+Im Laufe der Nacht kann sich über Niedersachsen gebietsweise Dunst
+oder gefrierender Nebel bilden, sowie BKN/OVC ST mit Untergrenzen
+zwischen Boden und 200 FT AGL, Obergrenzen um 1000 FT AGL. In der
+zweiten Nachthälfte und am Morgen verdichtet sich die Bewölkung im
+äußersten Südosten Niedersachsens zu BKN/OVC SC/AC mit Untergrenzen
+bei 1500-25000 FT AMSL, Obergrenzen bis FL120. Aus dieser Bewölkung
+kann etwas Schnee oder Schneegriesel fallen.
+Am Vormittag lösen sich die Dunst-, Nebel- und ST-Felder langsam
+wieder auf.
 
 Sichtweite:
-Zumeist zwischen 30 und 60 km, im Niederschlag je nach Art und
-Intensität auf 2-8 km zurückgehend. Im Nebel auf unter 1 km
-absinkend.
+30-60 km, im Niederschlag je nach Art und Intensität auf 1-5 km
+zurückgehend. In der kommenden Nacht im Dunst und Nebel Rückgang auf
+300-3000 m, am Vormittag langsam auf 8-15 km verbessernd.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 00-04:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 060/15KT  01C | 070/10KT  03C |
-1000FT | 060/15KT M00C | 080/15KT  02C |
-1500FT | 080/20KT M01C | 090/20KT  00C |
-2000FT | 090/20KT M01C | 100/20KT M01C |
-3000FT | 090/15KT M04C | 100/20KT M04C |
-5000FT | 080/15KT M05C | 100/20KT M07C |
-FL100  | 070/20KT M14C | 080/30KT M12C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 060/15KT  02C | 060/10KT  03C |
+1000FT | 060/15KT  01C | 080/10KT  02C |
+1500FT | 070/20KT M00C | 080/15KT  00C |
+2000FT | 070/20KT M01C | 090/15KT M01C |
+3000FT | 080/15KT M03C | 090/15KT M04C |
+5000FT | 080/15KT M06C | 090/20KT M07C |
+FL100  | 080/30KT M12C | 090/30KT M12C |
 
 GAFOR-Gebiete 05-10:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 080/15KT M03C | 070/10KT M02C |
-1000FT | 090/25KT M04C | 090/15KT M02C |
-1500FT | 100/25KT M04C | 100/15KT M03C |
-2000FT | 100/25KT M04C | 100/20KT M04C |
-3000FT | 100/30KT M05C | 090/25KT M05C |
-5000FT | 090/35KT M05C | 080/25KT M08C |
-FL100  | 060/20KT M13C | 060/15KT M15C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 060/15KT  00C | 070/10KT M03C |
+1000FT | 070/20KT M01C | 080/15KT M04C |
+1500FT | 080/20KT M03C | 090/15KT M05C |
+2000FT | 090/20KT M04C | 090/15KT M06C |
+3000FT | 100/25KT M05C | 090/20KT M06C |
+5000FT | 090/25KT M06C | 090/25KT M08C |
+FL100  | 060/10KT M14C | 090/20KT M14C |
 
 Turbulenz:
-Westlich der Weser mäßige Turbulenz unterhalb 2000 FT AMSL, zum
-Nachmittag nachlassend.
+Im Westen Niedersachsens anfangs mäßig unterhalb von 2000 FT AMSL, im
+Laufe des Nachmittags nachlassend.
 
 Vereisung:
-Generell mäßig in Bewölkung oberhalb der Nullgradgrenze. Außerdem
-mäßig bei Schneeregen, teils auch stark in gefrierendem Sprühregen
-sowie in TCUs.
+Mäßig in Bewölkung oberhalb der Nullgradgrenze. Außerdem mäßig, teils
+stark im Schneeregen oder gefrierendem Regen/Sprühregen, sowie in
+TCU.
 
 Nullgradgrenze:
-Über der See in 500-1000 FT AMSL. Nördlich einer Linie Lübecker
-Bucht-Ostfriesische Inseln 1000-1500 FT AMSL, im Tagesverlauf auf
-1500-2000 FT AMSL ansteigend. Südlich der Linie im gesamten Zeitraum
-am Boden.
+Nördlich einer Linie Lübecker Bucht-Ostfriesische Inseln 1000-1500 FT
+AMSL, im Laufe der Nacht über Land teils zum Boden absinkend, am
+Vormittag wieder langsam anhebend. Südlich der Linie am Boden oder in
+Bodennähe.
 
 Inversionen:
-Über See schwache Absinkinversion zwischen 3000 FT und 4000 FT AMSL.
-Zudem in Niedersachsen lokal schwache Bodeninversion unterhalb von
-1000 FT AGL, welche sich bis zum Mittag auflöst und sich nach
-Sonnenuntergang erneut ausbildet.
+Über Niedersachsen bei 2500-4500 FT AMSL, im Norden zeitweise bei
+4000-6000 FT AMSL. Nach Sonnenuntergang über Land Bildung einer
+Bodeninversion unterhalb von 1000-1500 FT AMSL, die am Vormittag
+langsam anhebt.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Schleswig  06.30 | 07.11 | 15.06 | 15.49
-Hannover  06.21 | 07.01 | 15.15 | 15.55
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Schleswig  15.06 | 15.49 | 06.31 | 07.13
+Hannover  15.15 | 15.55 | 06.23 | 07.03
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/SC
+Luftfahrtberatungszentrale Hamburg/NI

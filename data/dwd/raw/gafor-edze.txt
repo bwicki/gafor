@@ -1,89 +1,87 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-668
-FBEU40 EDZE 260600
+738
+FBEU40 EDZE 261200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 26.11.2026, 06.00 UTC bis 27.11.2026, 03.00 UTC
+gültig vom 26.11.2026, 12.00 UTC bis 27.11.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
 Wetterlage und -entwicklung:
 Das Vorhersagegebiet befindet sich zwischen hohem Luftdruck über
 Skandinavien und tiefem Luftdruck über Italien in einer kalten
-östlichen Strömung. Dabei bestimmt allgemein eine relativ trockene,
-lediglich unter der Absinkinversion feuchte Luftmasse das
-Wettergeschehen.
+östlichen Strömung. Dabei bestimmt eine relativ trockene, lediglich
+unter der Absinkinversion feuchte Luftmasse das Wettergeschehen.
 
 Wettergeschehen:
-Vor allem in der Nordosthälfte verbreitet BKN SC mit Untergrenzen in
-2000-3000 FT AMSL und Obergrenzen um 4000 FT AMSL. Im Bergland
-gebietsweise BKN ST mit Untergrenzen in 400-800 FT AGL, im
-Hochsauerland zeitweise aufliegend. In der Südwesthälfte dagegen
-weniger Bewölkung, vor allem vom südlichen Niederrhein bis zur Kölner
-Bucht teils SKC.
-
-Am Vormittag und Mittag auch im Südwesten SCT/BKN SC in oben
-genannter Höhe, aber allmählich ansteigende Wolkenbasis und
-Wolkenobergrenze. Darüber zeitweise dünne CI oberhalb FL245.
-
-Am Nachmittag lockern die SC-Felder insbesondere im Tiefland und im
-Lee der östlichen Mittelgebirge auf, Untergrenzen heben auf 3000-4000
-FT AMSL an. Darüber sinkt der CI aus Nordwesten auf FL160-180 ab.
-
-Am Abend und in der Nacht zum Freitag lockert es aus Norden
-verbreitet auf, gebietsweise ist es wolkenlos. Niederschlagsfrei.
+Verbreitet SCT/BKN, im Münsterland oft FEW SC mit Untergrenzen in
+2000-3000 FT AMSL und Obergrenzen in 3500-4000 FT AMSL. Im Bergland
+gebietsweise BKN ST mit Untergrenzen in 400-800 FT AGL. Darüber
+zeitweise dünne CI oberhalb FL245, von Nordosten Durchzug von BKN CI
+bei FL150-FL170.
+Am Nachmittag lockern die SC-Felder von Nordosten her zu SKC auf,
+Untergrenzen heben auf 2500-3000 FT AMSL an.
+In der ersten Nachthälfte zum Freitag lockert es auch in der Eifel
+auf, dann herrscht kurzzeitig verbreitet SKC. In der zweiten
+Nachthälfte zieht in die Nordosthälfte neuer BKN/OVC ST/SC zwischen
+1500-2000 und 4000 FT AMSL herein, dessen Untergrenzen im Sauerland
+und im Münsterland auf 400-1000 FT AGL absinken. Zudem kann sich auch
+über den südlichen Mittelgebirgen kleinräumig OVC ST, teils
+aufliegend bilden.
+Freitagvormittag beginnt sich der ST von Ostwestfalen her aufzulösen
+und auch über den südwestlichen Mittelgebirgen setzt zögerlich
+Stratusauflösung ein.
+Niederschlagsfrei.
 
 Sichtweite:
-30-60 km. Im Bergland unter tiefem ST örtlich 2-10 km, bei
-aufliegender Bewölkung unter 500 m.
+20-40 km. Im Bergland unter tiefem ST örtlich 2-10 km.
 In der Nacht zum Freitag Sichtrückgang auf 10-30 km und lokal
-Dunstbildung.
+Dunstbildung, bei aufliegender Bewölkung über den Mittelgebirgen
+unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 060/10KT M02C | 070/10KT M02C |
-1000FT | 090/10KT M03C | 100/15KT M02C |
-1500FT | 100/15KT M05C | 120/15KT M04C |
-2000FT | 100/15KT M05C | 120/15KT M04C |
-3000FT | 110/15KT M04C | 120/10KT M05C |
-5000FT | 080/25KT M02C | 080/15KT M05C |
-FL100  | 030/15KT M06C | 020/10KT M10C |
+AMSL  |  15 UTC  |  06 UTC  |
+ 500FT | 050/10KT  00C | 080/10KT M03C |
+1000FT | 060/15KT M01C | 110/10KT M03C |
+1500FT | 090/15KT M02C | 130/10KT M04C |
+2000FT | 090/15KT M03C | 130/10KT M05C |
+3000FT | 100/15KT M06C | 100/10KT M07C |
+5000FT | 100/20KT M02C | 080/15KT M04C |
+FL100  | 020/15KT M08C | 040/15KT M12C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 100/10KT M02C | 080/05KT M04C |
-1500FT | 100/15KT M04C | 090/15KT M05C |
-2000FT | 100/15KT M05C | 100/20KT M06C |
-3000FT | 100/25KT M05C | 110/15KT M05C |
-5000FT | 080/15KT M02C | 080/15KT M04C |
-FL100  | 030/15KT M06C | 020/10KT M10C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 080/05KT  00C | 080/05KT M04C |
+1500FT | 080/10KT M02C | 100/10KT M05C |
+2000FT | 080/10KT M03C | 110/15KT M06C |
+3000FT | 080/15KT M06C | 120/10KT M07C |
+5000FT | 090/20KT M03C | 060/15KT M05C |
+FL100  | 020/15KT M08C | 030/20KT M13C |
 
 Turbulenz:
-Heute nicht signifikant. In der Nacht zum Freitag aus Westen mäßig
-oberhalb FL220.
+In der Nacht zum Freitag aus Westen mäßig oberhalb FL220, nach Osten
+verlagernd.
 
 Vereisung:
-Im SC/ST örtlich mäßig, mit den Auflockerungen im Tagesverlauf
-abschwächend.
+Im SC/ST örtlich mäßig, mit den Auflockerungen keine, in der zweiten
+Nachthälfte von Osten erneut vereinzelt mäßig im ST/SC unterhalb 4000
+FT AMSL.
 
 Nullgradgrenze:
-Verbreitet SFC, in der Eifel am Morgen darüber auch um 4000 FT AMSL.
 Am Mittag und Nachmittag im Tiefland kurzzeitig in 100-500 FT AGL,
-sonst Dauerfrost.
+sonst Dauerfrost und somit SFC.
 
 Inversionen:
-Am Morgen in 2000-4000 FT AMSL, tagsüber auf 3000-5000 FT AMSL
-ansteigend. In der Nacht zum Freitag abschwächend zwischen 2000 und
-3000 FT AMSL, darunter örtlich Bildung einer schwachen Bodeninversion
-unterhalb 1000 FT AGL.
+3000-4500 FT AMSL.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Düsseldorf  06.30 | 07.07 | 15.32 | 16.11
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Düsseldorf  15.32 | 16.11 | 06.31 | 07.09
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Regionale Wetterberatungszentrale Essen/oh
+Regionale Wetterberatungszentrale Essen/Hf
